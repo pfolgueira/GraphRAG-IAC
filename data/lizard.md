@@ -4,8 +4,6 @@ Most lizards are quadrupedal, running with a strong side-to-side motion. Some li
 Lizards make use of a variety of antipredator adaptations, including venom, camouflage, reflex bleeding, and the ability to sacrifice and regrow their tails.
 
 ## Anatomy
-
-
 ### Largest and smallest
 The adult length of species within the suborder ranges from a few centimeters for chameleons such as Brookesia micra and geckos such as Sphaerodactylus ariasae to nearly 3 m (10 ft) in the case of the largest living varanid lizard, the Komodo dragon. Most lizards are fairly small animals.
 
@@ -18,8 +16,6 @@ The tongue can be extended outside the mouth, and is often long. In the beaded l
 Three lineages, the geckos, anoles, and chameleons, have modified the scales under their toes to form adhesive pads, highly prominent in the first two groups. The pads are composed of millions of tiny setae (hair-like structures) which fit closely to the substrate to adhere using van der Waals forces; no liquid adhesive is needed. In addition, the toes of chameleons are divided into two opposed groups on each foot (zygodactyly), enabling them to perch on branches as birds do.
 
 ## Physiology
-
-
 ### Locomotion
 Aside from legless lizards, most lizards are quadrupedal and move using gaits with alternating movement of the right and left limbs with substantial body bending. This body bending prevents significant respiration during movement, limiting their endurance, in a mechanism called Carrier's constraint. Several species can run bipedally, and a few can prop themselves up on their hindlimbs and tail while stationary. Several small species such as those in the genus Draco  can glide: some can attain a distance of 60 metres (200 feet), losing 10 metres (33 feet) in height. Some species, like geckos and chameleons, adhere to vertical surfaces including glass and ceilings. Some species, like the common basilisk, can run across water.
 
@@ -50,8 +46,6 @@ Sex determination in lizards can be temperature-dependent. The temperature of th
 A significant component of aging in the painted dragon lizard Ctenophorus pictus is fading breeding colors.  By manipulating superoxide levels (using a superoxide dismutase mimetic) it was shown that this fading coloration is likely due to gradual loss with lizard age of an innate capacity for antioxidation due to increasing DNA damage.
 
 ## Behaviour
-
-
 ### Diurnality and thermoregulation
 The majority of lizard species are active during the day, though some are active at night, notably geckos. As ectotherms, lizards have a limited ability to regulate their body temperature, and must seek out and bask in sunlight to gain enough heat to become fully active. Thermoregulation behavior can be beneficial in the short term for lizards as it allows the ability to buffer environmental variation and endure climate warming.
 In high altitudes, the Podarcis hispaniscus responds to higher temperature with a darker dorsal coloration to prevent UV-radiation and background matching. Their thermoregulatory mechanisms also allow the lizard to maintain their ideal body temperature for optimal mobility.
@@ -69,8 +63,6 @@ Acoustic communication is less common in lizards. Hissing, a typical reptilian s
 Lizards are normally quick and agile to easily outrun attackers.
 
 ## Ecology
-
-
 ### Distribution and habitat
 Lizards are found worldwide, excluding the far north and Antarctica, and some islands. They can be found in elevations from sea level to 5,000 m (16,000 ft). They prefer warmer, tropical climates but are adaptable and can live in all but the most extreme environments. Lizards also exploit a number of habitats; most primarily live on the ground, but others may live in rocks, on trees, underground and even in water. The marine iguana is adapted for life in the sea.
 
@@ -96,15 +88,11 @@ Many lizards, including geckos and skinks, are capable of shedding their tails (
 Many lizards attempt to escape from danger by running to a place of safety; for example, wall lizards can run up walls and hide in holes or cracks. Horned lizards adopt differing defences for specific predators. They may play dead to deceive a predator that has caught them; attempt to outrun the rattlesnake, which does not pursue prey; but stay still, relying on their cryptic coloration, for Masticophis whip snakes which can catch even swift prey. If caught, some species such as the greater short-horned lizard puff themselves up, making their bodies hard for a narrow-mouthed predator like a whip snake to swallow. Finally, horned lizards can squirt blood at cat and dog predators from a pouch beneath its eyes, to a distance of about two metres (6.6 feet); the blood tastes foul to these attackers.
 
 ## Evolution
-
-
 ### Fossil history
 The closest living relatives of lizards are rhynchocephalians, a once diverse order of reptiles, of which is there is now only one living species, the tuatara of New Zealand. Some reptiles from the Early and Middle Triassic, like Sophineta and Megachirella, are suggested to be stem-group squamates, more closely related to modern lizards than rhynchocephalians, however, their position is disputed, with some studies recovering them as less closely related to squamates than rhynchocephalians are. The oldest undisputed lizards date to the Middle Jurassic, from remains found In Europe, Asia and North Africa. Lizard morphological and ecological diversity substantially increased over the course of the Cretaceous. In the Palaeogene, lizard body sizes in North America peaked during the middle of the period.
 Mosasaurs likely evolved from an extinct group of aquatic lizards known as aigialosaurs in the Early Cretaceous. Dolichosauridae is a family of Late Cretaceous aquatic varanoid lizards closely related to the mosasaurs.
 
 ### Phylogeny
-
-
 #### External
 The position of the lizards and other Squamata among the reptiles was studied using fossil evidence by Rainer Schoch and Hans-Dieter Sues in 2015. Lizards form about 60% of the extant non-avian reptiles.
 
@@ -119,8 +107,6 @@ In the 13th century, lizards were recognized in Europe as part of a broad catego
 Lizards have frequently evolved convergently, with multiple groups independently developing similar morphology and ecological niches. Anolis ecomorphs have become a model system in evolutionary biology for studying convergence. Limbs have been lost or reduced independently over two dozen times across lizard evolution, including in the Anniellidae, Anguidae, Cordylidae, Dibamidae, Gymnophthalmidae, Pygopodidae, and Scincidae; snakes are just the most famous and species-rich group of Squamata to have followed this path.
 
 ## Relationship with humans
-
-
 ### Interactions and uses by humans
 Most lizard species are harmless to humans. Only the largest lizard species, the Komodo dragon, which reaches 3.3 m (11 ft) in length and weighs up to 166 kg (366 lb), has been known to stalk, attack, and, on occasion, kill humans. An eight-year-old Indonesian boy died from blood loss after an attack in  2007.
 

@@ -23,16 +23,12 @@ Utah prairie dog, Cynomys parvidens
 About 14 other genera in subfamily
 
 ### Extant species
-
-
 ## Description
 Prairie dogs are stout-bodied rodents that, on average, are 30 to 40 cm (12 to 16 in) long, including the short tail, and weigh between 0.5 and 1.5 kilograms (1 and 3 lb). Sexual dimorphism in body mass in the prairie dog varies 105 to 136%  between the sexes. Among the species, black-tailed prairie dogs tend to be the least sexually dimorphic, and white-tailed prairie dogs tend to be the most sexually dimorphic. Sexual dimorphism peaks during weaning, when the females lose weight and the males start eating more, and is at its lowest when the females are pregnant, which is also when the males are depleted from breeding.
 Despite their name, a prairie dog skull has a condylobasal length of between 5.2 and 6.4 cm shorter than the skull of a canine or actual dog which is between 11.39 and 17.96 cm in length.
 The average lifespan of a prairie dog in the wild is 8 to 10 years.
 
 ## Ecology and behavior
-
-
 ### Diet
 Prairie dogs are chiefly herbivorous, although they occasionally eat insects. They feed primarily on grasses and small seeds. In the fall, they eat broadleaf forbs. In the winter, lactating and pregnant females supplement their diets with snow for extra water. They also will eat roots, seeds, fruit, buds, and grasses of various species. Black-tailed prairie dogs in South Dakota eat western bluegrass, blue grama, buffalo grass, six weeks fescue, and tumblegrass, while Gunnison's prairie dogs eat rabbit brush, tumbleweeds, dandelions, saltbush, and cacti in addition to buffalo grass and blue grama.  White-tailed prairie dogs have been observed to kill ground squirrels, a competing herbivore.
 

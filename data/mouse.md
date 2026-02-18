@@ -49,8 +49,6 @@ In nature, mice are largely herbivores, consuming any kind of fruit or grain fro
 Despite popular belief, most mice do not have a special appetite for cheese. Like many animals, they prefer sweet, high-calorie carbohydrates.  They will only eat cheese for lack of better options.
 
 ## Human use
-
-
 ### As experimental animals
 Mice are common experimental animals in laboratory research of biology and psychology fields primarily because they are mammals, and also because they share a high degree of homology with humans. They are the most commonly used mammalian model organism, more common than rats. The mouse genome has been sequenced, and virtually all mouse genes have human homologs. The mouse has approximately 2.7 billion base pairs and 20 pairs of chromosomes.
 They can also be manipulated in ways that are illegal with humans, although animal rights activists often object. A knockout mouse is a genetically modified mouse that has had one or more of its genes made inoperable through a gene knockout.  Experimental mouse model systems include mouse models of colorectal and intestinal cancer, mouse models of Down syndrome and mouse models of breast cancer metastasis.

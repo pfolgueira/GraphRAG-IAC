@@ -77,8 +77,6 @@ can create exceptionally large concentrations of sea lice; when exposed in river
 The risk of injury caused by underwater pile driving has been studied by Dr. Halvorsen and her co-workers. The study concluded that the fish are at risk of injury if the cumulative sound exposure level exceeds 210 dB relative to 1 μPa2 s.
 
 ## Wild fisheries
-
-
 ### Commercial
 As can be seen from the production chart, the global capture reported by different countries to the FAO of commercial wild salmon has remained fairly steady since 1990 at about one million tonnes per year. This is in contrast to farmed salmon (below) which has increased in the same period from about 0.6 million tonnes to well over two million tonnes.
 Nearly all captured wild salmon are Pacific salmon. The capture of wild Atlantic salmon has always been relatively small, and has declined steadily since 1990. In 2011 only 2,500 tonnes were reported. In contrast, about half of all farmed salmon are Atlantic salmon.
@@ -119,8 +117,6 @@ Historically, there has always been enough salmon, as traditional subsistence fi
 Black bears also rely on salmon as food. The leftovers the bears leave behind are considered important nutrients for the Canadian forest, such as the soil, trees and plants. In this sense, the salmon feed the forest and in return receive clean water and gravel in which to hatch and grow, sheltered from extremes of temperature and water flow in times of high and low rainfall. However, the condition of the salmon in Haida has been affected in recent decades. Due to logging and development, much of the salmon's habitat (i.e., Ain River) has been destroyed, resulting in the fish being close to endangered. For residents, this has resulted in limits on catches, which, in turn, has affected families' diets and cultural events such as feasts. Some of the salmon systems in danger include the Davidon, Naden, Mamim, and Mathers.
 
 ## Fishing
-
-
 ### History
 The salmon has long been at the heart of the culture and livelihood of coastal dwellers, which can be traced as far back as 5,000 years when archeologists discovered Nisqually tribe remnants. The original distribution of the genus Oncorhynchus covered the Pacific Rim coastline. History shows salmon used tributaries, rivers and estuaries without regard to jurisdiction for 18–22 million years. Baseline data is near impossible to recreate based on the inconsistent historical data, but there has been massive depletion since the 1900s. The Pacific Northwest once sprawled with native inhabitants who ensured little degradation was caused by their actions to salmon habitats. As animists, the indigenous people relied not only for salmon for food, but spiritual guidance. The role of the salmon spirit guided the people to respect ecological systems such as the rivers and tributaries the salmon used for spawning. Natives often used the entire fish and left little waste by turning the bladder into glue, and using bones for toys and skin for clothing and shoes. The original salmon ceremony, introduced by indigenous tribes on the Pacific coast, consisted of three major parts. First was the welcoming of the first catch, and then the cooking of it. Finally the bones were returned to the sea to induce hospitality so other salmon would give their lives to the people of that village. 
 Many tribes, such as the Yurok, had a taboo against harvesting the first fish that swam upriver in summer, but once they confirmed that the salmon run had returned in abundance they would begin to catch them in plentiful. The indigenous practices were guided by deep ecological wisdom, which was eradicated when Euro-American settlements began to be developed. Salmon have a much grander history than what is presently shown today. The salmon that once dominated the Pacific Ocean are now just a fraction in population and size. The Pacific salmon population is now less than 1–3% of what it was when Lewis and Clark arrived at the region. In his 1908 State of the Union address, U.S. President Theodore Roosevelt observed that the fisheries were in significant decline:
@@ -131,11 +127,7 @@ The Fraser River salmon population was affected by the 1914 slide caused by the 
 The origin of the word for "salmon" was one of the arguments about the location of the origin of the Indo-European languages.
 
 ### Commercial fishing
-
-
 ### Recreational fishing
-
-
 ## Mythology
 The salmon is an important creature in several strands of Celtic mythology and poetry, which often associated them with wisdom and venerability. In Irish folklore, fishermen associated salmon with fairies and thought it was unlucky to refer to them by name. In Irish mythology, a creature called the Salmon of Knowledge plays a key role in the tale The Boyhood Deeds of Fionn. In the tale, the Salmon will grant powers of knowledge to whoever eats it, and is sought by poet Finn Eces for seven years. Finally Finn Eces catches the fish and gives it to his young pupil, Fionn mac Cumhaill, to prepare it for him. However, Fionn burns his thumb on the salmon's juices, and he instinctively puts it in his mouth. In so doing, he inadvertently gains the Salmon's wisdom. Elsewhere in Irish mythology, the salmon is also one of the incarnations of both Tuan mac Cairill and Fintan mac Bóchra.
 Salmon also feature in Welsh mythology. In the prose tale Culhwch and Olwen, the Salmon of Llyn Llyw is the oldest animal in Britain, and the only creature who knows the location of Mabon ap Modron. After speaking to a string of other ancient animals who do not know his whereabouts, King Arthur's men Cai and Bedwyr are led to the Salmon of Llyn Llyw, who lets them ride its back to the walls of Mabon's prison in Gloucester.

@@ -29,7 +29,4 @@ There are broadly four feeding styles employed by the sandpipers, although many 
 Many sandpipers form monogamous pairs, but some sandpipers have female-only parental care, some male-only parental care, some sequential polyandry and other compete for the mate on the lek. Sandpipers lay three or four eggs into the nest, which is usually a vague depression or scrape in the open ground, scarcely lined with soft vegetation. In species where both parents incubate the eggs, females and males share their incubation duties in various ways both within and between species. In some pairs, parents exchange on the nest in the morning and in the evening so that their incubation rhythm follows a 24-hour day, in others each sex may sit on the nest continuously for up to 24 hours before it is exchanged by its partner. In species where only a single parent incubates the eggs, during the night the parent sits on the eggs nearly continuously and then during the warmest part of a day leaves the nest for short feeding bouts. Chicks hatch after about three weeks of incubation and are able to walk and forage within a few hours of hatching. A single parent or both parents guide and brood the chicks.
 
 ## Gallery
-
-
 ## Footnotes
-

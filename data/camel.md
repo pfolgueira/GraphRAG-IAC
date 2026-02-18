@@ -3,8 +3,6 @@ A camel (from Latin: camelus and Ancient Greek: κάμηλος (kamēlos) from A
 The word camel is also used informally in a wider sense, where the more correct term is "camelid", to include all seven species of the family Camelidae: the true camels (the above three species), along with the "New World" camelids: the llama, the alpaca, the guanaco, and the vicuña, which belong to the separate tribe Lamini. Camelids originated in North America during the Eocene, with the ancestor of modern camels, Paracamelus, migrating across the Bering land bridge into Asia during the late Miocene, around 6 million years ago.
 
 ## Taxonomy
-
-
 ### Extant species
 Three species are extant:
 
@@ -93,8 +91,6 @@ A 2005 report issued jointly by the Saudi Ministry of Health and the United Stat
 Camel meat is also occasionally found in Australian cuisine: for example, a camel lasagna is available in Alice Springs. Australia has exported camel meat, primarily to the Middle East but also to Europe and the US, for many years. The meat is very popular among East African Australians, such as Somalis, and other Australians have also been buying it. The feral nature of the animals means they produce a different type of meat to farmed camels in other parts of the world, and it is sought after because it is disease-free, and a unique genetic group. Demand is outstripping supply, and governments are being urged not to cull the camels, but redirect the cost of the cull into developing the market. Australia has seven camel dairies, which produce milk, cheese and skincare products in addition to meat.
 
 ### Religion
-
-
 #### Islam
 Muslims consider camel meat halal (Arabic: حلال, 'allowed'). However, according to some Islamic schools of thought, a state of impurity is brought on by the consumption of it. Consequently, these schools hold that Muslims must perform wudhu (ablution) before the next time they pray after eating camel meat. Also, some Islamic schools of thought consider it haram (Arabic: حرام, 'forbidden') for a Muslim to perform Salat in places where camels lie, as it is said to be a dwelling place of the Shaytan (Arabic: شيطان, 'Devil'). According to Abu Yusuf (d.798), the urine of camels may be used for medical treatment if necessary, but according to Abū Ḥanīfah, the drinking of camel urine is discouraged.
 Islamic texts contain several stories featuring camels. In the story of the people of Thamud, the prophet Salih miraculously brings forth a naqat (Arabic: ناقة, 'milch-camel') out of a rock. After Muhammad migrated from Mecca to Medina (the Hijrah), he allowed his she-camel to roam there; the location where the camel stopped to rest determined the location where he would build his house in Medina.

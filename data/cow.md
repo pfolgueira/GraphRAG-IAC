@@ -8,8 +8,6 @@ Around 10,500 years ago, taurine cattle were domesticated from wild aurochs prog
 The term cattle was borrowed from Anglo-Norman catel (replacing native Old English terms like kine, now considered archaic, poetic, or dialectal), itself from Medieval Latin capitāle 'principal sum of money, capital', itself derived in turn from Latin caput 'head'. Cattle originally meant movable personal property, especially livestock of any kind, as opposed to real property (the land, which also included wild or small free-roaming animals such as chickens—they were sold as part of the land). The word is a variant of chattel (a unit of personal property) and closely related to capital in the economic sense. The word cow came via Old English cū (plural cȳ), from Proto-Indo-European *gʷṓws (genitive *gʷéws) 'a bovine animal', cf. Persian: gâv, Sanskrit: gó. In older English sources such as the King James Version of the Bible, cattle often means livestock, as opposed to deer, which are wild.
 
 ## Characteristics
-
-
 ### Description
 Cattle are large artiodactyls, mammals with cloven hooves, meaning that they walk on two toes, the third and fourth digits. Like all bovid species, they can have horns, which are unbranched and are not shed annually. Coloration varies with breed; common colors are black, white, and red/brown, and some breeds are spotted or have mixed colors. Bulls are larger than cows of the same breed by up to a few hundred kilograms. British Hereford cows, for example, weigh 600–800 kg (1,300–1,800 lb), while the bulls weigh 1,000–1,200 kg (2,200–2,600 lb). Before 1790, beef cattle averaged only 160 kg (350 lb) net. Thereafter, weights climbed steadily.
 Cattle breeds vary widely in size; the tallest and heaviest is the Chianina, where a mature bull may be up to 1.8 m (5 ft 11 in) at the shoulder, and may reach 1,280 kg (2,820 lb) in weight.
@@ -32,8 +30,6 @@ A case of multi-purpose tool use has been documented, where a cow named Veronika
 Vision is the dominant sense; cattle obtain almost half of their information visually. Being prey animals, cattle evolved to look out for predators almost all around, with eyes that are on the sides of their head rather than the front. This gives them a field of view of 330°, but limits binocular vision (and therefore stereopsis) to some 30° to 50°, compared to 140° in humans. They are dichromatic, like most mammals. Cattle avoid bitter-tasting foods, selecting sweet foods for energy. Their sensitivity to sour-tasting foods helps them to maintain optimal ruminal pH. They seek out salty foods by taste and smell to maintain their electrolyte balance. Their hearing is better than that of horses, but worse at localising sounds than goats, and much worse than dogs or humans. They can distinguish between live and recorded human speech. Olfaction probably plays a large role in their social life, indicating social and reproductive status. Cattle can tell when other animals are stressed by smelling the alarm chemicals in their urine. Cattle can be trained to recognise conspecific individuals using olfaction only.
 
 ## Behavior
-
-
 ### Dominance hierarchy
 Cattle live in a dominance hierarchy. This is maintained in several ways. Cattle often engage in mock fights where they test each other's strength in a non-aggressive way. Licking is primarily performed by subordinates and received by dominant animals. Mounting is a playful behavior shown by calves of both sexes and by bulls and sometimes by cows in estrus, however, this is not a dominance related behavior as has been found in other species. Dominance-associated aggressiveness does not correlate with rank position, but is closely related to rank distance between individuals. The horns of cattle are used in mate selection. Horned cattle attempt to keep greater distances between themselves and have fewer physical interactions than hornless cattle, resulting in more stable social relationships. In calves, agonistic behavior becomes less frequent as space allowance increases, but not as group size changes, whereas in adults, the number of agonistic encounters increases with group size.
 Dominance relationships in semi-wild highland cattle are very firm, with few overt aggressive conflicts: most disputes are settled by agonistic (non-aggressive, competitive) behaviors with no physical contact between opponents, reducing the risk of injury. Dominance status depends on age and sex, with older animals usually dominant to young ones and males dominant to females. Young bulls gain superior dominance status over adult cows when they reach about 2 years of age.
@@ -53,8 +49,6 @@ Behavioral traits of cattle can be as heritable as some production traits, and o
 Quantitative trait loci have been found for a range of production and behavioral characteristics for both dairy and beef cattle.
 
 ## Evolution
-
-
 ### Phylogeny
 Cattle have played a key role in human history, having been domesticated since at least the early Neolithic age. Archaeozoological and genetic data indicate that cattle were first domesticated from wild aurochs (Bos primigenius) approximately 10,500 years ago. There were two major areas of domestication: one in central Anatolia, the Levant, and Western Iran, which gave rise to the taurine line, and a second in the area that is now Pakistan, which produced the indicine line. Modern mitochondrial DNA variation indicates the taurine line may have arisen from as few as 80 aurochs tamed in the upper reaches of Mesopotamia near the villages of Çayönü Tepesi, in what is now southeastern Turkey, and Dja'de el-Mughara, in what is now northern Syria.
 Although European cattle are largely descended from the taurine lineage, gene flow from African cattle (partially of indicine origin) contributed substantial genomic components to both southern European cattle breeds and their New World descendants. A study on 134 breeds showed that modern taurine cattle originated from Africa, Asia, North and South America, Australia, and Europe. Some researchers have suggested that African taurine cattle are derived from a third independent domestication from the North African aurochs. Whether there have been two or three domestications, European, African, and Asian cattle share much of their genomes, both through their species ancestry and through repeated migrations of livestock and genetic material between species, as shown in the diagram.
@@ -68,8 +62,6 @@ A group of taurine-type cattle exist in Africa; these represent either an indepe
 Feral cattle are those that have been allowed to go wild. Feral populations exist in many parts of the world, sometimes on small islands. Some, such as Amsterdam Island cattle, Chillingham cattle, and Aleutian wild cattle, have become sufficiently distinct to be described as breeds.
 
 ## Husbandry
-
-
 ### Practices
 Cattle are often raised by allowing herds to graze on the grasses of large tracts of rangeland. Raising cattle extensively in this manner allows the use of land that might be unsuitable for growing crops. The most common interactions with cattle involve daily feeding, cleaning and milking. Many routine husbandry practices involve ear tagging, dehorning, loading, medical operations, artificial insemination, vaccinations and hoof care, as well as training for agricultural shows and preparations. Around the world, Fulani husbandry rests on behavioural techniques, whereas in Europe, cattle are controlled primarily by physical means, such as fences. Breeders use cattle husbandry to reduce tuberculosis susceptibility by selective breeding and maintaining herd health to avoid concurrent disease.
 
@@ -96,8 +88,6 @@ Oxen are cattle trained as draft animals. Oxen can pull heavier loads and for a 
 Cattle are not often kept solely for hides, and they are usually a by-product of beef production. Hides are used mainly for leather products such as shoes. In 2012, India was the world's largest producer of cattle hides. Cattle hides account for around 65% of the world's leather production.
 
 ## Health
-
-
 ### Pests and diseases
 Cattle are subject to pests including arthropod parasites such as ticks (which can in turn transmit diseases caused by bacteria and protozoa), and diseases caused by pathogens including bacteria and viruses. Some viral diseases are spread by insects—i.e. bluetongue disease is spread by midges. Psoroptic mange is a disabling skin condition caused by mites. Bovine tuberculosis is caused by a bacterium; it causes disease in humans and in wild animals such as deer and badgers. Foot-and-mouth disease is caused by a virus, affects a range of hoofed livestock and is highly contagious. Bovine spongiform encephalopathy is a neurodegenerative disease spread by a prion, a misfolded brain protein, in contaminated meat. Among the intestinal parasites of cattle are Paramphistomum flukes, affecting the rumen, and hookworms in the small intestine.
 
@@ -105,8 +95,6 @@ Cattle are subject to pests including arthropod parasites such as ticks (which c
 Climate change is expected to exacerbate heat stress in cattle, and for longer periods. Heat-stressed cattle may experience accelerated breakdown of adipose tissue by the liver, causing lipidosis. Cattle eat less when heat stressed, resulting in ruminal acidosis, which can lead to laminitis. Cattle can attempt to deal with higher temperatures by panting more often; this rapidly decreases carbon dioxide concentrations at the price of increasing pH, respiratory alkalosis. To deal with this, cattle are forced to shed bicarbonate through urination, at the expense of rumen buffering. These two pathologies can both cause lameness. Another specific risk is mastitis. This worsens as Calliphora blowflies increase in number with continued warming, spreading mastitis-causing bacteria. Ticks too are likely to increase in temperate zones as the climate warms, increasing the risk of tick-borne diseases. Both beef and milk production are likely to experience declines due to climate change.
 
 ## Impact of cattle husbandry
-
-
 ### On public health
 Cattle health is at once a veterinary issue (for animal welfare and productivity), a public health issue (to limit the spread of disease), and a food safety issue (to ensure meat and dairy products are safe to eat). These concerns are reflected in farming regulations. These rules can become political matters, as when it was proposed in the UK in 2011 that milk from tuberculosis-infected cattle should be allowed to enter the food chain. Cattle disease attracted attention in the 1980s and 1990s when bovine spongiform encephalopathy (mad cow disease) broke out in the United Kingdom. BSE can cross into humans as the deadly variant Creutzfeldt–Jakob disease; 178 people in the UK had died from it by 2010.
 

@@ -16,7 +16,4 @@ Apart from the prehistoric Vanellus, the extinct lapwing genus Viator has been d
 The remaining Charadrii are highset or chunky birds, larger than many of the scolopacid waders. The evolutionary trend regarding the Charadriidae – which make up most of the diversity of the Charadrii – thus runs contrary to Cope's Rule.
 
 ### List of species in taxonomic order
-
-
 ## Footnotes
-

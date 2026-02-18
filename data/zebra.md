@@ -14,8 +14,6 @@ A 2017 mitochondrial DNA study placed the Eurasian Equus ovodovi and the subgenu
 The cladogram of Equus below is based on Vilstrup and colleagues (2013) and Jónsson and colleagues (2014):
 
 ### Extant species
-
-
 ### Fossil record
 In addition to the three living species, some fossil zebras and relatives have also been identified. E. oldowayensis is identified from remains in Olduvai Gorge dating to 1.8 mya. Fossil skulls of E. mauritanicus from Algeria which date to around 1 mya appears to show affinities with the plains zebra. E. capensis, known as the Cape zebra, appeared around 2 mya and lived throughout southern and eastern Africa.
 
@@ -67,8 +65,6 @@ Usually, a single foal is born, which is capable of running within an hour of bi
 In plains and mountain zebras, foals are cared for mostly by their mothers, but if threatened by pack-hunting hyenas and dogs, the entire group works together to protect all the young. The group forms a protective front with the foals in the centre, and the stallion will rush at predators that come too close. In Grévy's zebras, young stay in "kindergartens" when their mothers leave for water. These groups are tended to by the territorial male. A stallion may look after a foal in his territory to ensure that the mother stays, though it may not be his. By contrast, plains zebra stallions are generally intolerant of foals that are not theirs and may practice infanticide and feticide via violence to the pregnant mare.
 
 ## Human relations
-
-
 ### Cultural significance
 With their distinctive black-and-white stripes, zebras are among the most recognizable mammals. They have been associated with beauty and grace, with naturalist Thomas Pennant describing them in 1781 as "the most elegant of quadrupeds". Zebras have been popular in photography, with some wildlife photographers describing them as the most photogenic animal. They have become staples in children's stories and wildlife-themed art, such as depictions of Noah's Ark. In children's alphabet books, the animals are often used to represent the letter 'Z'. Zebra stripe patterns are popularly used for body paintings, dress, furniture and architecture.
 Zebras have been featured in African art and culture for millennia. They are depicted in rock art in Southern Africa dating from 28,000 to 20,000 years ago, though less often than antelope species like eland. How the zebra got its stripes has been the subject of folk tales, some of which involve it being scorched by fire. The Maasai proverb "a man without culture is like a zebra without stripes" has become popular in Africa. The San people connected zebra stripes with water, rain and lightning, and water spirits were conceived of having these markings.

@@ -19,8 +19,6 @@ All baboons have long, canine-like muzzles, heavy, powerful jaws with sharp cani
 All baboon species exhibit pronounced sexual dimorphism, usually in size, but also sometimes in colour. Males have much larger upper canines compared to females and use them to threaten or intimidate other baboons and predators. Males of the hamadryas baboon species also have large white manes.
 
 ## Behavior and ecology
-
-
 ### Habitat and prey
 Baboons are terrestrial (ground dwelling) and are found in open savannah, open woodland and hills across Africa. They are omnivorous, highly opportunistic feeders and will eat virtually anything, including grasses, roots, seeds, leaves, bark, fruits, fungus, insects, spiders, worms, fish, shellfish, rodents, birds, vervet monkeys, and small antelopes. They are foragers and are active at irregular times throughout the day and night. They often raid human dwellings, and in South Africa they break into homes and cars in search of food. Baboons will also raid farms, eating crops and preying on sheep, goats and poultry.
 

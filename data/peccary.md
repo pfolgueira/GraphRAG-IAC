@@ -19,8 +19,6 @@ Peccaries are social animals, often forming herds. Over 100 individuals have bee
 Peccaries have scent glands below each eye and another on their backs, though these are believed to be rudimentary in P. maximus. They use the scent to mark herd territories, which range from 30 to 280 hectares (75 to 700 acres). They also mark other herd members with these scent glands by rubbing one against another. The pungent odor allows peccaries to recognize other members of their herd, despite their myopic vision. Their very poor eyesight may make them appear to be charging when they are trying to escape. The odor is strong enough to be detected by humans, which earns the peccary the nickname of "skunk pig".
 
 ## Species
-
-
 ### Extant species
 Three (possibly four) living species of peccaries are found from the Southwestern United States through Central America and into South America and Trinidad, each in their own genus.
 

@@ -61,8 +61,6 @@ According to British food writer Matthew Fort, donkeys were used in the Italian 
 Donkeys have also been used to carry explosives in conflicts that include the war in Afghanistan and others. In 2025 Donkeys were issued to Russian forces participating in the invasion of Ukraine to ferry supplies, with Russian officials stating logistical issues as the reason.
 
 ## Care
-
-
 ### Shoeing
 Donkey hooves are more elastic than those of horses, and do not naturally wear down as fast. Regular clipping may be required; neglect can lead to permanent damage. Working donkeys may need to be shod. Donkey shoes are similar to horseshoes, but usually smaller and without toe-clips.
 

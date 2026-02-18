@@ -21,14 +21,10 @@ In many respects, including long tertial feathers, larks resemble other ground b
 Larks have more elaborate calls than most birds, and often extravagant songs given in display flight. These melodious sounds (to human ears), combined with a willingness to expand into anthropogenic habitats—as long as these are not too intensively managed—have ensured larks a prominent place in literature and music, especially the Eurasian skylark in northern Europe and the crested lark and calandra lark in southern Europe.
 
 ## Behaviour
-
-
 ### Breeding
 Male larks use song flights to defend their breeding territory and attract a mate. Most species build nests on the ground, usually cups of dead grass, but in some species the nests are more complicated and partly domed.  A few desert species nest very low in bushes, perhaps so circulating air can cool the nest. Larks' eggs are usually speckled. The size of the clutch is very variable and ranges from the single egg laid by Sclater's lark up to 6–8 eggs laid by the calandra lark and the black lark. Larks incubate for 11 to 16 days.
 
 ## In culture
-
-
 ### Larks as food
 Larks, commonly consumed with bones intact, have historically been considered wholesome, delicate, and light game. They can be used in a number of dishes; for example, they can be stewed, broiled, or used as filling in a meat pie. Lark's tongues are reputed to have been particularly highly valued as a delicacy. In modern times, shrinking habitats made lark meat rare and hard to come by, though it can still be found in restaurants in Italy and elsewhere in southern Europe.
 

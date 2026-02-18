@@ -6,8 +6,6 @@ Long thought to be related to frigatebirds, cormorants, tropicbirds, and gannets
 Pelicans will frequent inland waterways but are most known for residing along maritime and coastal zones, where they feed principally on fish in their large throat pouches, diving into the water and catching them at/near the water's surface. They can adapt to varying degrees of water salinity, from freshwater and brackish to—most commonly—seawater. They are gregarious birds, travelling in flocks, hunting cooperatively, and breeding colonially. Four white-plumaged species tend to nest on the ground, and four brown or grey-plumaged species nest mainly in trees. The relationship between pelicans and people has often been contentious. The birds have been persecuted because of their perceived competition with commercial and recreational fishing. Their populations have fallen through habitat destruction, disturbance, and environmental pollution, and three species are of conservation concern. They also have a long history of cultural significance in mythology, and in Christian and heraldic iconography.
 
 ## Taxonomy and systematics
-
-
 ### Etymology
 The name comes from the Ancient Greek word pelekan (πελεκάν), which is itself derived from the word pelekys (πέλεκυς) meaning "axe". In classical times, the word was applied to both the pelican and the woodpecker.
 
@@ -36,15 +34,11 @@ Protopelicanus (Late Eocene) – Once considered a possible early pelecaniform, 
 Liptornis (Miocene) – Originally described as a pelican, this genus is now considered a nomen dubium, based on fragmentary material that lacks sufficient diagnostic features.
 
 ### Extant species and phylogeny
-
-
 #### Species overview
 There are eight extant species of pelicans, which were historically divided into two groups based on plumage colouration and nesting behavior. One group includes four ground-nesting species with predominantly white plumage—the Australian, Dalmatian, great white, and American white pelicans. The other group consists of four species with grey or brown plumage that nest either in trees or on coastal rocks—the pink-backed, spot-billed, brown, and Peruvian pelicans. The largely marine brown and Peruvian pelicans, once considered conspecific, are sometimes placed in the subgenus Leptopelecanus due to their darker colouration and coastal habits. However, species with similar plumage and nesting behavior are found in both groups, indicating that these traits do not reflect deep evolutionary divisions.
 Genetic analyses using mitochondrial and nuclear DNA have revealed a different picture of pelican relationships. These studies support the existence of two major clades: a New World clade, comprising the American white, brown, and Peruvian pelicans, and an Old World clade that includes the Dalmatian, pink-backed, spot-billed, Australian, and great white pelicans. This phylogeny suggests that pelicans evolved in the Old World and later colonized the Americas. Furthermore, it indicates that nesting behavior is more strongly influenced by body size than by genetic lineage.
 
 #### List of living species
-
-
 ## Description
 Pelicans are very large birds with very long bills characterised by a downcurved hook at the end of the upper mandible, and the attachment of a huge gular pouch to the lower. The slender rami of the lower bill and the flexible tongue muscles form the pouch into a basket for catching fish, and sometimes rainwater, though to not hinder the swallowing of large fish, the tongue itself is tiny. They have a long neck and short stout legs with large, fully webbed feet. Although they are among the heaviest of flying birds, they are relatively light for their apparent bulk because of air pockets in the skeleton and beneath the skin, enabling them to float high in the water. The tail is short and square. The wings are long and broad, suitably shaped for soaring and gliding flight, and have the unusually large number of 30 to 35 secondary flight feathers.
 Males are generally larger than females and have longer bills. The smallest species is the brown pelican, small individuals of which can be no more than 2.75 kg (6.1 lb) and 1.06 m (3.5 ft) long, with a wingspan of as little as 1.83 m (6.0 ft). The largest is believed to be the Dalmatian pelican, at up to 15 kg (33 lb) and 1.83 m (6.0 ft) in length, with a maximum wingspan of 3 m (9.8 ft). The Australian pelican's bill may grow up to 0.5 m (1.6 ft) long in large males, the longest of any bird.
@@ -76,8 +70,6 @@ The brown pelican usually plunge-dives head-first for its prey, from a height as
 Pelicans may also eat birds. In southern Africa, eggs and chicks of the Cape cormorant are an important food source for great white pelicans. Several other bird species have been recorded in the diet of this pelican in South Africa, including Cape gannet chicks on Malgas Island as well as crowned cormorants, kelp gulls, greater crested terns, and African penguins on Dassen Island and elsewhere. The Australian pelican, which is particularly willing to take a wide range of prey items, has been recorded feeding on young Australian white ibis, and young and adult grey teals and silver gulls. Brown pelicans have been reported preying on young common murres in California and the eggs and nestlings of cattle egrets and nestling great egrets in Baja California, Mexico. Peruvian pelicans in Chile have been recorded feeding on nestlings of imperial shags, juvenile Peruvian diving petrels, and grey gulls. Cannibalism of chicks of their own species is known from the Australian, brown, and Peruvian pelicans. Non-native great white pelicans have been observed swallowing city pigeons in St. James's Park in London, England.
 
 ## Status and conservation
-
-
 ### Populations
 Globally, pelican populations are adversely affected by these main factors: declining supplies of fish through overfishing or water pollution, destruction of habitat, direct effects of human activity such as disturbance at nesting colonies, hunting and culling, entanglement in fishing lines and hooks, and the presence of pollutants such as DDT and endrin. Most species' populations are more or less stable, although three are classified by the IUCN as being at risk. All species breed readily in zoos, which is potentially useful for conservation management.
 
@@ -118,8 +110,6 @@ An origin myth from the Murri people of Queensland, cited by Andrew Lang, descri
 The Moche people of ancient Peru worshipped nature. They placed emphasis on animals and often depicted pelicans in their art.
 
 ### Christian symbolism
-
-
 #### Myth of self-sacrifice
 The Physiologus, a didactic Christian text from the 3rd or 4th century, claims that pelicans kill their young when they grow and strike their parents in the face, but then the mother laments them for three days, after which she strikes her side and brings them back to life with her blood. The Physiologus explains this as mirroring the pain inflicted on God by people's idolatry, and the self-sacrifice of Jesus on the cross which redeems the sinful (see the blood and water gushing from the wound in his side). This text was widely copied, translated, and sometimes closely paraphrased during the Middle Ages, for instance by 13th-century authors Guillaume le Clerc and Bartholomaeus Anglicus.
 The self-sacrificial characterization of the pelican was reinforced by widely read medieval bestiaries. The device of "a pelican in her piety" or "a pelican vulning (from Latin vulnerō, "I wound, I injure, I hurt") herself" was used in religious iconography and heraldry.
@@ -133,8 +123,6 @@ The pelican is featured in many Christian artworks, especially in Europe. For ex
 Elizabeth I of England adopted the symbol, portraying herself as the "mother of the Church of England". A portrait of her called the Pelican Portrait was painted around 1573, probably by Nicholas Hilliard.
 
 ### Heraldry and symbolism
-
-
 #### Heraldic imagery
 Pelicans have featured extensively in heraldry, generally using the Christian symbolism of the pelican as a caring and self-sacrificing parent. Heraldic images featuring a "pelican vulning" refers to a pelican injuring herself, while a "pelican in her piety" refers to a female pelican feeding her young with her own blood. The King of Portugal John II adopted the pelican as is own personal sygil while he was Infante, evoking the Christian symbology to equate the sacrifice of his blood to feed the nation. The pelican as a symbol also became synonymous with the increasing charity efforts of the Santas Casas da Misericórdia during his reign and the reconstruction of the Hospital das Caldas da Rainha and the Hospital Real de Todos-os-Santos, which were mainly patronaged by his wife D. Leonor.
 
@@ -142,8 +130,6 @@ Pelicans have featured extensively in heraldry, generally using the Christian sy
 The heraldic pelican also ended up as a pub name and image, though sometimes with the image of the ship Golden Hind. Sir Francis Drake's famous ship was initially called Pelican, and adorned the British halfpenny coin.
 
 ### Emblems and logos in institutions
-
-
 #### Educational institutions
 Pelicans are widely used as emblems by educational institutions, especially universities. In Louisiana, the bird adorns the seals of Louisiana State University, Tulane University, Louisiana Tech University, the University of Louisiana at Lafayette, Loyola University New Orleans, Southeastern Louisiana University, and Southern University. The seal of the Packer Collegiate Institute, depicting a pelican feeding her young, has been in use since 1885. The medical faculties of Charles University in Prague also have a pelican as their emblem, invoking the bird's long-standing association with self-sacrifice in Christian symbolism.
 The image became also linked to the medieval religious feast of Corpus Christi. The universities of Oxford and Cambridge each have colleges named for the religious festival nearest the dates of their establishment, and both Corpus Christi College, Cambridge, and Corpus Christi College, Oxford, feature pelicans on their coats of arms.

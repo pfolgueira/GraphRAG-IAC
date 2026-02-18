@@ -47,8 +47,6 @@ Some species make a buzzing noise while other cockroaches make a chirping noise.
 Several Australian species practice acoustic and vibration behaviour as an aspect of courtship. They have been observed producing hisses and whistles from air forced through the spiracles. Furthermore, in the presence of a potential mate, some cockroaches tap the substrate in a rhythmic, repetitive manner. Acoustic signals may be of greater prevalence amongst perching species, particularly those that live on low vegetation in Australia's tropics.
 
 ## Biology
-
-
 ### Digestive tract
 Cockroaches are generally omnivorous; the American cockroach (Periplaneta americana), for example, feeds on a great variety of foodstuffs including bread, fruit, leather, starch in book bindings, paper, glue, skin flakes, hair, dead insects and soiled clothing. Many species of cockroach harbor in their gut symbiotic protozoans and bacteria which are able to digest cellulose. In many species, these symbionts may be essential if the insect is to utilize cellulose; however, some species secrete cellulase in their saliva, and the wood-eating cockroach, Panesthia cribrata, is able to survive indefinitely on a diet of crystallized cellulose while being free of microorganisms.
 The similarity of these symbionts in the genus Cryptocercus to those in termites are such that these cockroaches have been suggested to be more closely related to termites than to other cockroaches, and current research strongly supports this hypothesis about their relationships. All species studied so far carry the obligate mutualistic endosymbiont bacterium Blattabacterium, with the exception of Nocticola, an Australian cave-dwelling genus without eyes, pigment or wings, which recent genetic studies indicate is a very primitive cockroach. It had previously been thought that all five families of cockroach were descended from a common ancestor that was infected with B. cuenoti. It may be that N. australiensis subsequently lost its symbionts, or alternatively this hypothesis will need to be re-examined.
@@ -73,8 +71,6 @@ It is popularly suggested that cockroaches will "inherit the Earth" if humanity 
 The cockroach's ability to withstand radiation has been explained through the cell cycle. Cells are most vulnerable to the effects of radiation while they are dividing. A cockroach's cells divide only once each molting cycle (which is weekly, for the juvenile German cockroach). Since not all cockroaches would be molting at the same time, many would be unaffected by an acute burst of radiation, although prolonged radiation would still be harmful.
 
 ## Relationship with humans
-
-
 ### In research and education
 Because of their ease of rearing and resilience, cockroaches have been used as insect models in the laboratory, particularly in the fields of neurobiology, reproductive physiology and social behavior. The cockroach is a convenient insect to study as it is large and simple to raise in a laboratory environment. This makes it suitable both for research and for school and undergraduate biology studies. It can be used in experiments on topics such as learning, sexual pheromones, spatial orientation, aggression, activity rhythms and the biological clock, and behavioral ecology. Research conducted in 2014 suggests that humans fear cockroaches the most, even more than mosquitoes, due to an evolutionary aversion.
 

@@ -21,8 +21,6 @@ Those species that make easily heard noises usually do so by rubbing a row of pe
 Grasshoppers may be confused with crickets, but they differ in many aspects; these include the number of segments in their antennae and the structure of the ovipositor, as well as the location of the tympanal organ and the methods by which sound is produced. Ensiferans have antennae that can be much longer than the body and have at least 20–24 segments, while caeliferans have fewer segments in their shorter, stouter antennae.
 
 ## Biology
-
-
 ### Diet and digestion
 Most grasshoppers are polyphagous, eating vegetation from multiple plant sources e.g pea plant leaves 
 , but some are omnivorous and also eat animal tissue and animal meat. They also like to eat other insects. In general their preference is for grasses, including many cereals grown as crops. The digestive system is typical of insects, with Malpighian tubules discharging into the midgut. Carbohydrates are digested mainly in the crop, while proteins are digested in the ceca of the midgut. Saliva is abundant but largely free of enzymes, helping to move food and Malpighian secretions along the gut. Some grasshoppers possess cellulase, which by softening plant cell walls makes plant cell contents accessible to other digestive enzymes. Grasshoppers can also be cannibalistic when swarming.
@@ -66,8 +64,6 @@ Several species such as the hooded leaf grasshopper Phyllochoreia ramakrishnai (
 Some species are genuinely aposematic, having both bright warning coloration and sufficient toxicity to dissuade predators. Dictyophorus productus (Pyrgomorphidae) is a "heavy, bloated, sluggish insect" that makes no attempt to hide; it has a bright red abdomen. A Cercopithecus monkey that ate other grasshoppers refused to eat the species. Another species, the rainbow or painted grasshopper of Arizona, Dactylotum bicolor (Acridoidea), has been shown by experiment with a natural predator, the little striped whiptail lizard, to be aposematic.
 
 ## Relationship with humans
-
-
 ### In art and media
 Grasshoppers are occasionally depicted in artworks, such as the Dutch Golden Age painter Balthasar van der Ast's still life oil painting, Flowers in a Vase with Shells and Insects, c. 1630, now in the National Gallery, London, though the insect may be a bush-cricket.
 Another orthopteran is found in Rachel Ruysch's still life Flowers in a Vase, c. 1685. The seemingly static scene is animated by a "grasshopper on the table that looks about ready to spring", according to the gallery curator Betsy Wieseman, with other invertebrates including a spider, an ant, and two caterpillars.

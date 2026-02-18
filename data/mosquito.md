@@ -22,8 +22,6 @@ The mosquito larva's head has prominent mouth brushes used for feeding, a large 
 The head and thorax of the pupa are merged into a cephalothorax, with the abdomen curving around beneath it. The pupa or "tumbler" can swim actively by flipping its abdomen. Like the larva, the pupa of most species must come to the surface frequently to breathe, which they do through a pair of respiratory trumpets on their cephalothoraxes. They do not feed; they pass much of their time hanging from the surface of the water by their respiratory trumpets. If alarmed, they swim downwards by flipping their abdomens in much the same way as the larvae. If undisturbed, they soon float up again. The adult emerges from the pupa at the surface of the water and flies off.
 
 ## Feeding by adults
-
-
 ### Diet
 Both male and female mosquitoes feed on nectar, aphid honeydew, and plant juices, but in many species the females are also hematophagous (blood-sucking) ectoparasites. In some of those species, a blood meal is essential for egg production; in others, it just enables the female to lay more eggs. Both plant materials and blood are useful sources of energy in the form of sugars. Blood supplies more concentrated nutrients, such as lipids, but the main function of blood meals is to obtain proteins for egg production. Disease vector mosquitoes like Anopheles and Aedes are anautogenous, requiring blood to lay eggs. Some Culex species are partially autogenous, needing blood only for their second and subsequent clutches of eggs. The three genera of Malaya, Topomyia and Toxorhynchites, together comprising a small percentage of mosquitoes species, reproduce autogenously, never taking blood.
 
@@ -49,8 +47,6 @@ For a mosquito to obtain a blood meal, it must circumvent its vertebrate host's 
 Females of many blood-feeding species need a blood meal to begin the process of egg development. A sufficiently large blood meal triggers a hormonal cascade that leads to egg development. Upon completion of feeding, the mosquito withdraws her proboscis, and as the gut fills up, the stomach lining secretes a peritrophic membrane that surrounds the blood. This keeps the blood separate from anything else in the stomach. Like many Hemiptera that survive on dilute liquid diets, many adult mosquitoes excrete surplus liquid even when feeding. This permits females to accumulate a full meal of nutrient solids. The blood meal is digested over a period of several days. Once blood is in the stomach, the midgut synthesizes protease enzymes, primarily trypsin assisted by aminopeptidase, that hydrolyze the blood proteins into free amino acids. These are used in the synthesis of vitellogenin, which in turn is made into egg yolk protein.
 
 ## Distribution
-
-
 ### Cosmopolitan
 Mosquitoes have a cosmopolitan distribution, occurring in every land region except Antarctica and a few islands. The polar or subpolar climate of these regions is unpredictable, freezing but often warming suddenly in mid-winter, making mosquitoes emerge from pupae in diapause, and then freezing again before they can complete their life cycle.
 Eggs of temperate zone mosquitoes are more tolerant of cold than the eggs of species indigenous to warmer regions. Many can tolerate subzero temperatures, while adults of some species can survive winter by sheltering in microhabitats such as buildings or hollow trees. In warm and humid tropical regions, some mosquito species are active for the entire year, but in temperate and cold regions they hibernate or enter diapause. Arctic or subarctic mosquitoes, like some other arctic midges in families such as Simuliidae and Ceratopogonidae may be active for only a few weeks annually as melt-water pools form on the permafrost. During that time, though, they emerge in huge numbers in some regions; a swarm may take up to 300 ml of blood per day from each animal in a caribou herd.
@@ -62,8 +58,6 @@ Dengue fever, too, is spreading northwards with climate change. The vector, the 
 In 2025, some specimens of Culiseta annulata were found in Kjósarhreppur in Iceland, a country that had been free of mosquitoes.
 
 ## Ecology
-
-
 ### Predators and parasites
 Mosquito larvae are among the commonest animals in ponds, and they form an important food source for freshwater predators. Among the many aquatic insects that catch mosquito larvae are dragonfly and damselfly nymphs, whirligig beetles, and water striders. Vertebrate predators include fish such as catfish and the mosquitofish, amphibians including the spadefoot toad and the giant tree frog, freshwater turtles such as the red-eared slider, and birds such as ducks.
 Emerging adults are consumed at the pond surface by predatory flies including Empididae and Dolichopodidae, and by spiders. Flying adults are captured by dragonflies and damselflies, by birds such as swifts and swallows, and by mammals including bats.
@@ -76,8 +70,6 @@ Several flowers including members of the Asteraceae, Rosaceae and Orchidaceae ar
 Ecologically, blood-feeding mosquitoes are micropredators, small animals that feed on larger animals without immediately killing them. Evolutionary biologists see this as a form of parasitism; in Edward O. Wilson's phrase "Parasites ... are predators that eat prey in units of less than one." Micropredation is one of six major evolutionarily stable strategies within parasitism. It is distinguished by leaving the host still able to reproduce, unlike the activity of parasitic castrators or parasitoids; and having multiple hosts, unlike conventional parasites. From this perspective, mosquitoes are ectoparasites, feeding on blood from the outside of their hosts, using their piercing mouthparts, rather than entering their bodies. Unlike some other ectoparasites such as fleas and lice, mosquitoes do not remain constantly on the body of the host, but visit only to feed.
 
 ## Evolution
-
-
 ### Fossil record
 A 2023 study suggested that Libanoculex intermedius found in Lebanese amber, dating to the Barremian age of the Early Cretaceous, around 125 million years ago was the oldest known mosquito. However its identification as a mosquito is disputed, with other authors considering it to be a chaoborid fly instead. 7 other, non-contentious species of Cretaceous mosquito are known. Burmaculex, with 5 recognised species, (including one formerly assigned to the separate genus Priscoculex) known from adults, and Cretosabethes primaevus known from a larva, have been found in  Burmese amber from Myanmar, which dates to the earliest part of the Cenomanian age of the Late Cretaceous, around 99 million years ago. Paleoculicis minutus, is known from Canadian amber from Alberta, Canada, which dates to the Campanian age of the Late Cretaceous, around 79 million years ago. Burmaculex and Paleoculicis have been interpreted as a member of the extinct subfamily Burmaculicinae that split off before the common ancestors of the two major modern subfamilies Anophelinae and Culicinae diverged, while Cretosabethes has been interpreted as a member of the modern Culicinae tribe Sabethini, implying that the diversification of mosquitoes had already considerably progressed prior to the mid-Cretaceous, despite the sparse fossil record of the group. It has been suggested based on molecular clock dating that mosquitoes originated in the Jurassic, but that major diversification did not take place until the Cretaceous.
 
@@ -86,8 +78,6 @@ There are over 3,700 species of mosquitoes; 112 genera have been described. They
 The name Culicidae was introduced by the German entomologist Johann Wilhelm Meigen in his seven-volume classification published in 1818–1838. Mosquito taxonomy was advanced in 1901 when the English entomologist Frederick Vincent Theobald published his 5-volume monograph on the Culicidae. He had been provided with mosquito specimens sent in to the British Museum (Natural History) from around the world, on the 1898 instruction of the Secretary of State for the Colonies, Joseph Chamberlain, who had written that "in view of the possible connection of Malaria with mosquitoes, it is desirable to obtain exact knowledge of the different species of mosquitoes and allied insects in the various tropical colonies. I will therefore ask you ... to have collections made of the winged insects in the Colony which bite men or animals."
 
 ### Phylogeny
-
-
 #### External
 Mosquitoes are members of a family of the true flies (order Diptera): the Culicidae (from the Latin culex, genitive culicis, meaning "midge" or "gnat"). They are members of the infraorder Culicomorpha and superfamily Culicoidea. The phylogenetic tree is based on the FLYTREE project.
 
@@ -95,8 +85,6 @@ Mosquitoes are members of a family of the true flies (order Diptera): the Culici
 The two subfamilies of mosquitoes are Anophelinae, containing three genera and approximately 430 species, and Culicinae, which contains 11 tribes, 108 genera and 3,046 species. Kyanne Reidenbach and colleagues analysed mosquito phylogenetics in 2009, using both nuclear DNA and morphology of 26 species. They note that Anophelinae is confirmed to be rather basal, but that the deeper parts of the tree are not well resolved.
 
 ## Interactions with humans
-
-
 ### Vectors of disease
 Mosquitoes are vectors for many disease-causing microorganisms including bacteria, viruses, and protozoan parasites. Nearly 700 million people acquire a mosquito-borne illness each year, resulting in over one million deaths. Common mosquito-borne viral diseases include yellow fever, chikungunya and dengue fever, all transmitted mostly by Aedes aegypti. Parasitic diseases transmitted by mosquitoes include malaria and lymphatic filariasis. The Plasmodium parasites that cause malaria are carried by female Anopheles mosquitoes. Lymphatic filariasis, the main cause of elephantiasis, is spread by a wide variety of mosquitoes. A bacterial disease spread by Culex and Culiseta mosquitoes is tularemia.
 
@@ -110,8 +98,6 @@ Insect repellents are applied on skin and give short-term protection against mos
 Mosquito bites lead to a variety of skin reactions and more seriously to mosquito bite allergies.  Such hypersensitivity to mosquito bites is an excessive reaction to mosquito saliva proteins. Numerous species of mosquito can trigger such reactions, including Aedes aegypti, A. vexans, A. albopictus, Anopheles sinensis, Culex pipiens, Aedes communis, Anopheles stephensi, C. quinquefasciatus, C. tritaeniorhynchus, and Ochlerotatus triseriatus. Cross-reactivity between salivary proteins of different mosquitoes implies that allergic responses may be caused by virtually any mosquito species. Treatment can be with anti-itch medications, including some taken orally, such as diphenhydramine, or applied to the skin like antihistamines or corticosteroids such as hydrocortisone. Aqueous ammonia (3.6%) also provides relief. Both topical heat and cold may be useful as treatments.
 
 ## In human culture
-
-
 ### Greek mythology
 Ancient Greek beast fables including "The Elephant and the Mosquito" and "The Bull and the Mosquito", with the general moral that the large beast does not even notice the small one, derive ultimately from Mesopotamia.
 

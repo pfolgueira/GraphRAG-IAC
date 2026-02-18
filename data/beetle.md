@@ -16,8 +16,6 @@ Among the heaviest beetles, whose larval stage can attain a mass of at least 115
 The longest beetle is the Hercules beetle Dynastes hercules, with a maximum overall length of at least 16.7 cm (6.6 in) including the very long pronotal horn. The smallest recorded beetle and the smallest free-living insect (as of 2015), is the featherwing beetle Scydosella musawasensis which may measure as little as 325 μm in length.
 
 ## Evolution
-
-
 ### Late Paleozoic and Triassic
 The oldest known beetle is Coleopsis, from the earliest Permian (Asselian) of Germany, around 295 million years ago. Early beetles from the Permian, which are collectively grouped into the "Protocoleoptera" are thought to have been xylophagous (wood eating) and wood boring. Fossils from this time have been found in Siberia and Europe, for instance in the red slate fossil beds of Niedermoschel near Mainz, Germany. Further fossils have been found in Obora, Czech Republic and Tshekarda in the Ural mountains, Russia. However, there are only a few fossils from North America before the middle Permian, although both Asia and North America had been united to Euramerica. The first discoveries from North America made in the Wellington Formation of Oklahoma were published in 2005 and 2008. The earliest members of modern beetle lineages appeared during the Late Permian. In the Permian–Triassic extinction event at the end of the Permian, most "protocoleopteran" lineages became extinct. Beetle diversity did not recover to pre-extinction levels until the Middle Triassic.
 
@@ -65,8 +63,6 @@ Beetles' flight wings are crossed with veins and are folded after landing, often
 The abdomen is the section behind the metathorax, made up of a series of rings, each with a hole for breathing and respiration, called a spiracle, composing three different segmented sclerites: the tergum, pleura, and the sternum. The tergum in almost all species is membranous, or usually soft and concealed by the wings and elytra when not in flight. The pleura are usually small or hidden in some species, with each pleuron having a single spiracle. The sternum is the most widely visible part of the abdomen, being a more or less sclerotized segment. The abdomen itself does not have any appendages, but some (for example, Mordellidae) have articulating sternal lobes.
 
 ## Anatomy and physiology
-
-
 ### Digestive system
 The digestive system of beetles is primarily adapted for a herbivorous diet. Digestion takes place mostly in the anterior midgut, although in predatory groups like the Carabidae, most digestion occurs in the crop by means of midgut enzymes. In the Elateridae, the larvae are liquid feeders that extraorally digest their food by secreting enzymes. The alimentary canal basically consists of a short, narrow pharynx, a widened expansion, the crop, and a poorly developed gizzard. This is followed by the midgut, that varies in dimensions between species, with a large amount of cecum, and the hindgut, with varying lengths. There are typically four to six Malpighian tubules.
 
@@ -95,8 +91,6 @@ In another example, the intromittent organ of male thistle tortoise beetles is a
 Competition can play a part in the mating rituals of species such as burying beetles (Nicrophorus), the insects fighting to determine which can mate. Many male beetles are territorial and fiercely defend their territories from intruding males. In such species, the male often has horns on the head or thorax, making its body length greater than that of a female. Copulation is generally quick, but in some cases lasts for several hours. During copulation, sperm cells are transferred to the female to fertilize the egg.
 
 ### Life cycle
-
-
 #### Egg
 Essentially all beetles lay eggs, though some myrmecophilous Aleocharinae and some Chrysomelinae which live in mountains or the subarctic are ovoviviparous, laying eggs which hatch almost immediately. Beetle eggs generally have smooth surfaces and are soft, though the Cupedidae have hard eggs. Eggs vary widely between species: the eggs tend to be small in species with many instars (larval stages), and in those that lay large numbers of eggs.
 A female may lay from several dozen to several thousand eggs during her lifetime, depending on the extent of parental care. This ranges from the simple laying of eggs under a leaf, to the parental care provided by scarab beetles, which house, feed and protect their young. The Attelabidae roll leaves and lay their eggs inside the roll for protection.
@@ -113,8 +107,6 @@ As with all holometabolans, beetle larvae pupate, and from these pupae emerge fu
 Adults have extremely variable lifespans, from weeks to years, depending on the species. Some wood-boring beetles can have extremely long life-cycles. It is believed that when furniture or house timbers are infested by beetle larvae, the timber already contained the larvae when it was first sawn up. A birch bookcase 40 years old released adult Eburia quadrigeminata (Cerambycidae), while Buprestis aurulenta and other Buprestidae have been documented as emerging as much as 51 years after manufacture of wooden items.
 
 ## Behaviour
-
-
 ### Locomotion
 The elytra allow beetles to both fly and move through confined spaces, doing so by folding the delicate wings under the elytra while not flying, and folding their wings out just before takeoff. The unfolding and folding of the wings is operated by muscles attached to the wing base; as long as the tension on the radial and cubital veins remains, the wings remain straight. Some beetle species (many Cetoniinae; some Scarabaeinae, Curculionidae and Buprestidae) fly with the elytra closed, with the metathoracic wings extended under the lateral elytra margins. The altitude reached by beetles in flight varies. One study investigating the flight altitude of the ladybird species Coccinella septempunctata and Harmonia axyridis using radar showed that, whilst the majority in flight over a single location were at 150–195 m above ground level, some reached altitudes of over 1100 m.
 Many rove beetles have greatly reduced elytra, and while they are capable of flight, they most often move on the ground: their soft bodies and strong abdominal muscles make them flexible, easily able to wriggle into small cracks.
@@ -137,8 +129,6 @@ Beetles are able to exploit a wide diversity of food sources available in their 
 Decaying organic matter is a primary diet for many species. This can range from dung, which is consumed by coprophagous species (such as certain scarab beetles in the Scarabaeidae), to dead animals, which are eaten by necrophagous species (such as the carrion beetles, Silphidae). Some beetles found in dung and carrion are in fact predatory. These include members of the Histeridae and Silphidae, preying on the larvae of coprophagous and necrophagous insects. Many beetles feed under bark, some feed on wood while others feed on fungi growing on wood or leaf-litter. Some beetles have special mycangia, structures for the transport of fungal spores.
 
 ## Ecology
-
-
 ### Anti-predator adaptations
 Beetles, both adults and larvae, are the prey of many animal predators including mammals from bats to rodents, birds, lizards, amphibians, fishes, dragonflies, robberflies, reduviid bugs, ants, other beetles, and spiders. Beetles use a variety of anti-predator adaptations to defend themselves. These include camouflage and mimicry against predators that hunt by sight, toxicity, and defensive behaviour.
 
@@ -174,8 +164,6 @@ Some terrestrial beetles that exploit shoreline and floodplain habitats have phy
 Many beetle species undertake annual mass movements which are termed as migrations. These include the pollen beetle Meligethes aeneus and many species of coccinellids. These mass movements may also be opportunistic, in search of food, rather than seasonal. A 2008 study of an unusually large outbreak of Mountain Pine Beetle (Dendroctonus ponderosae) in British Columbia found that beetles were capable of flying 30–110 km per day in densities of up to 18,600 beetles per hectare.
 
 ## Relationship to humans
-
-
 ### In ancient cultures
 Several species of dung beetle, especially the sacred scarab, Scarabaeus sacer, were revered in Ancient Egypt. The hieroglyphic image of the beetle may have had existential, fictional, or ontologic significance. Images of the scarab in bone, ivory, stone, Egyptian faience, and precious metals are known from the Sixth Dynasty and up to the period of Roman rule. The scarab was of prime significance in the funerary cult of ancient Egypt. The scarab was linked to Khepri, the god of the rising sun, from the supposed resemblance of the rolling of the dung ball by the beetle to the rolling of the sun by the god. Some of ancient Egypt's neighbors adopted the scarab motif for seals of varying types. The best-known of these are the Judean LMLK seals, where eight of 21 designs contained scarab beetles, which were used exclusively to stamp impressions on storage jars during the reign of Hezekiah. Beetles are mentioned as a symbol of the sun, as in ancient Egypt, in Plutarch's 1st century Moralia. The Greek Magical Papyri of the 2nd century BC to the 5th century AD describe scarabs as an ingredient in a spell.
 Pliny the Elder discusses beetles in his Natural History, describing the stag beetle: "Some insects, for the preservation of their wings, are covered with an erust (elytra)—the beetle, for instance, the wing of which is peculiarly fine and frail. To these insects a sting has been denied by Nature; but in one large kind we find horns of a remarkable length, two-pronged at the extremities, and forming pincers, which the animal closes when it is its intention to bite." The stag beetle is recorded in a Greek myth by Nicander and recalled by Antoninus Liberalis in which Cerambus is turned into a beetle: "He can be seen on trunks and has hook-teeth, ever moving his jaws together. He is black, long and has hard wings like a great dung beetle". The story concludes with the comment that the beetles were used as toys by young boys, and that the head was removed and worn as a pendant.

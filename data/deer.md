@@ -41,8 +41,6 @@ Homology of tines, that is, the branching structure of antlers among species, ha
 Most deer bear 32 teeth; the corresponding dental formula is: 0.0.3.33.1.3.3. The elk and the reindeer may be exceptions, as they may retain their upper canines and thus have 34 teeth (dental formula: 0.1.3.33.1.3.3). The Chinese water deer, tufted deer, and muntjac have enlarged upper canine teeth forming sharp tusks, while other species often lack upper canines altogether. The cheek teeth of deer have crescent ridges of enamel, which enable them to grind a wide variety of vegetation. The teeth of deer are adapted to feeding on vegetation, and like other ruminants, they lack upper incisors, instead having a tough pad at the front of their upper jaw.
 
 ## Biology
-
-
 ### Diet
 Deer are browsers, and feed primarily on foliage of grasses, sedges, forbs, shrubs and trees, secondarily on lichens in northern latitudes during winter. They have small, unspecialized stomachs by ruminant standards, and high nutrition requirements. Rather than eating and digesting vast quantities of low-grade fibrous food as, for example, sheep and cattle do, deer select easily digestible shoots, young leaves, fresh grasses, soft twigs, fruit, fungi, and lichens. The low-fibered food, after minimal fermentation and shredding, passes rapidly through the alimentary canal. The deer require a large amount of minerals such as calcium and phosphate in order to support antler growth, and this further necessitates a nutrient-rich diet. There are some reports of deer engaging in carnivorous activity, such as eating dead alewives along lakeshores or depredating the nests of northern bobwhites.
 
@@ -87,8 +85,6 @@ Until 2003, it was understood that the family Moschidae (musk deer) was sister t
 A 2006 phylogenetic study of the internal relationships in Cervidae by Clément Gilbert and colleagues divided the family into two major clades: Capreolinae (telemetacarpal or New World deer) and Cervinae (plesiometacarpal or Old World deer). Studies in the late 20th century suggested a similar bifurcation in the family. This as well as previous studies support monophyly in Cervinae, while Capreolinae appears paraphyletic. The 2006 study identified two lineages in Cervinae, Cervini (comprising the genera Axis, Cervus, Dama and Rucervus) and Muntiacini (Muntiacus and Elaphodus). Capreolinae featured three lineages, Alceini (Alces species), Capreolini (Capreolus and the subfamily Hydropotinae) and Rangiferini (Blastocerus, Hippocamelus, Mazama, Odocoileus, Pudu and Rangifer species). The following cladogram is based on the 2006 study.
 
 ## Human interaction
-
-
 ### Prehistoric
 Deer were an important source of food for early hominids. In China, Homo erectus fed upon the sika deer, while the red deer was hunted in Germany. In the Upper Palaeolithic, the reindeer was the staple food for Cro-Magnon people, while the cave paintings at Lascaux in southwestern France include some 90 images of stags. In China, deer continued to be a main source of food for millennia even after people began farming, and it is possible that sika and other deer benefited from the frequently abandoned field sites.
 

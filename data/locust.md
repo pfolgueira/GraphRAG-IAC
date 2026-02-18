@@ -28,8 +28,6 @@ North America is the only sub-continent besides Antarctica without a native locu
 The fossilized wing of an indeterminate locust has been found in Early Oligocene-aged sediments of the Pabdeh Formation in Iran, which were deposited in a deep marine environment. The locust was likely migrating across the early Paratethys Sea, between the emergent Arabian Peninsula and central Iran, which were still separated by large areas of deep ocean at this time. This suggests that trans-oceanic locust migrations have been occurring for at least 30 million years, likely facilitated by the spread of grasslands at the time.
 
 ## Interaction with humans and animals
-
-
 ### Ancient times
 Study of literature shows how pervasive plagues of locusts were over the course of history. The insects arrived unexpectedly, often after a change of wind direction or weather, and the consequences were devastating. The Ancient Egyptians carved locusts on tombs in the period 2470 to 2220 BC. A devastating plague in Egypt is mentioned in the Book of Exodus in the Bible. Locust plague is mentioned in the Indian Mahabharata. The Iliad mentions locusts taking to the wing to escape fire. Plagues of locusts are mentioned in the Quran. In the ninth century BC, the Chinese authorities appointed anti-locust officers. In the New Testament, John the Baptist was said to survive in the wilderness on locusts and wild honey; and human-headed locusts appear in the Book of Revelation.
 Aristotle studied locusts and their breeding habits and Livy recorded a devastating plague in Capua in 203 BC. He mentioned human epidemics following locust plagues which he associated with the stench from the putrifying corpses; the linking of human disease outbreaks to locust plagues was widespread. A pestilence in the northwestern provinces of China in 311 AD that killed 98% of the population locally was blamed on locusts, and may have been caused by an increase in numbers of rats (and their fleas) that devoured the locust carcasses.
@@ -54,8 +52,6 @@ The locust is large and easy to breed and rear, and is used as an experimental m
 At Tel Aviv University, scientists have been using the acute sense of smell mediated by locust antennae to detect different odors in robotic applications.
 
 ### As food
-
-
 #### Historic usage
 Locusts have been as food throughout history in various parts of the world. The Torah prohibits the use of most insects as food, but it permits consuming certain types of locust; specifically, those that are red, yellow, or spotted grey. The Bible records that John the Baptist ate locusts and wild honey (Greek: ἀκρίδες καὶ μέλι ἄγριον, romanized: akrídes kaì méli ágrion) while living in the wilderness. Attempts have been made to explain the text to mean ascetic vegetarian food such as carob beans, but the plain meaning of the Greek akrides is locust. The Prophet Muhammad was reported to have eaten locusts during a military raid with his companions.
 

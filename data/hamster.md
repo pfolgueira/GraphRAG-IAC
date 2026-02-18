@@ -67,8 +67,6 @@ Hamsters have poor eyesight; they are nearsighted and colorblind. Their eyesight
 Hamsters are omnivores, which means they can eat meat and plant matter. Hamsters that live in the wild eat seeds, grass, and even insects. Although pet hamsters can survive on a diet of exclusively commercial hamster food, other items, such as vegetables, fruits, seeds, and nuts, can be given. Although store-bought food is good for hamsters, it is best if fruits and vegetables are also in their diet because it keeps them healthier. Hamsters in the Middle East have been known to hunt in packs to find insects for food. Hamsters are hindgut fermenters and often eat their own feces (coprophagy) to recover nutrients digested in the hind-gut, but not absorbed.
 
 ## Behavior
-
-
 ### Feeding
 A behavioral characteristic of hamsters is food hoarding. They carry food in their spacious cheek pouches to their underground storage chambers. When full, the cheeks can make their heads double, or even triple in size. Hamsters lose weight during the autumn months in anticipation of winter. This occurs even when hamsters are kept as pets and is related to an increase in exercise.
 
@@ -84,8 +82,6 @@ All hamsters are excellent diggers, constructing burrows with one or more entran
 Wild hamsters will also appropriate tunnels made by other mammals; the Djungarian hamster, for instance, uses paths and burrows of the pika.
 
 ## Reproduction
-
-
 ### Fertility
 Hamsters become fertile at different ages depending on their species. Both Syrian and Russian hamsters mature quickly and can begin reproducing at a young age (4–5 weeks), whereas Chinese hamsters will usually begin reproducing at two to three months of age, and Roborovskis at three to four months of age. The female's reproductive life lasts about 18 months, but male hamsters remain fertile much longer. Females are in estrus about every four days, which is indicated by a reddening of genital areas, a musky smell, and a hissing, squeaking vocalisation she will emit if she believes a male is nearby.
 When seen from above, a sexually mature female hamster has a trim tail line; a male's tail line bulges on both sides. This might not be very visible in all species. Male hamsters typically have very large testes in relation to their body size. Before sexual maturity occurs, it is more difficult to determine a young hamster's sex. When examined, female hamsters have their anal and genital openings close together, whereas males have these two holes farther apart (the penis is usually withdrawn into the coat and thus appears as a hole or pink pimple).
@@ -104,8 +100,6 @@ Hamsters are born hairless and blind in a nest the mother will have prepared in 
 Syrian hamsters typically live no more than two to three years in captivity, and less in the wild. Russian hamsters (Campbell's and Djungarian) live about two to four years in captivity, and Chinese hamsters 2+1⁄2–3 years. The smaller Roborovski hamster often lives to three years in captivity.
 
 ## Society and culture
-
-
 ### Hamsters as pets
 The best-known species of hamster is the golden or Syrian hamster (Mesocricetus auratus), which is the type most commonly kept as pets. There are numerous Syrian hamster variations including long-haired varieties and different colors. British zoologist Leonard Goodwin claimed most hamsters kept in the United Kingdom were descended from the colony he introduced for medical research purposes during the Second World War. Hamsters were domesticated and kept as pets in the United States at least as early as 1942.
 

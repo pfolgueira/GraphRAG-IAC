@@ -8,8 +8,6 @@ In Middle English, moles were known as moldwarps. By the era of Early Modern Eng
 Male moles are called "boars"; females are called "sows".
 
 ## Characteristics
-
-
 ### Underground breathing
 Moles have been found to tolerate higher levels of carbon dioxide than other mammals, because their blood cells have a special form of hemoglobin that has a higher affinity to oxygen than other forms. In addition, moles use oxygen more effectively by reusing the exhaled air, and can survive in low-oxygen environments, such as burrows.
 
@@ -132,8 +130,6 @@ Species Notoryctes typhlops (southern marsupial mole)
 Species Notoryctes caurinus (northern marsupial mole)
 
 ## Interaction with humans
-
-
 ### Pelts
 Moles' pelts have a velvety texture not found in surface animals. Surface-dwelling animals tend to have longer fur with a natural tendency for the nap to lie in a particular direction, but to facilitate their burrowing lifestyle, mole pelts are short and very dense and have no particular direction to the nap. This makes it easy for moles to move backwards underground, as their fur is not "brushed the wrong way". The leather is extremely soft and supple. Queen Alexandra, the wife of Edward VII of the United Kingdom, ordered a mole-fur garment to start a fashion that would create a demand for mole fur, thereby turning what had been a serious pest problem in Scotland into a lucrative industry for the country. Hundreds of pelts are cut into rectangles and sewn together to make a coat. The natural color is taupe, (derived from the French noun taupe meaning mole) but it is readily dyed any color.
 The term "moleskin" for a tough cotton fabric is in common use today.

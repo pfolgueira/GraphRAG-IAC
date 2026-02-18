@@ -34,8 +34,6 @@ Classification of all genera of the Pleurodelinae subfamily after Pyron and Wein
 Phylogenetic analyses estimated the origin of the newt subfamily in the Late Cretaceous to Eocene. Several fossil salamanders have also been referred to the Pleurodelinae, including:
 
 ## Anatomy and physiology
-
-
 ### Circulation
 The heart of newts, like that of most amphibians, consists of two atria and one ventricle. Blood flows from the anterior and posterior caval veins into the right atrium; blood that entered the heart from the left atrium is then expelled out of the ventricle. Newts do not have a coronary artery on the ventricle, due to circulation that is found in the conus arteriosus. Newts contain a special circulatory adaptation that allows them to survive ventricular penetration: when a newt's ventricle is punctured, the heart will divert the blood directly into an ascending aorta via a duct located between the ventricle and the conus arteriosus. Newts begin to regenerate the ventricle by a thickening of the epicardial layer that protrudes to allow the new vessels to form, and conclude with a regeneration of the entire myocardial wall.
 In early stages of development in amphibians, ventilator gas transport and hemoglobin gas transport are independent mechanisms and not yet coupled as they are in adulthood. In juvenile amphibians, there is no cardiovascular response in conditions of hypoxia. When newts are induced into anemia, they are able to respire without the need of blood cells. In T. carnifex, around two weeks after anemia is induced, the newts produced a mass of cells that helps to revitalize the already circulating red blood cell mass.

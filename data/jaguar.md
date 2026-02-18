@@ -10,8 +10,6 @@ The word "jaguar" is possibly derived from the Tupi-Guarani word yaguara meaning
 In North America, the word is pronounced with two syllables, as , while in British English, it is pronounced with three, as .
 
 ## Taxonomy and evolution
-
-
 ### Taxonomy
 In 1758, Carl Linnaeus described the jaguar in his work Systema Naturae and gave it the scientific name Felis onca.
 In the 19th and 20th centuries, several jaguar type specimens formed the basis for descriptions of subspecies. In 1939, Reginald Innes Pocock recognized eight subspecies based on the geographic origins and skull morphology of these specimens.

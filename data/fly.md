@@ -4,8 +4,6 @@ Flies have a mobile head, with a pair of large compound eyes, and mouthparts des
 Diptera is one of the major insect orders and of considerable ecological and human importance. Flies are major pollinators, second only to the bees and their Hymenopteran relatives. Flies may have been among the evolutionarily earliest pollinators responsible for early plant pollination. Fruit flies are used as model organisms in research, but less benignly, mosquitoes are vectors for malaria, dengue, West Nile fever, yellow fever, encephalitis, and other infectious diseases; and houseflies, commensal with humans all over the world, spread foodborne illnesses. Flies can be annoyances especially in some parts of the world where they can occur in large numbers, buzzing and settling on the skin or eyes to bite or seek fluids. Larger flies such as tsetse flies and screwworms cause significant economic harm to cattle. Blowfly larvae, known as gentles, and other dipteran larvae, known more generally as maggots, are used as fishing bait, as food for carnivorous animals, and in medicine in debridement, to clean wounds.
 
 ## Taxonomy and phylogeny
-
-
 ### Relationships to other insects
 Dipterans are holometabolous, meaning that they undergo radical metamorphosis. They belong to the Mecopterida, alongside the Mecoptera, Siphonaptera, Lepidoptera and Trichoptera. The possession of a single pair of wings distinguishes most true flies from other insects with "fly" in their names. However, some true flies such as Hippoboscidae (louse flies) have become secondarily wingless.
 The cladogram represents the current consensus view.
@@ -57,8 +55,6 @@ The pupae take various forms. In some groups, particularly the Nematocera, the p
 The adult stage is usually short, its function is only to mate and lay eggs. The genitalia of male flies are rotated to a varying degree from the position found in other insects. In some flies, this is a temporary rotation during mating, but in others, it is a permanent torsion of the organs that occurs during the pupal stage. This torsion may lead to the anus being below the genitals, or, in the case of 360° torsion, to the sperm duct being wrapped around the gut and the external organs being in their usual position. When flies mate, the male initially flies on top of the female, facing in the same direction, but then turns around to face in the opposite direction. This forces the male to lie on his back for his genitalia to remain engaged with those of the female, or the torsion of the male genitals allows the male to mate while remaining upright. This leads to flies having more reproduction abilities than most insects, and much quicker. Flies occur in large populations due to their ability to mate effectively and quickly during the mating season. More primitive groups mates in the air during swarming, but most of the more advanced species with a 360° torsion mate on a substrate.
 
 ## Ecology
-
-
 ### Trophic levels
 As ubiquitous insects, dipterans play an important role at various trophic levels both as consumers and as prey. In some groups the larvae complete their development without feeding, and in others the adults do not feed. The larvae can be herbivores, scavengers, decomposers, predators or parasites, with the consumption of decaying organic matter being one of the most prevalent feeding behaviours. The fruit or detritus is consumed along with the associated micro-organisms, a sieve-like filter in the pharynx being used to concentrate the particles, while flesh-eating larvae have mouth-hooks to help shred their food. The larvae of some groups feed on or in the living tissues of plants and fungi, and some of these are serious pests of agricultural crops. Some aquatic larvae consume the films of algae that form underwater on rocks and plants. Many of the parasitoid larvae grow inside and eventually kill other arthropods, while parasitic larvae may attack vertebrate hosts.
 
@@ -71,8 +67,6 @@ Flies are eaten by other animals at all stages of their development. The eggs an
 In contrast, Drosophila subobscura, a species of fly in the genus Drosophila, lacks a category of hemocytes that are present in other studied species of Drosophila, leading to an inability to defend against parasitic attacks, a form of innate immunodeficiency.
 
 ## Human interaction and cultural depictions
-
-
 ### Symbolism
 Flies play a variety of symbolic roles in different cultures. These include both positive and negative roles in religion. In the traditional Navajo religion, Big Fly is an important spirit being. In Christian demonology, Beelzebub is a demonic fly, the "Lord of the Flies", and a god of the Philistines.
 Flies have appeared in literature since ancient Sumer. In a Sumerian poem, a fly helps the goddess Inanna when her husband Dumuzid is being chased by galla demons. In the Mesopotamian versions of the flood myth, the dead corpses floating on the waters are compared to flies. Later, the gods are said to swarm "like flies" around the hero Utnapishtim's offering. Flies appear on Old Babylonian seals as symbols of Nergal, the god of death. Fly-shaped lapis lazuli beads were often worn in ancient Mesopotamia, along with other kinds of fly-jewellery.

@@ -16,8 +16,6 @@ Rabbits and hares were formerly classified in the order Rodentia (rodents) until
 The extant species of family Leporidae, of which there are more than 70, are contained within 11 genera, one of which is Lepus, the hares. There are 32 extant species within Lepus. The cladogram is from Matthee et al., 2004, based on nuclear and mitochondrial gene analysis.
 
 ### Classification
-
-
 ### Differences from hares
 The term rabbit is typically used for all Leporidae species, excluding the genus Lepus. Members of that genus are known as hares or jackrabbits.
 Lepus species are precocial, born relatively mature and mobile with hair and good vision out in the open air, while rabbit species are altricial, born hairless and blind in burrows and buried nests. Hares are also generally larger than rabbits, and have longer pregnancies. Hares and some rabbits live relatively solitary lives above the ground in open grassy areas, interacting mainly during breeding season. Some rabbit species group together to reduce their chance of being preyed upon, and the European rabbit will form large social groups in burrows, which are grouped together to form warrens. Burrowing by hares varies by location, and is more prominent in younger members of the genus; many rabbit species that do not dig their own burrows will use the burrows of other animals.
@@ -29,8 +27,6 @@ Rabbits, specifically the European rabbit (Oryctolagus cuniculus) species, have 
 As livestock, European rabbits are bred for their meat and fur. The earliest breeds were important sources of meat, and so were bred to be larger than wild rabbits at younger ages, but domestic rabbits in modern times range in size from dwarf to giant. Rabbit fur, produced as a byproduct of meat production but occasionally selected for as in the case of the Rex rabbit, can be found in a broad range of coat colors and patterns, some of which are produced via dyeing. Some breeds are raised for their wool, such as the Angora rabbit breeds; their fur is sheared, combed or plucked, and the fibers are spun into yarn.
 
 ## Biology
-
-
 ### Evolution
 The earliest ancestor of rabbits and hares lived 55 million years ago in what is now Mongolia. Because the rabbit's epiglottis is engaged over the soft palate except when swallowing, the rabbit is an obligate nasal breather. As lagomorphs, rabbits have two sets of incisor teeth, one behind the other, a manner in which they differ from rodents, which only have one set of incisors. Another difference is that for rabbits, all of their teeth continue to grow, whereas for most rodents, only their incisors continue to grow.  Carl Linnaeus originally grouped rabbits and rodents under the class Glires; later, they were separated as the scientific consensus is that many of their similarities were a result of convergent evolution. DNA analysis and the discovery of a common ancestor have supported the view that they share a common lineage, so rabbits and rodents are now often grouped together in the clade or superorder Glires.
 

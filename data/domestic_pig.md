@@ -8,8 +8,6 @@ The pig has a large head, with a long snout strengthened by a special prenasal b
 Pigs possess both apocrine and eccrine sweat glands, although the latter are limited to the snout. Pigs, like other "hairless" mammals such as elephants, do not use thermal sweat glands in cooling. Pigs are less able than many other mammals to dissipate heat from wet mucous membranes in the mouth by panting. Their thermoneutral zone is 16–22 °C (61–72 °F). At higher temperatures, pigs lose heat by wallowing in mud or water via evaporative cooling, although it has been suggested that wallowing may serve other functions, such as protection from sunburn, ecto-parasite control, and scent-marking. Pigs are among four mammalian species with mutations in the nicotinic acetylcholine receptor that protect against snake venom. Mongooses, honey badgers, hedgehogs, and pigs all have different modifications to the receptor pocket which prevents α-neurotoxin from binding. Pigs have small lungs for their body size, and are thus more susceptible than other domesticated animals to fatal bronchitis and pneumonia. The genome of the pig has been sequenced; it contains about 22,342 protein-coding genes.
 
 ## Evolution
-
-
 ### Phylogeny
 Domestic pigs are related to other pig species as shown in the cladogram, based on phylogenetic analysis using mitochondrial DNA.
 
@@ -17,8 +15,6 @@ Domestic pigs are related to other pig species as shown in the cladogram, based 
 The pig is most often considered to be a subspecies of the wild boar, which was given the name Sus scrofa by Carl Linnaeus in 1758; following from this, the formal name of the pig is Sus scrofa domesticus. However, in 1777, Johann Christian Polycarp Erxleben classified the pig as a separate species from the wild boar. He gave it the name Sus domesticus, still used by some taxonomists. The American Society of Mammalogists considers it a separate species.
 
 ## History
-
-
 ### Domestication in the Neolithic
 Archaeological evidence shows that pigs were domesticated from wild boar in the Near East in or around the Tigris Basin, being managed in a semi-wild state much as they are managed by some modern New Guineans. There were pigs in Cyprus more than 11,400 years ago, introduced from the mainland, implying domestication in the adjacent mainland by then. Pigs were separately domesticated in China, starting some 8,000 years ago. In the Near East, pig husbandry spread for the next few millennia. It reduced gradually during the Bronze Age, as rural populations instead focused on commodity-producing livestock, but it was sustained in cities.
 Domestication did not involve reproductive isolation with population bottlenecks. Western Asian pigs were introduced into Europe, where they crossed with wild boar. There appears to have been interbreeding with a now extinct ghost population of wild pigs during the Pleistocene. The genomes of domestic pigs show strong selection for genes affecting behavior and morphology. Human selection for domestic traits likely counteracted the homogenizing effect of gene flow from wild boars and created domestication islands in the genome. Pigs arrived in Europe from the Near East at least 8,500 years ago. Over the next 3,000 years they interbred with European wild boar until their genome showed less than 5% Near Eastern ancestry, yet retained their domesticated features.
@@ -26,8 +22,6 @@ DNA evidence from subfossil remains of teeth and jawbones of Neolithic pigs show
 Domesticated pigs were among the three main domesticated animals (with chickens and dogs) carried by the seaborne Neolithic migrations of the Austronesian peoples to Island Southeast Asia and Oceania, around 4000 years ago. Most free-living and domesticated pigs from the Philippines to Hawai'i are descended from domesticated pigs (Sus scrofa) introduced by Austronesians from southeastern China and Taiwan via the Philippines. Other species of pigs (Sus celebensis, Sus barbatus, Sus cebifrons, and Sus verrucosus), also spread much earlier from Mainland Southeast Asia to Island Southeast Asia west of the Wallace Line, via natural means or earlier (non-Austronesian) hunter-gatherer groups. Many of these endemic pigs later hybridized with the S. scrofa carried by Austronesians. But pigs in Near and Remote Oceania don't exhibit admixture.
 
 ### In the Americas
-
-
 #### Columbian Exchange
 Among the animals that the Spanish introduced to the Chiloé Archipelago in the 16th century Columbian Exchange, pigs were the most successful in adapting to local conditions. The pigs benefited from abundant shellfish and algae exposed by the large tides of the archipelago. Pigs were brought to southeastern North America from Europe by de Soto and other early Spanish explorers. Escaped pigs became feral.
 
@@ -35,8 +29,6 @@ Among the animals that the Spanish introduced to the Chiloé Archipelago in the 
 Pigs have escaped from farms and gone feral in many parts of the world. Feral pigs in the southeastern United States have migrated north to the Midwest, where many state agencies have programs to remove them. Feral pigs in New Zealand and northern Queensland have caused substantial environmental damage. Feral hybrids of the European wild boar with the domestic pig are disruptive to both environment and agriculture, as they destroy crops, spread animal diseases including foot-and-mouth disease, and consume wildlife such as juvenile seabirds and young tortoises. Feral pig damage is especially an issue in southeastern South America.
 
 ## Reproduction
-
-
 ### Physiology
 Female pigs reach sexual maturity at 3–12 months of age and come into estrus every 18–24 days if they are not successfully bred. The variation in ovulation rate can be attributed to intrinsic factors such as age and genotype, as well as extrinsic factors like nutrition, environment, and the supplementation of exogenous hormones. The gestation period averages 112–120 days.
 
@@ -55,8 +47,6 @@ The phase of competition for teats and of nosing the udder lasts for about a min
 In pigs, dominance hierarchies are formed at an early age. Piglets are precocious, and attempt to suckle soon after being born. The piglets are born with sharp teeth and fight for the anterior teats, as these produce more milk. Once established, this teat order remains stable; each piglet tends to feed on a particular teat or group of teats. Stimulation of the anterior teats appears to be important in causing milk letdown, so it might be advantageous to the entire litter to have these teats occupied by healthy piglets. Piglets locate teats by sight and then by olfaction.
 
 ## Behaviour
-
-
 ### Social
 Pig behaviour is intermediate between that of other artiodactyls and of carnivores. Pigs seek out the company of other pigs and often huddle to maintain physical contact, but they do not naturally form large herds. They live in groups of about 8–10 adult sows, some young individuals, and some single males. Pigs confined in a simplified, crowded, or uncomfortable environment may resort to tail-biting; farmers sometimes dock the tails of pigs to prevent the problem, or may enrich the environment with toys or other objects to reduce the risk.
 
@@ -80,8 +70,6 @@ Pigs are subject to many pests and diseases which can seriously affect productiv
 Some parasites of pigs are a public health risk as they can be transmitted to humans in undercooked pork. These are the pork tapeworm Taenia solium; a protozoan, Toxoplasma gondii; and a nematode, Trichinella spiralis. Transmission can be prevented by thorough sanitation on the farm; by meat inspection and careful commercial processing; and by thorough cooking, or alternatively by sufficient freezing and curing.
 
 ## In agriculture
-
-
 ### Production
 Pigs have been raised outdoors, and sometimes allowed to forage in woods or pastures. In industrialized nations, pig production has largely switched to large-scale intensive pig farming. This has lowered production costs but has caused concern about possible cruelty. As consumers have become concerned with the humane treatment of livestock, demand for pasture-raised pork in these nations has increased. Most pigs in the US receive ractopamine, a beta-agonist drug, which promotes muscle instead of fat and quicker weight gain, requiring less feed to reach finishing weight, and producing less manure. China has requested that pork exports be ractopamine-free. With a population of around 1 billion individuals, the domesticated pig is one of the most numerous large mammals on the planet.
 Like all animals, pigs are susceptible to adverse impacts from climate change, such as heat stress from increased annual temperatures and more intense heatwaves. Heat stress has increased rapidly between 1981 and 2017 on pig farms in Europe. Installing a ground-coupled heat exchanger is an effective intervention.
@@ -98,8 +86,6 @@ The pork belly futures contract became an icon of commodities trading. It appear
 In 2023, China produced more pork than any other country, 55 million tonnes, followed by the European Union with 22.8 million tonnes and the United States with 12.5 million tonnes. Global production in 2023 was 120 million tonnes. India, despite its large population, consumed under 0.3 million tonnes of pork in 2023. International trade in pork (meat not consumed in the producing country) reached 13 million tonnes in 2020.
 
 ## Uses
-
-
 ### Products
 Pigs are farmed primarily for meat, called pork. Pork is eaten in the form of pork chops, loin or rib roasts, shoulder joints, steaks, and loin (also called fillet). The many meat products made from pork include ham, bacon (mainly from the back and belly), and sausages. Pork is further made into charcuterie products such as terrines, galantines, pâtés and confits. Some sausages such as salami are fermented and air-dried, to be eaten raw. There are many types, the original Italian varieties including Genovese, Milanese, and Cacciatorino, with spicier kinds from the South of Italy including Calabrese, Napoletano, and Peperone.
 The hide is made into pigskin leather, which is soft and durable; it can be brushed to form suede leather. These are used for products such as gloves, wallets, suede shoes, and leather jackets. In the 16th century, pig skin was the most popular book-binding material in Germany, though calf skin was more common elsewhere.
@@ -109,8 +95,6 @@ Pigs, both as live animals and as a source of post-mortem tissues, are valuable 
 Pigs are good non-human candidates for organ donation to humans, and in 2021 became the first animal to successfully donate an organ to a human body. The procedure used a donor pig genetically engineered not to have a specific carbohydrate that the human body considers a threat–Galactose-alpha-1,3-galactose. Pigs are good for human donation as the risk of cross-species disease transmission is reduced by the considerable phylogenetic distance from humans. They are readily available, and the danger of creating new human diseases is low as domesticated pigs have been in close contact with humans for thousands of years.
 
 ## Impact of pig husbandry
-
-
 ### On public health
 Pig farms can serve as reservoirs of viral diseases that are dangerous to humans and so contribute to their outbreaks in human populations. The 2009 swine flu pandemic was caused by an influenza A variant which had first emerged in pigs. Pigs were also essential to the first outbreak of the Nipah virus in 1999, with 93% of the infected humans having had contact with pigs. While Japanese encephalitis is primarily spread by mosquitoes, pigs are a known intermediary host. There is also a potential for porcine coronaviruses such as porcine epidemic diarrhea virus or swine acute diarrhea syndrome coronavirus to spill over into human populations.
 

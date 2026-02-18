@@ -33,8 +33,6 @@ Adults measure around 1.2 to 1.9 m (3 ft 11 in to 6 ft 3 in) long, including a t
 The giant panda's paw has a digit similar to a thumb and five fingers; the thumb-like digit is actually a modified sesamoid bone that helps it to hold bamboo while eating. The evolution of the panda's pseudo-thumb may have occurred because the first digit of its forepaws, equivalent to the thumb in primates, is not opposable and is aligned with the rest of the digits. The giant panda's tail, measuring 10 to 15 cm (3.9 to 5.9 in), is the second-longest in the bear family after the sloth bear.
 
 ## Ecology
-
-
 ### Diet
 Despite its taxonomic classification as a carnivoran, the giant panda's diet is primarily herbivorous, with approximately 99% of its diet consisting of bamboo. However, the giant panda still has the digestive system of a carnivore, as well as carnivore-specific genes, and thus derives little energy and little protein from the consumption of bamboo. The ability to break down cellulose and lignin is very weak, and their main source of nutrients comes from starch and hemicelluloses. The most important part of their bamboo diet is the shoots, that are rich in starch and have up to 32% protein content. Accordingly, pandas have evolved a higher capability to digest starches than strict carnivores. Raw bamboo is toxic, containing cyanide compounds. Pandas' body tissues are less able than herbivores to detoxify cyanide, but their gut microbiomes are significantly enriched in putative genes coding for enzymes related to cyanide degradation, suggesting that they have cyanide-digesting gut microbes. It has been estimated that an adult panda absorbs 54.8–66.1 mg (0.846–1.020 gr) of cyanide a day through its diet. To prevent poisoning, they have evolved anti-toxic mechanisms to protect themselves. About 80% of the cyanide is metabolized to less toxic thiocyanate and discharged in urine, while the remaining 20% is detoxified by other minor pathways.
 
@@ -73,8 +71,6 @@ In July 2009, Chinese scientists confirmed the birth of the first cub to be succ
 Attempts have also been made to reproduce giant pandas by interspecific pregnancy where cloned panda embryos were implanted into the uterus of an animal of another species. This has resulted in panda fetuses, but no live births.
 
 ## Human interaction
-
-
 ### Early references
 In Ancient China, people thought pandas to be rare and noble creatures – the Empress Dowager Bo was buried with a panda skull in her vault. The grandson of Emperor Taizong of Tang is said to have given Japan two pandas and a sheet of panda skin as a sign of goodwill. Unlike many other animals in Ancient China, pandas were rarely thought to have medical uses. The few known uses include the Sichuan tribal peoples' use of panda urine to melt accidentally swallowed needles, and the use of panda pelts to control menstruation as described in the Qin dynasty encyclopedia Erya.
 The creature named mo (貘) mentioned in some ancient books has been interpreted as giant panda. The dictionary Shuowen Jiezi (Eastern Han Dynasty) says that the mo, from Shu (Sichuan), is bear-like, but yellow-and-black, although the older Erya describes mo simply as a "white leopard". The interpretation of the legendary fierce creature pixiu (貔貅) as referring to the giant panda is also common.

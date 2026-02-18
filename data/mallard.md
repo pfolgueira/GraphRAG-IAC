@@ -42,8 +42,6 @@ The mallard is widely distributed across the Northern and Southern Hemispheres; 
 The mallard inhabits a wide range of habitats and climates, from the Arctic tundra to subtropical regions. It is found in both fresh- and salt-water wetlands, including parks, small ponds, rivers, lakes and estuaries, as well as shallow inlets and open sea within sight of the coastline. Water depths of less than 0.9 metres (3.0 ft) are preferred, with birds avoiding areas more than a few metres deep. They are attracted to bodies of water with aquatic vegetation.
 
 ## Behaviour
-
-
 ### Feeding
 The mallard is omnivorous and very flexible in its choice of food. Its diet may vary based on several factors, including the stage of the breeding cycle, short-term variations in available food, nutrient availability, and interspecific and intraspecific competition. The majority of the mallard's diet seems to be made up of gastropods, insects (including beetles, flies, lepidopterans, dragonflies, and caddisflies), crustaceans, other arthropods, worms, feces of other birds, many varieties of seeds and plant matter, and roots and tubers. During the breeding season, male birds were recorded to have eaten 37.6% animal matter and 62.4% plant matter, most notably the grass Echinochloa crus-galli, and nonlaying females ate 37.0% animal matter and 63.0% plant matter, while laying females ate 71.9% animal matter and only 28.1% plant matter. Plants generally make up the larger part of a bird's diet, especially during autumn migration and in the winter.
 
@@ -80,8 +78,6 @@ The eastern or Chinese spot-billed duck is currently introgressing into the mall
 The Laysan duck is an insular relative of the mallard, with a very small and fluctuating population. Mallards sometimes arrive on its island home during migration, and can be expected to occasionally have remained and hybridised with Laysan ducks as long as these species have existed. However, these hybrids are less well adapted to the peculiar ecological conditions of Laysan Island than the local ducks, and thus have lower fitness. Laysan ducks were found throughout the Hawaiian archipelago before 400 AD, after which they suffered a rapid decline during the Polynesian colonisation. Now, their range includes only Laysan Island. It is one of the successfully translocated birds, after having become nearly extinct in the early 20th century.
 
 ## Relationship with humans
-
-
 ### Domestication
 Mallards have often been ubiquitous in their regions among the ponds, rivers, and streams of human parks, farms, and other human-made waterways – even to the point of visiting water features in human courtyards.
 Mallards have had a long relationship with humans. Almost all domestic duck breeds derive from the mallard, with the exception of a few Muscovy breeds, and are listed under the trinomial name A. p. domesticus. Mallards are generally monogamous while domestic ducks are mostly polygamous. Domestic ducks have no territorial behaviour and are less aggressive than mallards. Domestic ducks are mostly kept for meat; their eggs are also eaten, and have a strong flavour. They were first domesticated in Southeast Asia at least 4,000 years ago, during the Neolithic Age, and were also farmed by the Romans in Europe, and the Malays in Asia. As the domestic duck and the mallard are the same species as each other, it is common for mallards to mate with domestic ducks and produce hybrid offspring that are fully fertile. Because of this, mallards have been found to contain genes of the domestic duck.
@@ -103,4 +99,3 @@ Migration is an animated adventure comedy film produced by Universal Pictures an
 The world's loneliest duck, named "Trevor" by locals after New Zealand politician Trevor Mallard, appeared without explanation on the Pacific island of Niue, dying there in 2019.
 
 ## Footnotes
-

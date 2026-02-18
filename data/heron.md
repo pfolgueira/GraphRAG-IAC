@@ -22,8 +22,6 @@ The herons are a widespread family with a cosmopolitan distribution. They exist 
 The herons are a highly mobile family, with most species being at least partially migratory; for example, the grey heron is mostly sedentary in Britain, but mostly migratory in Scandinavia. Birds are particularly inclined to disperse widely after breeding, but before the annual migration, where the species is colonial, searching out new feeding areas and reducing the pressures on feeding grounds near the colony. The migration typically occurs at night, usually as individuals or in small groups.
 
 ## Behaviour and ecology
-
-
 ### Diet
 Herons, egrets, and bitterns are carnivorous. The members of this family are mostly associated with wetlands and water and feed on a variety of live aquatic prey. Their diet includes a wide variety of aquatic animals, including fish, reptiles, amphibians, crustaceans, molluscs, and aquatic insects. Individual species may be generalists or specialize in certain prey types, such as the yellow-crowned night heron, which specializes in crustaceans, particularly crabs. Many species also opportunistically take larger prey, including birds and bird eggs, rodents, and more rarely carrion. Even more rarely, herons eating acorns, peas, and grains have been reported, but most vegetable matter consumed is accidental.
 

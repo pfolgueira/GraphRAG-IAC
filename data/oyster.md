@@ -6,8 +6,6 @@ Some species of oyster are commonly consumed and are regarded as a delicacy in s
 The word oyster comes from Old French oistre, and first appeared in English during the 14th century.  The French derived from the Latin ostrea, the feminine form of ostreum, which is the latinisation of the Ancient Greek ὄστρεον (ostreon) 'oyster'. Compare ὀστέον (osteon) 'bone'.
 
 ## Types
-
-
 ### True oysters
 True oysters are members of the family Ostreidae. This family includes the edible oysters, which mainly belong to the genera Ostrea, Crassostrea, Magallana, and Saccostrea. Examples include the European flat oyster, eastern oyster, Olympia oyster, Pacific oyster, and the Sydney rock oyster. Ostreidae evolved in the Early Triassic epoch: The genus Liostrea grew on the shells of living ammonoids.
 
@@ -134,8 +132,6 @@ Depuration of oysters is a common industry practice and widely researched in the
 Oyster depuration begins after the harvest of oysters from farmed locations. The oysters are transported and placed into tanks pumped with clean water for periods of 48 to 72 hours. The holding temperatures and salinity vary according to species. The seawater that the oysters were originally farmed in does not remain in the oyster, since the water used for depuration must be fully sterilized, and the depuration facility would not necessarily be located near the farming location. Depuration of oysters can remove moderate levels of contamination of most bacterial indicators and pathogens. Well-known contaminants include Vibrio parahaemolyticus, a temperature-sensitive bacterium found in seawater animals, and Escherichia coli, a bacterium found in coastal waters near highly populated cities having sewage systems discharging waste nearby, or in the presence of agricultural discharges. Depuration expands beyond oysters into many shellfish and other related products, especially in seafood that is known to come from potentially polluted areas; depurated seafood is effectively a product cleansed from inside-out to make it safe for human consumption.
 
 ### Cultural aspects
-
-
 #### Religious
 As shellfish, consumption of oyster is forbidden by Jewish dietary law. Similarly, in Islam, Jaʽafari Shia and Hanafi Sunni dietary jurisprudence prohibit consuming bivalves, including oysters, as it is makruh (highly disliked).
 

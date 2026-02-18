@@ -149,8 +149,6 @@ In Kazakhstan, habitat restoration and reintroduction of prey species in Ile-Bal
 Reintroduction of tigers is considered possible in eastern Cambodia, once management of protected areas is improved and forest loss stabilized. South China tigers are kept and bred in Chinese zoos, with plans to reintroduce their offspring into remote protected areas. Coordinated breeding programs among zoos have led to enough genetic diversity in tigers to act as "insurance against extinction in the wild".
 
 ## Relationship with humans
-
-
 ### Hunting
 Tigers have been hunted by humans for millennia, as indicated by a painting on the Bhimbetka rock shelters in India that is dated to 5,000–6,000 years ago. They were hunted throughout their range in Asia, chased on horseback, elephant-back or even with sled dogs and killed with spears and later firearms. Such hunts were conducted both by Asian governments and empires like the Mughal Empire, as well as European colonists. Tigers were often hunted as trophies and because of their perceived danger. An estimated 80,000 tigers were killed between 1875 and 1925.
 

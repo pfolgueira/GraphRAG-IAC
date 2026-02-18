@@ -45,8 +45,6 @@ The greater flamingo is the tallest of the six different species of flamingos, s
 Flamingos can open their bills by raising the upper jaw as well as by dropping the lower.
 
 ## Behavior and ecology
-
-
 ### Feeding
 Flamingos are omnivores who filter-feed on brine shrimp, cyanobacteria, larvae, insects, mollusks and crustaceans. Their bills are adapted to separate mud and silt from the food they eat and are uniquely used upside-down. The filtering of food is assisted by hairy structures called lamellae, which line the mandible, and their large, rough tongue. By rapidly retracting their head, flamingos generate vortexes that stir up sediment and shrimp. Flamingos further induce directional flows by chattering their beaks, while their stomping creates eddies to trap invertebrates.
 The pink or reddish color of flamingos comes from carotenoids in their diet of animal and plant plankton. American flamingos are a brighter red color because of the beta carotene availability in their food while the lesser flamingos are a paler pink due to ingesting a smaller amount of this pigment. These carotenoids are broken down into pigments by liver enzymes. The source of this varies by species, and affects the color saturation. Flamingos whose sole diet is blue-green algae are darker than those that get it second-hand by eating animals that have digested blue-green algae.
@@ -63,16 +61,12 @@ After the chicks hatch, the only parental expense is feeding. Both the male and 
 For the first six days after the chicks hatch, the adults and chicks stay in the nesting sites. At around 7–12 days old, the chicks begin to move out of their nests and explore their surroundings. When they are two weeks old, the chicks congregate in groups, called "microcrèches", and their parents leave them alone. After a while, the microcrèches merge into "crèches" containing thousands of chicks. Chicks that do not stay in their crèches are vulnerable to predators. When young flamingos are around three to three and a half months old, their flight feathers will finish growing in, allowing them to fly.
 
 ## Status and conservation
-
-
 ### In captivity
 The first flamingo hatched in a European zoo was a Chilean flamingo at Zoo Basel in Switzerland in 1958. Since then, over 389 flamingos have grown up in Basel and been distributed to other zoos around the globe.
 Greater, a greater flamingo who was at least 83 years old and believed to be the oldest in the world, died at the Adelaide Zoo in Australia in January 2014.
 Zoos have used mirrors to encourage flamingos to breed. The mirrors are thought to give the flamingos the impression that they are in a larger flock than they actually are.
 
 ## Relationship with humans
-
-
 ### Ancient Roman cuisine
 While many different kinds of birds were valued items in Roman food, flamingos were among the most prized in Ancient Roman cuisine. An early reference to their consumption, and especially of their tongues, is found in Pliny the Elder, who states in the Natural History:
 

@@ -14,8 +14,6 @@ Since 1791, the Latin word Pinguinus has been used in scientific classification 
 The birds currently known as penguins were discovered later and were so named by sailors because of their physical resemblance to the great auk. Despite this resemblance, however, they are not auks, and are not closely related to the great auk. They do not belong in the genus Pinguinus, and are not classified in the same family and order as the great auk. They were classified in 1831 by Charles Lucien Bonaparte in several distinct genera within the family Spheniscidae and order Sphenisciformes.
 
 ## Systematics and evolution
-
-
 ### Taxonomy
 The family name of Spheniscidae was given by Charles Lucien Bonaparte from the genus Spheniscus, the name of that genus comes from the Greek word σφήν sphēn "wedge" used for the shape of an African penguin's swimming flippers.
 Some recent sources apply the phylogenetic taxon Spheniscidae to what here is referred to as Spheniscinae. Furthermore, they restrict the phylogenetic taxon Sphenisciformes to flightless taxa, and establish the phylogenetic taxon Pansphenisciformes as equivalent to the Linnean taxon Sphenisciformes, i.e., including any flying basal "proto-penguins" to be discovered eventually. Given that neither the relationships of the penguin subfamilies to each other nor the placement of the penguins in the avian phylogeny is presently resolved, this is confusing, so the established Linnean system is followed here.
@@ -69,8 +67,6 @@ They can drink salt water because their supraorbital gland filters excess salt f
 Around one in 50,000 penguins (of most species) are born with brown rather than black plumage. These are called isabelline penguins. Isabellinism is different from albinism. Isabelline penguins tend to live shorter lives than normal penguins, as they are not well-camouflaged against the deep and are often passed over as mates.
 
 ## Behaviour
-
-
 ### Breeding
 Penguins for the most part breed in large colonies, the exceptions being the yellow-eyed and Fiordland species; these colonies may range in size from as few as 100 pairs for gentoo penguins to several hundred thousand in the case of king, macaroni and chinstrap penguins. Living in colonies results in a high level of social interaction between birds, which has led to a large repertoire of visual as well as vocal displays in all penguin species. Agonistic displays are those intended to confront or drive off, or alternately appease and avoid conflict with, other individuals.
 Penguins form monogamous pairs for a breeding season, though the rate the same pair recouples varies drastically. Most penguins lay two eggs in a clutch, although the two largest species, the emperor and the king penguins, lay only one. With the exception of the emperor penguin, where the male does it all, all penguins share the incubation duties. These incubation shifts can last days and even weeks as one member of the pair feeds at sea.

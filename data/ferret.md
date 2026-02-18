@@ -9,8 +9,6 @@ The Greek word ἴκτις íktis, Latinized as ictis occurs in a play written b
 A male ferret is called a hob; a female ferret is a jill. A spayed female is a sprite, a neutered male is a gib, and a vasectomised male is known as a hoblet. Ferrets under one year old are known as kits. A group of ferrets is known as a "business", or historically as a "busyness". Other purported collective nouns, including "besyness", "fesynes", "fesnyng" and "feamyng", appear in some dictionaries, but are almost certainly ghost words.
 
 ## Biology
-
-
 ### Characteristics
 Ferrets have a typical mustelid body-shape, being long and slender. Their average length is about 50 cm (20 in) including a 13 cm (5.1 in) tail. Their pelage has various colorations including brown, black, white or mixed. They weigh between 0.7 and 2.0 kg (1.5 and 4.4 lb) and are sexually dimorphic as the males are substantially larger than females. The average gestation period is 42 days and females may have two or three litters each year. The litter size is usually between three and seven kits which are weaned after three to six weeks and become independent at three months. They become sexually mature at approximately 6 months and the average life span is 7 to 10 years. Ferrets are induced ovulators and can copulate for longer than one hour.
 

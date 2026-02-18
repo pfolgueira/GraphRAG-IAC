@@ -10,11 +10,7 @@ Alligators and caimans split in North America during the early Tertiary or late 
 The genus Alligator belongs to the subfamily Alligatorinae, which is the sister taxon to Caimaninae (the caimans). Together, these two subfamilies form the family Alligatoridae. The cladogram below shows the phylogeny of alligators.
 
 ## Species
-
-
 ### Extant
-
-
 ### Extinct
 Alligator hailensis
 Alligator luicus
@@ -73,4 +69,3 @@ Integumentary sense organs: Both crocodiles and alligators have small, pit-like 
 Less consistent differences: Crocodiles are generally thought of as more aggressive than alligators. Of the 26 crocodilian species, only six are considered dangerous to adult human beings, most notably the Nile crocodile and saltwater crocodile. Each year, hundreds of deadly attacks are attributed to the Nile crocodile in sub-Saharan Africa. The American crocodile is considered to be less aggressive. Only a few (unverified) cases of American crocodiles fatally attacking humans have been reported.
 
 ## Image gallery of extant species
-

@@ -15,8 +15,6 @@ The South American canids, including the bush dog (Speothos venaticus), hoary fo
 Various monotypic taxa, including the gray fox (Urocyon cinereoargenteus).
 
 ## Biology
-
-
 ### General morphology
 Foxes are generally smaller than some other members of the family Canidae such as wolves and jackals, while they may be larger than some within the family, such as raccoon dogs. In the largest species, the red fox, males weigh between 4.1 and 8.7 kg (9.0 and 19.2 lb), while the smallest species, the fennec fox, weighs 0.7 to 1.6 kg (1+1⁄2 to 3+1⁄2 lb).
 Fox features typically include a triangular face, pointed ears, an elongated rostrum, and a bushy tail. They are digitigrade (meaning they walk on their toes). Unlike most members of the family Canidae, foxes have partially retractable claws. Fox vibrissae, or whiskers, are black. The whiskers on the muzzle, known as mystacial vibrissae, average 100–110 millimetres (3+7⁄8–4+3⁄8 inches) long, while the whiskers everywhere else on the head average to be shorter in length. Whiskers (carpal vibrissae) are also on the forelimbs and average 40 mm (1+5⁄8 in) long, pointing downward and backward. Other physical characteristics vary according to habitat and adaptive significance.

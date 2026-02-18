@@ -9,8 +9,6 @@ Another popular belief is that it's derived from the Latin "pugnus" meaning "fis
 The Oxford English Dictionary has the word "pug" as in the dog breed being descended from the meaning of "A dwarf animal, an imp, etc.". Since the late 16th century the term "pug" has been used in English to describe squirrels, hares, foxes, ferret, salmon, sheep, and monkeys. The first attestation of "Pug-dog" is in 1749. The OED also notes it may be related to a now obsolete term of endearment for a person or animal.
 
 ## Description
-
-
 ### Physical characteristics
 While the Pugs that are depicted in eighteenth century prints tend to be long and lean, modern breed preferences are for a square cobby body, a compact form, a deep chest, and well-developed muscle. Their smooth and glossy coats can be fawn, apricot fawn, silver fawn, or black. The markings are clearly defined and there is a trace of a black line extending from the occiput to the tail. The tail normally curls tightly over the hip.
 The Pug's muzzle is blunt and very short giving a square shaped appearance to the head.
@@ -21,8 +19,6 @@ Pugs' legs are strong, straight, of moderate length, and are set well under. The
 The American Kennel Club says the motto of the breed is the Latin phrase multum in parvo, or "much in little" or "a lot of dog in a small space". Pugs tend to be intuitive and sensitive to the moods of their owners and are usually eager to please them. Pugs are playful and thrive on human companionship. Pugs are often called "shadows" because they follow their owners around and like to stay close to the action, craving attention and affection from their owners.
 
 ## History
-
-
 ### Chinese origins
 The ancestor of the Pug was a dog called the Lo-Chiang-Sze, or Lo-Sze in its shortened form. That name explicitly refers to a short-legged, short-mouthed and, most importantly, short-coated dog, potentially as a way to distinguish it from the Pekingese, which was of similar build. Many people today refer to it as the "ancient pug".
 The Lo-sze was popular in the imperial court during the Song dynasty and was brought from China to Europe in the sixteenth century by the Dutch East India Company. The Happa or Hap-pah dog has also been considered as playing a part in the formation of the modern Pug breed, but it was not acquired by European fanciers until 1860 when specimens were looted by French and British troops during their complete destruction of the Old Summer Palace (Yuanmingyuan) in Beijing, during the Second Opium War.
@@ -55,8 +51,6 @@ The World Champion – or Best in Show – at the 2004 World Dog Show held in Ri
 The breeding trend of Pugs led to shorter muzzles and shorter legs over time, with the dogs susceptible to some health problems. In 2023, the Netherlands placed limitations on the breeding of various short-faced breeds, including the conventional Pug. Since around 2006 there has been a counter-trend in some countries to breed "retro pugs". Breeders who pursue that change in the breed aim for longer snouts, less protruding eyes, straighter legs and fewer facial wrinkles.
 
 ## Health problems
-
-
 ### Brachycephaly
 Since Pugs lack longer snouts and prominent skeletal brow ridges, they are susceptible to eye injuries such as proptosis, scratched corneas, and painful entropion. They're also prone to dry eyes, inflammation of the cornea, and corneal pigmentation, leading to vision impairment or even blindness if untreated. 
 The shortened snout and pushed in face of the Pug is known as brachycephaly. Brachycephaly results in deformation of the upper airway tract and leads to obstruction of breathing. Potential effects of brachycephaly are stridor, stertorous breathing, emesis, skin fold dermatitis, brachycephalic airway obstructive syndrome, exophthalmos, pharyngeal gag reflex, cyanosis, and laryngeal collapse.
@@ -82,8 +76,6 @@ A UK study found the Pug to be at a 7.49 times greater risk of impaired hepatic 
 Due to the relative size of neonatal skulls to the birth canal, Pugs are highly predisposed to requiring cesarean births.
 
 ## Historical depictions of Pugs
-
-
 ## Celebrity owners
 Famous owners of Pugs include Billy Joel, Belinda Carlisle, Jessica Alba, Gerard Butler and Kelly Brook.
 

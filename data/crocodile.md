@@ -135,8 +135,6 @@ Hatching call: Emitted by a female when breeding to alert other crocodiles that 
 Bellowing: Male crocodiles are especially vociferous. Bellowing choruses occur most often in the spring when breeding groups congregate, but can occur at any time of year. To bellow, males noticeably inflate as they raise the tail and head out of water, slowly waving the tail back and forth. They then puff out the throat and with a closed mouth, begin to vibrate air. Just before bellowing, males project an infrasonic signal at about 10 Hz through the water, which vibrates the ground and nearby objects. These low-frequency vibrations travel great distances through both air and water to advertise the male's presence and are so powerful they result in the water's appearing to "dance".
 
 ### Reproduction
-
-
 #### Mating
 Courtship takes place in a series of behavioural interactions that include a variety of snout rubbing and submissive display that can take a long time. Mating always takes place in water, where the pair can be observed mating several times.
 
@@ -150,8 +148,6 @@ Crocodiles possess some advanced cognitive abilities. Crocodiles cooperatively h
 Vladimir Dinets of the University of Tennessee, observing crocodile's use of twigs as bait was inconclusive.
 
 ## Relationship with humans
-
-
 ### Danger to humans
 The larger species of crocodiles are very dangerous to humans, mainly because of their ability to strike before the person can react. The saltwater crocodile and Nile crocodile are the most dangerous, killing hundreds of people each year in parts of Southeast Asia and Africa. The mugger crocodile and American crocodile are also dangerous to humans.
 

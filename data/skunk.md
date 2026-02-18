@@ -63,8 +63,6 @@ Skunks are common in suburban areas, and domestic dogs are often sprayed by skun
 Skunk spray is composed mainly of three low-molecular-weight thiol compounds, (E)-2-butene-1-thiol, 3-methyl-1-butanethiol, and 2-quinolinemethanethiol, as well as acetate thioesters of these. These compounds are detectable by the human nose at concentrations of only 11.3 parts per billion.
 
 ## Relations with humans
-
-
 ### Bites
 It is rare for a healthy skunk to bite a human, though a tame skunk whose scent glands have been removed (usually on behalf of those who will keep it as a pet) may defend itself by biting. There are, however, a few recorded incidents of skunks biting humans.  Skunk bites in humans can result in infection with the rabies virus. The Centers for Disease Control (CDC) recorded 1,494 cases of rabies in skunks in the United States for the year 2006—about 21.5% of reported cases in all species. 
 Skunks in fact are less prominent than raccoons as vectors of rabies. (However, this varies regionally in the United States, with raccoons dominating along the Atlantic coast and the eastern Gulf of Mexico, while skunks instead predominate throughout the Midwest, including the western Gulf, and in California.)

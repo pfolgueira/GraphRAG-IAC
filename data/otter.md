@@ -29,11 +29,7 @@ In 1990, an otter was observed belly-sliding in Singapore, likely as a form of a
 Different species vary in their social structure, some being largely solitary, while others live in groups – in a few species these groups may be fairly large.
 
 ## Species
-
-
 ### Extant species
-
-
 ### Extinct taxa
 Subfamily Lutrinae
 
@@ -63,8 +59,6 @@ Genus †Tyrrhenolutra – Italy, Late Miocene
 Genus †Vishnuonyx – Europe, Asia and Africa, Late Miocene to Early Pliocene
 
 ## Relation with humans
-
-
 ### Hunting
 Otters have been hunted for their pelts from at least the 1700s, although it may have begun well before then. Early hunting methods included darts, arrows, nets and snares but later, traps were set on land and guns used.
 There has been a long history of otter pelts being worn around the world. In China it was standard for the royalty to wear robes made from them. People that were financially high in status also wore them. The tails of otters were often made into items for men to wear. These included hats and belts. Even some types of mittens for children have been made from the fur of otters.

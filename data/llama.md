@@ -86,8 +86,6 @@ Llamas have a fine undercoat, which can be used for handicrafts and garments. Th
 Doctors and researchers have determined that llamas possess antibodies that are well-suited to treat certain diseases. Scientists have been studying the way llamas might contribute to the fight against coronaviruses, including MERS and SARS-CoV-2 (which causes COVID-19).
 
 ## History of domestication
-
-
 ### Pre-Incan cultures
 Scholar Alex Chepstow-Lusty has argued that the switch from a hunter-gatherer lifestyle to widespread agriculture was only possible because of the use of llama dung as fertilizer.
 The Moche people frequently placed llamas and their parts in the burials of important people as offerings or provisions for the afterlife. The Moche of pre-Columbian Peru depicted llamas quite realistically in their ceramics.

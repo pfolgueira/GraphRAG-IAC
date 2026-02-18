@@ -4,19 +4,13 @@ Crabs vary in size from the pea crab, a few millimeters wide, to the Japanese sp
 Crabs make up about 20% of the marine crustaceans that are caught or farmed for human consumption. In British cuisine, dressed crab is a traditional seafood meal, while in Goa and Mozambique, crab curry is a typical dish. Crabs feature in Greek and Malay mythology, and as the astrological sign Cancer. They have appeared in art in media including pottery, paintings, blouse panels, and book illustrations. Hermit crabs are often kept in aquariums and as pets. A popular meme jokes that everything will evolve into crabs, based inaccurately on the genuine evolutionary trend within the decapods.
 
 ## Diversity
-
-
 ### Taxonomic range
-
-
 #### Phylogeny
 Crabs are not a single taxonomic group. Instead, alongside the Brachyura or true crabs, are multiple groups of the Anomura that are called crabs, including the hermit crabs, mole crabs, king crabs, and porcelain crabs. 
 A distantly-related group of arthropods, the horseshoe crabs, with an armoured carapace but a quite different body plan, is a member of the Chelicerata, the group that includes the spiders and scorpions.
 The crab body form and associated behaviour have arisen independently at different times in multiple groups of decapod crustaceans (boldface in tree).
 
 #### Specific groups
-
-
 ##### Chelicerata
 Horseshoe crabs (Xiphosura) are an ancient group, known from the late Ordovician of Canada, around 445 million years ago. Their bodies are divided into an anterior prosoma (fused head and thorax) and a posterior opisthosoma, or abdomen. The upper surface of the prosoma is covered by a semicircular carapace (top part of the shell), while the underside bears five pairs of walking legs and a pair of pincer-like chelicerae. The mouth is on the underside of the prosoma, between the bases of the walking legs.
 
@@ -49,8 +43,6 @@ The carcinised body form is defined by Keiler and colleagues (2014) as having th
 "The pleon is flattened and strongly bent, in dorsal view completely hiding the tergites of the fourth pleonal segment, and partially or completely covers the plastron."
 
 ## Interactions with humans
-
-
 ### Fisheries and food
 Crabs make up some 20% of all marine crustaceans caught, farmed, and consumed worldwide, amounting to 1.5 million tonnes annually. One species, the Asian blue crab Portunus trituberculatus, accounts for one-fifth of that total. Other commercially important taxa include Portunus pelagicus, several species in the genus Chionoecetes, the blue crab (Callinectes sapidus), Charybdis spp., Cancer pagurus, the Dungeness crab (Metacarcinus magister), and Scylla serrata, each of which yields more than 20,000 tonnes annually.
 

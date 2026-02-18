@@ -8,8 +8,6 @@ The word turtle is borrowed from the French word tortue or tortre 'turtle, torto
 The name of the order, Testudines (  teh-STEW-din-eez), is based on the Latin word testudo 'tortoise'; and was coined by German naturalist August Batsch in 1788. The order has also been historically known as Chelonii (Latreille 1800) and Chelonia (Ross and Macartney 1802), which are based on the Ancient Greek word χελώνη (chelone) 'tortoise'. Testudines is the official order name due to the principle of priority. The term chelonian is used as a formal name for members of the group.
 
 ## Anatomy and physiology
-
-
 ### Size
 The largest living species of turtle (and fourth-largest reptile) is the leatherback turtle, which can reach over 2.7 m (8 ft 10 in) in length and weigh over 500 kg (1,100 lb). The largest known turtle was Archelon ischyros, a Late Cretaceous sea turtle up to 4.5 m (15 ft) long, 5.25 m (17 ft) wide between the tips of the front flippers, and estimated to have weighed over 2,200 kg (4,900 lb). The smallest living turtle is Chersobius signatus of South Africa, measuring no more than 10 cm (3.9 in) in length and weighing 172 g (6.1 oz).
 
@@ -56,8 +54,6 @@ Turtles, like other reptiles, have a limited ability to regulate their body temp
 Adult sea turtles, too, have large enough bodies that they can to some extent control their temperature. The largest turtle, the leatherback, can swim in the waters off Nova Scotia, which may be as cold as 8 °C (46 °F), while their body temperature has been measured at up to 12 °C (22 °F) warmer than the surrounding water. To help keep their temperature up, they have a system of countercurrent heat exchange in the blood vessels between their body core and the skin of their flippers. The vessels supplying the head are insulated by fat around the neck.
 
 ## Behavior
-
-
 ### Diet and feeding
 Most turtle species are opportunistic omnivores; land-dwelling species are more herbivorous and aquatic ones more carnivorous. Generally lacking speed and agility, most turtles feed either on plant material or on animals with limited movements like mollusks, worms, and insect larvae. Some species, such as the African helmeted turtle and snapping turtles, eat fish, amphibians, reptiles (including other turtles), birds, and mammals. They may take them by ambush but also scavenge. The alligator snapping turtle has a worm-like appendage on its tongue that it uses to lure fish into its mouth. Tortoises are the most herbivorous group, consuming grasses, leaves, and fruits. Many turtle species, including tortoises, supplement their diet with eggshells, animal bones, hair, and droppings for extra nutrients.
 Turtles generally eat their food in a straightforward way, though some species have special feeding techniques. The yellow-spotted river turtle and the painted turtle may filter feed by skimming the water surface with their mouth and throat open to collect particles of food. When the mouth closes, the throat constricts and water is pushed out through the nostrils and the gap in between the jaws. Some species employ a "gape-and-suck method" where the turtle opens its jaws and expands its throat widely, sucking the prey in.
@@ -94,8 +90,6 @@ Hatching young turtles break out of the shell using an egg tooth, a sharp projec
 Turtles can live long lives. The oldest living turtle and land animal is said to be a Seychelles giant tortoise named Jonathan, who turned 187 in 2019. A Galápagos tortoise named Harriet was collected by Charles Darwin in 1835; it died in 2006, having lived for at least 176 years. Most wild turtles do not reach that age. Turtles keep growing new scutes under the previous scutes every year, allowing researchers to estimate how long they have lived. They also age slowly. The survival rate for adult turtles can reach 99% per year.
 
 ## Systematics and evolution
-
-
 ### Fossil history
 Zoologists have sought to explain the evolutionary origin of the turtles, and in particular of their unique shells. In 1914, Jan Versluys proposed that bony plates in the dermis, called osteoderms, fused to the ribs beneath them, later called the "Polka Dot Ancestor" by Olivier Rieppel. The theory accounted for the evolution of fossil pareiasaurs from Bradysaurus to Anthodon, but not for how the ribs could have become attached to the bony dermal plates.
 More recent discoveries have painted a different scenario for the evolution of the turtle's shell. The stem-turtles Eunotosaurus of the Middle Permian, Pappochelys of the Middle Triassic, and Eorhynchochelys of the Late Triassic lacked carapaces and plastrons but had shortened torsos, expanded ribs, and lengthened dorsal vertebrae. Also in the Late Triassic, Odontochelys had a partial shell consisting of a complete bony plastron and an incomplete carapace. The development of a shell reached completion with the Late Triassic Proganochelys, with its fully developed carapace and plastron. Adaptations that led to the evolution of the shell may have originally been for digging and a fossorial lifestyle.
@@ -128,8 +122,6 @@ More locally, other human activities are affecting marine turtles. In Australia,
 Native turtle populations can also be threatened by invasive ones. The central North American red-eared slider turtle has been listed among the "world's worst invasive species", pet turtle having been released globally. They appear to compete with native turtle species in eastern and western North America, Europe, and Japan.
 
 ## Human uses
-
-
 ### On space flights
 Two tortoises were on the Soviet Union's September 1968 Zond 5 circumlunar flight, making them the first earthly living things to travel to the vicinity of the Moon. Turtles were also on the Zond 6 (1968) and the Zond 7 (1969) circumlunar flights.
 

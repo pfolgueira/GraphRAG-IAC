@@ -33,8 +33,6 @@ The first kangaroo to be exhibited in the Western world was an example shot by J
 Kangaroos and wallabies belong to the same taxonomic family (Macropodidae) and often the same genera, but kangaroos are specifically categorised into the four largest species of the family. The term wallaby is an informal designation generally used for any macropod that is smaller than a kangaroo or a wallaroo that has not been designated otherwise.
 
 ## Biology and behaviour
-
-
 ### Locomotion
 Kangaroos are the only large mammals to use hopping on two legs as their primary means of locomotion. The comfortable hopping speed for a red kangaroo is about 20–25 km/h (12–16 mph), but speeds of up to 70 km/h (43 mph) can be attained over short distances, while it can sustain a speed of 40 km/h (25 mph) for nearly 2 km (1.2 mi). During a hop, the powerful gastrocnemius muscles lift the body off the ground while the smaller plantaris muscle, which attaches near the large fourth toe, is used for push-off. Seventy percent of potential energy is stored in the elastic tendons. At slow speeds, it employs pentapedal locomotion, using its tail to form a tripod with its two forelimbs while bringing its hind feet forward. Both pentapedal walking and fast hopping are energetically costly. Hopping at moderate speeds is the most energy efficient, and a kangaroo moving above 15 km/h (9.3 mph) maintains energy consistency more than similarly sized animals running at the same speed.
 Kangaroos can attain considerable height when jumping, according to Guinness the highest recorded jump for a red kangaroo is about 10 feet (3.0 m), whereas for the eastern grey kangaroo it is 8 feet (2.4 m).

@@ -85,4 +85,3 @@ Euphonia – 27 species all with euphonia in their English name
 Chlorophonia – 5 species all with chlorophonia in their English name
 
 ## Gallery
-

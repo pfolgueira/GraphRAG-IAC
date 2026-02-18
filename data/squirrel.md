@@ -74,4 +74,3 @@ Tribe Protoxerini (6 genera, about 50 species)
 Tribe Marmotini – ground squirrels, marmots, chipmunks, prairie dogs, etc. (6 genera, about 90 species)
 
 ## Relationship with humans
-

@@ -78,4 +78,3 @@ Duponchelia fovealis, a new invasive pest of vegetables and ornamental plants in
 Leuvana moth (Levuana iridescens), notorious coconut pest made extinct
 
 ## Gallery
-

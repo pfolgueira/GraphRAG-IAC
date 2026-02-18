@@ -110,8 +110,6 @@ Surveys in the Central African Republic's Chinko area revealed that the leopard 
 In Java, the leopard is threatened by illegal hunting and trade. Between 2011 and 2019, body parts of 51 Javan leopards were seized including six live individuals, 12 skins, 13 skulls, 20 canines and 22 claws.
 
 ## Human relations
-
-
 ### Cultural significance
 Leopards have been featured in art, mythology and folklore of many countries. In Greek mythology, it was a symbol of the god Dionysus, who was depicted wearing leopard skin and using leopards as means of transportation. In one myth, the god was captured by pirates but two leopards rescued him. Numerous Roman mosaics from North African sites depict fauna now found only in tropical Africa. During the Benin Empire, the leopard was commonly represented on engravings and sculptures and was used to symbolise the power of the king or oba, since the leopard was considered the king of the forest. The Ashanti people also used the leopard as a symbol of leadership, and only the king was permitted to have a ceremonial leopard stool. Some African cultures considered the leopard to be a smarter, better hunter than the lion and harder to kill.
 In Rudyard Kipling's "How the Leopard Got His Spots", one of his Just So Stories, a leopard with no spots in the Highveld lives with his hunting partner, the Ethiopian. When they set off to the forest, the Ethiopian changed his brown skin, and the leopard painted spots on his skin. A leopard played an important role in the 1938 Hollywood film Bringing Up Baby. African chiefs, European queens, Hollywood actors and burlesque dancers wore coats made of leopard skins.

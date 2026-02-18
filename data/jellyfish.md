@@ -11,11 +11,7 @@ The name jellyfish, in use since 1796, has traditionally been applied to medusae
 A group of jellyfish is called a "smack" or a "smuck".
 
 ## Mapping to taxonomic groups
-
-
 ### Phylogeny
-
-
 #### Definition
 The term jellyfish broadly corresponds to medusae, that is, a life-cycle stage in the Medusozoa. The American evolutionary biologist Paulyn Cartwright gives the following general definition:
 
@@ -91,8 +87,6 @@ The rarely encountered deep-sea jellyfish Stygiomedusa gigantea is another candi
 Desmonema glaciale, which lives in the Antarctic region, can reach a very large size (several meters). Purple-striped jelly (Chrysaora colorata) can also be extremely long (up to 15 feet).
 
 ## Life history and behavior
-
-
 ### Life cycle
 Jellyfish have a complex life cycle which includes both sexual and asexual phases, with the medusa being the sexual stage in most instances. Sperm fertilize eggs, which develop into larval planulae, become polyps, bud into ephyrae and then transform into adult medusae. In some species certain stages may be skipped.
 Upon reaching adult size, jellyfish spawn regularly if there is a sufficient supply of food. In most species, spawning is controlled by light, with all individuals spawning at about the same time of day; in many instances this is at dawn or dusk. Jellyfish are usually either male or female (with occasional hermaphrodites). In most cases, adults release sperm and eggs into the surrounding water, where the unprotected eggs are fertilized and develop into larvae. In a few species, the sperm swim into the female's mouth, fertilizing the eggs within her body, where they remain during early development stages. In moon jellies, the eggs lodge in pits on the oral arms, which form a temporary brood chamber for the developing planula larvae.
@@ -107,8 +101,6 @@ An unusual species, Turritopsis dohrnii, formerly classified as Turritopsis nutr
 Using the moon jelly Aurelia aurita as an example, jellyfish have been shown to be the most energy-efficient swimmers of all animals. They move through the water by radially expanding and contracting their bell-shaped bodies to push water behind them. They pause between the contraction and expansion phases to create two vortex rings. Muscles are used for the contraction of the body, which creates the first vortex and pushes the animal forward, but the mesoglea is so elastic that the expansion is powered exclusively by relaxing the bell, which releases the energy stored from the contraction. Meanwhile, the second vortex ring starts to spin faster, sucking water into the bell and pushing against the centre of the body, giving a secondary and "free" boost forward. The mechanism, called passive energy recapture, only works in relatively small jellyfish moving at low speeds, allowing the animal to travel 30 percent farther on each swimming cycle. Jellyfish achieved a 48 percent lower cost of transport (food and oxygen intake versus energy spent in movement) than other animals in similar studies. One reason for this is that most of the gelatinous tissue of the bell is inactive, using no energy during swimming.
 
 ## Ecology
-
-
 ### Diet
 Jellyfish are, like other cnidarians, generally carnivorous (or parasitic), feeding on planktonic organisms, crustaceans, small fish, fish eggs and larvae, and other jellyfish, ingesting food and voiding undigested waste through the mouth. They hunt passively using their tentacles as drift lines, or sink through the water with their tentacles spread widely; the tentacles, which contain nematocysts to stun or kill the prey, may then flex to help bring it to the mouth. Their swimming technique also helps them to capture prey; when their bell expands it sucks in water which brings more potential prey within reach of the tentacles.
 A few species such as Aglaura hemistoma are omnivorous, feeding on microplankton which is a mixture of zooplankton and phytoplankton (microscopic plants) such as dinoflagellates. Others harbour mutualistic algae (Zooxanthellae) in their tissues; the spotted jellyfish (Mastigias papua) is typical of these, deriving part of its nutrition from the products of photosynthesis, and part from captured zooplankton. The upside-down jellyfish (Cassiopea andromeda) also has a symbiotic relationship with microalgae, but captures tiny animals to supplement their diet. This is done by releasing tiny balls of living cells composed of mesoglea. These use cilia to drive them through water and stinging cells which stun the prey. The blobs also seem to have digestive capabilities.
@@ -138,8 +130,6 @@ Some species explicitly adapt to tidal flux. In Roscoe Bay, jellyfish ride the c
 Jellyfish are hosts to a wide variety of parasitic organisms. They act as intermediate hosts of endoparasitic helminths, with the infection being transferred to the definitive host fish after predation. Some digenean trematodes, especially species in the family Lepocreadiidae, use jellyfish as their second intermediate hosts. Fish become infected by the trematodes when they feed on infected jellyfish.
 
 ## Relation to humans
-
-
 ### Fisheries
 Jellyfish have long been eaten in some parts of the world. Fisheries have begun harvesting the American cannonball jellyfish, Stomolophus meleagris, along the southern Atlantic coast of the United States and in the Gulf of Mexico for export to Asia.
 Jellyfish are also harvested for their collagen, which is being investigated for use in a variety of applications including the treatment of rheumatoid arthritis.

@@ -57,8 +57,6 @@ A November 2020 report by scientists from the University of New South Wales, fun
 Few platypuses have been successfully raised and bred by humans. One notable example is at Healesville Sanctuary in Victoria under David Fleay, where breeding was successful in 1943. More platypuses were successfully bred and raised in 1998 and again in 2000 using a stream tank. Between 2008 and 2012, platypuses were bred regularly at Healesville, including twins. In 1990-91, there was successful breeding of platypuses at Warrawong Sanctuary. Taronga Zoo in Sydney bred twins in 2003, and the facility has since bred more platypuses to be released into the wild in NSW. As of 2019, the only platypuses in captivity outside of Australia are in the San Diego Zoo Safari Park in the U.S. state of California. Three platypuses were given to the Bronx Zoo in 1947, two females and a male. One of the females; Penelope had a false proto-pregnancy.
 
 ## Human interactions
-
-
 ### Usage
 Aboriginal Australians hunted and ate platypuses, particularly for their fatty nutritious tails, while, after colonisation, Europeans killed them for fur from the late 19th century until 1912, when it was prohibited by law. In addition, European researchers captured and killed platypus or removed their eggs, partly in order to increase scientific knowledge, but also to gain prestige and outcompete rivals from different countries. During the Second World War, in spite of an export ban, Australia gave live platypuses as diplomatic gifts to Allied nations as part of an initiative to increase military assistance. One of which was intended as a gift to Winston Churchill died from neglect while en route.
 

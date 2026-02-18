@@ -52,8 +52,6 @@ Horses, particularly colts, are sometimes physically capable of reproduction at 
 Depending on maturity, breed, and work expected, horses are usually put under saddle and trained to be ridden between the ages of two and four. Although Thoroughbred race horses are put on the track as young as the age of two in some countries, horses specifically bred for sports such as dressage are generally not put under saddle until they are three or four years old, because their bones and muscles are not solidly developed. For endurance riding competition, horses are not deemed mature enough to compete until they are a full 60 calendar months (five years) old.
 
 ## Anatomy
-
-
 ### Skeletal system
 The horse skeleton averages 205 bones. A significant difference between the horse skeleton and that of a human is the lack of a collarbone—the horse's forelimbs are attached to the spinal column by a powerful set of muscles, tendons, and ligaments that attach the shoulder blade to the torso. The horse's four legs and hooves are also unique structures. Their leg bones are proportioned differently from those of a human. For example, the body part that is called a horse's "knee" is actually made up of the carpal bones that correspond to the human wrist. Similarly, the hock contains bones equivalent to those in the human ankle and heel.
 The lower leg bones of a horse correspond to the bones of the human hand or foot. The fetlock, incorrectly called the "ankle", is actually the proximal sesamoid bones between the cannon bones (a single equivalent to the human metacarpal or metatarsal bones) and the proximal phalanges, located where one finds the "knuckles" of a human. A horse has no muscles in its legs below the knees and hocks, only skin, hair, bone, tendons, ligaments, cartilage, and the assorted specialized tissues that make up the hoof.
@@ -182,4 +180,3 @@ Horses require a plentiful supply of clean water, a minimum of 38 to 45 litres (
 Horses require routine hoof care from a farrier, as well as vaccinations to protect against various diseases, and dental examinations from a veterinarian or a specialized equine dentist. If horses are kept inside in a barn, they require regular daily exercise for their physical health and mental well-being. When turned outside, they require well-maintained, sturdy fences to be safely contained. Regular grooming is also helpful to help the horse maintain good health of the hair coat and underlying skin.
 
 ### Climate change
-

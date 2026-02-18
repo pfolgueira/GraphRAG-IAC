@@ -55,4 +55,3 @@ While a history of recognizing subspecies exists within many of the Vespa specie
 Hornet larvae are widely accepted as food in mountainous regions in China. Hornets and their nests are treated as medicine in traditional Chinese medicine.
 
 ## Gallery
-

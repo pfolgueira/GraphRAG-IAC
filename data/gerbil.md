@@ -40,8 +40,6 @@ Gerbils are for the most part selective when it comes to picking a mate for copu
 Gerbils are social animals, and live in groups in the wild. They rely on their sense of smell to identify other members of their clan. Gerbils are known to attack and often kill those carrying an unfamiliar scent. Groups of gerbils often have a "dominant" gerbil which may "bully" the others by humping them.
 
 ## Relationship with humans
-
-
 ### As pets
 A gentle and hardy animal, the Mongolian gerbil has become a popular small house pet. It was first brought from China to Paris in the 19th century, and became a popular house pet there. It was later brought to the United States in 1954 by Dr. Victor Schwentker for use in research. Dr. Schwentker soon recognized their potential as pet animals. Selective breeding for the pet trade has resulted in a wide range of different color and pattern varieties. Gerbils became popular pets in the US around the late 1950s and were imported to the United Kingdom in 1964, where they became popular pets too. They are now found in pet shops throughout the UK and the US.
 However, due to the threat they pose to indigenous ecosystems and existing agricultural operations, it is illegal to purchase, import, or keep a gerbil as a pet in the U.S. state of California. It is also illegal to import the animal into New Zealand and Australia.

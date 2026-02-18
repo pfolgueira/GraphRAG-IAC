@@ -5,17 +5,9 @@ Jays are a paraphyletic grouping of passerine birds within the family Corvidae. 
 Jays are not a monophyletic group. Anatomical and molecular evidence indicates they can be divided into a New World and an Old World lineage (the latter including the ground jays and the piapiac), while the grey jays of the genus Perisoreus form a group of their own.  The black magpies, formerly believed to be related to jays, are classified as treepies.
 
 ### Old World ("brown") jays
-
-
 ### Grey jays
-
-
 ### New World jays
-
-
 ## In culture
-
-
 ### Slang
 The word jay has an archaic meaning in American slang meaning a person who chatters impertinently. 
 The term jaywalking was coined in the first decade of the 1900s to label persons crossing a busy street carelessly and becoming a traffic hazard. The term began to imply recklessness or impertinent behavior as the convention became established.

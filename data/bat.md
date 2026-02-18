@@ -8,8 +8,6 @@ Depending on the culture, bats may be symbolically associated with positive trai
 A dialectal English name for bats is "flittermouse", which matches their name in other Germanic languages (for example, German Fledermaus and Swedish fladdermus), related to the fluttering of wings. Middle English had bakke, most likely cognate with Old Swedish natbakka ('night-bat'), which may have undergone a shift from -k- to -t- (to Modern English bat) influenced by Latin blatta, 'moth, nocturnal insect'. The word bat was probably first used in the early 1570s. The order name Chiroptera derives from the Ancient Greek χείρ (kheír), meaning "hand", and πτερόν (pterón), meaning "wing".
 
 ## Phylogeny and taxonomy
-
-
 ### Evolution
 The delicate skeletons of bats do not fossilise well; it is estimated that only 12% of bat genera that lived have been found in the fossil record. The oldest known bat fossils include Archaeonycteris praecursor and Altaynycteris aurora (55–56 million years ago), both known only from isolated teeth. The oldest complete bat skeletons are Icaronycteris gunnelli and Onychonycteris finneyi (52 million years ago), known from two skeletons discovered in Wyoming. The extinct bats Palaeochiropteryx tupaiodon and Hassianycteris kumari, both of which lived 48 million years ago, are the first fossil mammals whose colouration has been discovered: both were reddish-brown.
 Bats were formerly grouped in the superorder Archonta, along with the treeshrews (Scandentia), colugos (Dermoptera), and primates. Modern genetic evidence now places bats in the superorder Laurasiatheria, with its sister taxon as Ferungulata, which includes carnivorans, pangolins, odd-toed ungulates, and even-toed ungulates. One study places Chiroptera as a sister taxon to odd-toed ungulates (Perissodactyla).
@@ -32,8 +30,6 @@ Bats are placental mammals. After rodents, they are the largest order, making up
 Below is a table chart following the bat classification of families recognised by various authors of the ninth volume of Handbook of the Mammals of the World published in 2019:
 
 ## Anatomy and physiology
-
-
 ### Skull and dentition
 The head and teeth shape of bats can vary by species. In general, megabats have a fox-like appearance with long snouts and ears, hence their nickname of "flying foxes". Among microbats, longer snouts are associated with nectar-feeding, while vampire bats have reduced snouts. The number of teeth in bats can vary between 38 teeth in small, insect-eating species and as low as 20 in vampire bats. A diet of hard-shelled insects requires fewer but larger teeth along with longer canines and more robust lower jaws. In nectar-feeding bats, the canines are long, while the cheek teeth are reduced. In fruit-eating microbats, the cusps of the cheek teeth are adapted for crushing. The upper incisors of vampire bats lack enamel, which keeps them razor-sharp. The bite force of small bats is generated through mechanical advantage, allowing them to bite through the hardened armour of insects or the skin of fruit.
 
@@ -62,8 +58,6 @@ The adaptations of the kidneys of bats vary with their diets. Carnivorous and va
 The structure of the uterine system in female bats can vary by species, with some having two uterine horns while others have a single mainline chamber.
 
 ### Senses
-
-
 #### Echolocation and hearing
 Microbats and a few megabats emit ultrasonic sounds to produce echoes. The sound intensity of these echoes is dependent on subglottic pressure. The bats' cricothyroid muscle, located inside the larynx, controls the orientation pulse frequency, which is an important function. By comparing the outgoing pulse with the returning echoes, bats can learn about their environment and detect prey in darkness. Some bat calls can reach over 140 decibels. Microbats use their larynx to emit echolocation signals through the mouth or the nose. Bat call frequencies range from as low as 11 kHz to as high as 212 kHz. The noses of various groups of bats have fleshy extensions, known as nose-leaves, which play a role in sound transmission.
 In low-duty cycle echolocation, bats can separate their calls and returning echoes by time. They have to time their short calls to finish before echoes return. In high-duty cycle echolocation, bats emit a continuous call and separate pulse and echo in frequency using the Doppler effect of their motion in flight. The shift of the returning echoes yields information relating to the motion and location of the bat's prey. These bats must deal with changes in the Doppler shift due to changes in their flight speed. They have adapted to change their pulse emission frequency in relation to their flight speed so echoes still return in the optimal hearing range.
@@ -120,8 +114,6 @@ Bats are natural reservoirs for a large number of zoonotic pathogens, including 
 Bats seem to be highly resistant to many of the pathogens they carry, suggesting a degree of adaptation to their immune systems. Their interactions with livestock and pets, including predation by vampire bats, compound the risk of zoonotic transmission. Bats have been connected to the emergence of severe acute respiratory syndrome (SARS) in China, since they serve as natural hosts for coronaviruses, several from a cave in Yunnan, one of which developed into the SARS virus. However, there is no evidence that bats cause or spread COVID-19.
 
 ## Behaviour and life history
-
-
 ### Social structure
 Bats may roost solitarily or in colonies; Mexican free-tailed bats roost in the millions, while the hoary bat (Lasiurus cinereus) is mostly solitary, aside from mothers with young. Living in large colonies lessens the risk to an individual of predation. Temperate bat species may swarm at hibernation sites as autumn approaches. This may serve to guide young to these sites, signal reproduction in adults and allow adults to breed with those from other groups.
 Several species have a fission-fusion social structure, where large numbers of bats congregate in one roosting area, along with the breaking up and mixing of subgroups. Within these societies, long-term relationships form despite the fluidity of grouping. Some of these relationships consist of matrilineally related females and their dependent offspring. Food sharing and mutual grooming are known to occur in species like the common vampire bat (Desmodus rotundus). Homosexual fellatio has been observed in the Bonin flying fox (Pteropus pselaphon) and the Indian flying fox (Pteropus medius), though the function and purpose of this behaviour are not clear.
@@ -149,8 +141,6 @@ There is evidence that suggests that wind turbines might create sufficient barot
 The effects of climate change on bats are debated; a 2022 literature review concluded that, "Several biological and ecological traits of bats may make them sensitive to climate change, yet there is surprisingly little evidence on how these mammals respond to this anthropogenic environmental pressure." A 2025 study of European species found that bat populations may be shifting their ranges further north. Specifically, range suitability declined markedly in southern Europe while increasing at higher northern latitudes.
 
 ## Interactions with humans
-
-
 ### Cultural significance
 Since bats are mammals yet can fly, they are considered to be liminal beings in various traditions. In many cultures, including in Europe, bats are associated with darkness, death, witchcraft, and malevolence. Among Native Americans such as the Creek, Cherokee and Apache, the bat is identified as a trickster. An East Nigerian tale tells that the bat developed its nocturnal habits after causing the death of his partner, the bush rat, and now hides by day to avoid arrest.
 More positive depictions of bats exist in some cultures. In China, bats have been associated with happiness, joy and good fortune and symbolise the "Five Blessings": longevity, riches, health, love of virtue and a peaceful passing away. The bat is sacred in Tonga and is often considered the physical manifestation of a separable soul. Mayan people associated bats with the gateway to the realm of the gods since they live in caves. In the Zapotec civilisation, the bat god presided over corn and fertility.

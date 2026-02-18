@@ -24,8 +24,6 @@ Human evolution was not a simple linear or branched progression but involved int
 Human evolution is characterized by a number of morphological, developmental, physiological, and behavioral changes that have taken place since the split between the last common ancestor of humans and chimpanzees. The most significant of these adaptations are hairlessness, obligate bipedalism, increased brain size and decreased sexual dimorphism (neoteny). The relationship between all these changes is the subject of ongoing debate.
 
 ## History
-
-
 ### Prehistory
 Until about 12,000 years ago, all humans lived as hunter-gatherers. The Neolithic Revolution (the invention of agriculture) first took place in Southwest Asia and spread through large parts of the Old World over the following millennia. It also occurred independently in Mesoamerica (about 6,000 years ago), China, Papua New Guinea, and the Sahel and West Savanna regions of Africa.
 The formation of permanent human settlements, the domestication of animals and the use of metal tools was followed by permanent food surplus, for the first time in history. Agriculture and sedentary lifestyle led to the emergence of early civilizations.
@@ -55,8 +53,6 @@ Estimates of the population at the time agriculture emerged in around 10,000 BC 
 In 2018, 4.2 billion humans (55%) lived in urban areas, up from 751 million in 1950. The most urbanized regions are Northern America (82%), Latin America (81%), Europe (74%) and Oceania (68%), with Africa and Asia having nearly 90% of the world's 3.4 billion rural population. Problems for humans living in cities include various forms of pollution and crime, especially in inner city and suburban slums.
 
 ## Biology
-
-
 ### Anatomy and physiology
 Most aspects of human physiology are closely homologous to corresponding aspects of animal physiology. The dental formula of humans is: 2.1.2.32.1.2.3, like other catarrhines. Humans have proportionately shorter palates and much smaller teeth than other primates. They are the only primates to have short, relatively flush canine teeth. Humans have characteristically crowded teeth, with gaps from lost teeth usually closing up quickly in young individuals. Humans are gradually losing their third molars, with some individuals having them congenitally absent.
 Humans share with chimpanzees a vestigial tail, appendix, flexible shoulder joints, grasping fingers and opposable thumbs. Humans also have a more barrel-shaped chest in contrast to the funnel shape of other apes, an adaptation for bipedal respiration. Apart from bipedalism and brain size, humans differ from chimpanzees mostly in smelling, hearing and digesting proteins. While humans have a density of hair follicles comparable to other apes, it is predominantly vellus hair, most of which is so short and wispy as to be practically invisible. Humans have about 2 million sweat glands spread over their entire bodies, many more than chimpanzees, whose sweat glands are scarce and are mainly located on the palm of the hand and on the soles of the feet.

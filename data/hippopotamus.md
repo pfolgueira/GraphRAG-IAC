@@ -7,8 +7,6 @@ Hippos inhabit rivers, lakes, and mangrove swamps. Territorial bulls each presid
 The Latin word hippopotamus is derived from the ancient Greek ἱπποπόταμος (hippopótamos), from ἵππος (híppos) 'horse' and ποταμός (potamós) 'river', together meaning 'horse of the river'. In English, the usual plural is "hippopotamuses".
 
 ## Taxonomy and origins
-
-
 ### Classification
 The common hippopotamus and the pygmy hippopotamus are the only living members of the family Hippopotamidae. Some taxonomists place hippos and anthracotheres in the superfamily Anthracotheroidea. Hippopotamidae are classified along with other even-toed ungulates in the order Artiodactyla.
 Five subspecies of hippos have been described based on morphological differences in their skulls as well as differences in geographical range:

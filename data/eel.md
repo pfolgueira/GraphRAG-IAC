@@ -92,8 +92,6 @@ Family †Proteomyridae
 Family †Urenchelyidae
 
 ## Commercial species
-
-
 ## Use by humans
 Freshwater eels (unagi) and marine eels (conger eel, anago) are commonly used in Japanese cuisine; foods such as unadon and unajū are popular, but expensive. Eels are also very popular in Chinese cuisine, and are prepared in many different ways. Hong Kong eel prices have often reached 1000 HKD (128.86 US Dollars) per kg, and once exceeded 5000 HKD per kg. In India, eels are popularly eaten in the Northeast. Freshwater eels, known as Kusia in Assamese, are eaten with curry, often with herbs. The European eel and other freshwater eels are mostly eaten in Europe and the United States, and is considered critically endangered. A traditional east London food is jellied eels, although the demand has significantly declined since World War II. The Spanish cuisine delicacy angulas consists of elver (young eels) sautéed in olive oil with garlic; elvers usually reach prices of up to 1000 euro per kg. New Zealand longfin eel is a traditional Māori food in New Zealand. In Italian cuisine, eels from the Valli di Comacchio, a swampy zone along the Adriatic coast, are especially prized, along with freshwater eels of Bolsena Lake and pond eels from Cabras, Sardinia. In northern Germany, the Netherlands, the Czech Republic, Poland, Denmark, and Sweden, smoked eel is considered a delicacy.
 
@@ -110,8 +108,6 @@ The English name "eel" descends from Old English ǣl, Common Germanic *ēlaz. Al
 According to this theory, the name Bellerophon (Βελλεροφόντης, attested in a variant Ἐλλεροφόντης in Eustathius of Thessalonica) is also related, translating to "the slayer of the serpent" (ahihán). In this theory, the ελλερο- is an adjective form of an older word, ελλυ, meaning "snake", which is directly comparable to Hittite ellu-essar- "snake pit". This myth likely came to Greece via Anatolia. In the Hittite version of the myth, the dragon is called Illuyanka: the illuy- part is cognate to the word illa, and the -anka part is cognate to angu, a word for "snake". Since the words for "snake" (and similarly shaped animals) are often subject to taboo in many Indo-European (and non-Indo-European) languages, no unambiguous Proto-Indo-European form of the word for eel can be reconstructed. It may have been *ēl(l)-u-, *ēl(l)-o-, or something similar.
 
 ## Timeline of genera
-
-
 ## In culture
 The ancient cathedral city of Ely in Cambridgeshire, England, derives its name from the eel. The settlement's name originates from a time when eel fishing was a vital local activity in the surrounding fenland waters.
 Similarly, the large lake of Almere, which existed in the early Medieval Netherlands, got its name from the eels which lived in its water (the Dutch word for eel is aal or ael, so: "ael mere" = "eel lake"). The name is preserved in the new city of Almere in Flevoland, given in 1984 in memory of this body of water on whose site the town is located.

@@ -62,8 +62,6 @@ The honey badger of Africa consumes honey, porcupines, and even venomous snakes 
 Badgers have been known to become intoxicated with alcohol after eating rotting fruit.
 
 ## Relation with humans
-
-
 ### Hunting
 Hunting badgers for sport has been common in many countries. The Dachshund (German for "badger hound") dog breed was bred for this purpose. Badger-baiting was formerly a popular blood sport. Although badgers are normally quite docile, they fight fiercely when cornered. This led people to capture and box badgers and then wager on whether a dog could succeed in removing the badger from its refuge. In England, opposition from naturalists led to its ban under the Cruelty to Animals Act 1835 and the Protection of Badgers Act 1992 (c. 51) made it an offence to kill, injure, or take a badger or to interfere with a sett unless under license from a statutory authority. The Hunting Act 2004 further banned fox hunters from blocking setts during their chases.
 

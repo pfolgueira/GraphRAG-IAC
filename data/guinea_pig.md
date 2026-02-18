@@ -15,8 +15,6 @@ The guinea pig was first described in the West in 1554 by the Swiss naturalist C
 The earliest-known European illustration of a domestic guinea pig is a painting (artist unknown) in the collection of the National Portrait Gallery in London, dated to 1580, which shows a girl in a typical Elizabethan dress holding a tortoise-shell guinea pig in her hands. She is flanked by her two brothers, one of whom holds a pet bird. The picture dates from the same period as the oldest recorded guinea pig remains in England, which are a partial cavy skeleton found at Hill Hall, an Elizabethan manor house in Essex, and dated to around 1575.
 
 ## Nomenclature
-
-
 ### Latin name
 The scientific name of the common species is Cavia porcellus, with porcellus being Latin for "little pig". Cavia is Neo-Latin; it is derived from cabiai, the animal's name in the language of the Galibi tribes once native to French Guiana. Cabiai may be an adaptation of the Portuguese çavia (now savia), which is itself derived from the Tupi word saujá, meaning rat.
 
@@ -63,8 +61,6 @@ Toxemia of pregnancy (hypertension) is a common problem and kills many pregnant 
 Females that do not give birth may develop an irreversible fusing or calcified cartilage of the pubic symphysis, a joint in the pelvis, which may occur after six months of age. If they become pregnant after this has happened, the birth canal may not widen sufficiently, which may lead to dystocia and death as they attempt to give birth.
 
 ## Husbandry
-
-
 ### Living environment
 Domestic guinea pigs generally live in cages, though some owners of large numbers of cavies dedicate entire rooms to their pets. Empirical studies indicate that guinea pig welfare is enhanced by larger cages and environmental enrichment such as hiding places, although owners often provide less space than recommended. Wire mesh cage floors can cause injury and may be associated with an infection commonly known as bumblefoot (ulcerative pododermatitis), so cages with solid bottoms, where the animal walks directly on the bedding, are typically used. Large cages allow for adequate running space and can be constructed from wire grid panels and plastic sheeting, a style known as C&C, or "cubes and coroplast". 
 Red cedar (Eastern or Western) and pine, both softwoods, were commonly used as bedding. Still, these materials are believed to contain harmful phenols (aromatic hydrocarbons) and oils. Bedding materials made from hardwoods (such as aspen), paper products, and corn cobs are alternatives. Guinea pigs tend to be messy; they often jump into their food bowls or kick bedding and feces into them, and their urine sometimes crystallizes on cage surfaces, making it difficult to remove. After its cage has been cleaned, a guinea pig typically urinates and drags its lower body across the floor of the cage to mark its territory. Male guinea pigs may mark their territory in this way when they are put back into their cages after being taken out.
@@ -89,11 +85,7 @@ Guinea pigs are prey animals whose survival instinct is to mask pain and signs o
 Similar to the inherited genetic diseases of other breeds of animals (such as hip dysplasia in canines), some genetic abnormalities of guinea pigs have been reported. Most commonly, the roan coloration of Abyssinian guinea pigs is associated with congenital eye disorders and problems with the digestive system. Other genetic disorders include "waltzing disease" (deafness coupled with a tendency to run in circles), palsy, and tremor conditions.
 
 ## Importance
-
-
 ### As pets
-
-
 #### Social behaviors
 If handled correctly early in life, guinea pigs become amenable to being picked up and carried and seldom bite or scratch. They are timid explorers who often hesitate to escape their cage even when an opportunity presents itself. Still, they show considerable curiosity when allowed to walk freely, especially in familiar and safe terrain. Guinea pigs that become familiar with their owner will whistle on the owner's approach; they will also learn to whistle in response to the rustling of plastic bags or the opening of refrigerator doors, where their food is most commonly stored.
 
@@ -120,8 +112,6 @@ The Fairy Caravan, a novel by Beatrix Potter, and Michael Bond's Olga da Polga s
 Guinea pigs have also been featured in film and television. In the TV movie Shredderman Rules, the main character and the main character's crush both have guinea pigs, which play a minor part in the plot. A guinea pig named Rodney, voiced by Chris Rock, was a prominent character in the 1998 film Dr. Dolittle, and Linny the Guinea Pig is a co-star on Nick Jr.'s Wonder Pets. Guinea pigs were used in some major advertising campaigns in the 1990s and 2000s, notably for Egg Banking plc, Snapple, and Blockbuster Video. In the South Park season 12 episode "Pandemic 2: The Startling", giant guinea pigs dressed in costumes rampage over the Earth. The 2009 Walt Disney Pictures movie G-Force features a group of highly intelligent guinea pigs trained as operatives of the U.S. government.
 
 ### As livestock
-
-
 #### In South America
 Guinea pigs (called cuy, cuye, or curí) were originally domesticated for their meat in the Andes. Traditionally, the animal was reserved for ceremonial meals and as a delicacy by indigenous people in the Andean highlands. Still, since the 1960s, it has become more socially acceptable for consumption by all people. It continues to be a significant part of the diet in Peru and Bolivia, particularly in the Andes Mountains highlands; it is also eaten in some areas of Ecuador (mainly in the Sierra) and in Colombia, mainly in the southwestern part of the country (Cauca and Nariño departments). Because guinea pigs require much less room than traditional livestock and reproduce extremely quickly, they are a more profitable source of food and income than many traditional stock animals, such as pigs and cattle; moreover, they can be raised in an urban environment. Both rural and urban families raise guinea pigs for supplementary income, and the animals are commonly bought and sold at local markets and large-scale municipal fairs.
 Guinea pig meat is high in protein and low in fat and cholesterol, and is described as being similar to rabbit and the dark meat of chicken. The animal may be served fried (chactado or frito), broiled (asado), or roasted (al horno), and in urban restaurants may also be served in a casserole or a fricassee. Ecuadorians commonly consume sopa or locro de cuy, a soup dish. Pachamanca or huatia, an earth oven cooking method, is also popular, and cuy cooked this way is usually served with chicha (corn beer) in traditional settings.

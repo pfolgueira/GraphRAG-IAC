@@ -9,8 +9,6 @@ The word porcupine comes from the Latin porcus 'pig' + spina 'spine, quill', fro
 A baby porcupine is known as a porcupette. When born, a porcupette's quills are soft hair; they harden within a few days, forming the sharp quills of adults.
 
 ## Taxonomy and evolution
-
-
 ### Classification
 A porcupine is any of 29 species of rodents belonging to the families Erethizontidae (genera: Coendou, Erethizon, and Chaetomys) or Hystricidae (genera: Atherurus, Hystrix, and Trichys). The two families of porcupines are quite different, and although both belong to the Hystricognathi branch of the vast order Rodentia, they are not closely related.
 Porcupines are distributed into two evolutionarily independent groups within the infraorder Hystricognathi, part of the suborder Hystricomorpha of the Rodentia:
@@ -20,8 +18,6 @@ Studies on the physical characteristics of New World porcupines initially descri
 Fossils belonging to the genus Hystrix date back to the late Miocene of Africa and Asia. One of the oldest known porcupine fossils is Hystrix primigenia, an Old World porcupine that lived in the late Miocene to the Pliocene; the oldest known porcupine fossil in Asia, Hystrix lufengensis, dates back 8 million years, also in the late Miocene.
 
 ## Biology
-
-
 ### Old World compared with New World species
 The 11 Old World porcupines tend to be fairly large and have spines grouped in clusters.
 The two subfamilies of New World porcupines are mostly smaller (although the North American porcupine reaches about 85 centimetres or 33 inches in length and 18 kilograms or 40 pounds), have their quills attached singly rather than grouped in clusters, and are excellent climbers, spending much of their time in trees. The New World porcupines evolved their spines independently (through convergent evolution) and are more closely related to several other families of rodents than they are to the Old World porcupines.
@@ -45,8 +41,6 @@ Quills are released by contact or may drop out when the porcupine shakes its bod
 There are some possible antibiotic properties within the quills, specifically associated with the free fatty acids coating the quills. The antibiotic properties are believed to aid a porcupine that has suffered from self-injury.
 
 ## Ecology
-
-
 ### Behavior
 Porcupines are slow-moving animals. All porcupines are social to some degree, though only Old World porcupines are known to form clans or family units.
 
@@ -54,8 +48,6 @@ Porcupines are slow-moving animals. All porcupines are social to some degree, th
 Porcupines occupy a small range of habitats in tropical and temperate parts of Asia, Southern Europe, Africa, and North and South America. They live in forests and deserts, rocky outcrops, and hillsides. Some New World porcupines live in trees, but Old World porcupines prefer a rocky environment. Porcupines can be found on rocky areas up to 3,700 m (12,100 ft) high. They are generally nocturnal but are occasionally active during daylight.
 
 ## Relationships with humans
-
-
 ### Use as food and clothing
 Porcupines are seldom eaten in Western culture but are eaten often in Southeast Asia, particularly Vietnam, where the prominent use of them as a food source has contributed to declines in porcupine populations. In China, the Chinese porcupine (Hystix brachyura hodgsoni), a subspecies of the Malayan porcupine, was one of several wild animals that was widely farmed for its meat, but a broad ban on the consumption of many wild animals in 2020 led to stoppage of this practice across the country.
 

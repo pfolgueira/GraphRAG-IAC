@@ -42,4 +42,3 @@ Apparent hybrids between this species and the white-rumped sandpiper as well as 
 The dunlin has an extremely large range and although the population appears to be decreasing, the population is still very large. The International Union for Conservation of Nature (IUCN) has judged that the threat to the species is of "Near Threatened". The dunlin is one of the species to which the Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA) applies. The southern subspecies C. a. schinzii is of particular concern, declining and endangered in some areas, particularly towards the southern edge of its range; in Denmark, only 95 pairs were left in 2021, compared to 50,000 pairs a century earlier. The northeast Greenland subspecies C. a. arctica is also endangered, with a very small population.
 
 ## Gallery
-

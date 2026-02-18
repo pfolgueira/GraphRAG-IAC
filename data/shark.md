@@ -11,8 +11,6 @@ A now disproven theory is that it derives from the Yucatec Maya word xook (prono
 Evidence for this etymology came from the Oxford English Dictionary, which notes that shark first came into use after Sir John Hawkins' sailors exhibited one in London in 1569 and posted "sharke" to refer to the large sharks of the Caribbean Sea. However, the Middle English Dictionary records an isolated occurrence of the word shark (referring to a sea fish) in a letter written by Thomas Beckington in 1442, which rules out a New World etymology.
 
 ## Evolutionary history
-
-
 ### Fossil record
 The oldest total-group chondrichthyans, known as acanthodians or "spiny sharks", appeared during the Early Silurian, around 439 million years ago. The oldest confirmed members of Elasmobranchii sensu lato (the group containing all cartilaginous fish more closely related to modern sharks and rays than to chimaeras) appeared during the Devonian. Anachronistidae, the oldest probable representatives of Euselachii, the group containing modern sharks (Selachii) and rays (Batomorphi) to the exclusion of most extinct elasmobranch groups, date to the Carboniferous. Selachii and Batomorphi are suggested by some to have diverged during the Triassic. Fossils of the earliest true sharks may have appeared during the Permian, based on remains of "synechodontiforms" found in the Early Permian of Russia, but if remains of "synechodontiforms" from the Permian and Triassic are true sharks, they only had low diversity. Modern shark orders first appeared during the Early Jurassic, and during the Jurassic true sharks underwent great diversification. Sharks largely replaced the hybodonts, which had previously been a dominant group of shark-like fish during the Triassic and Early Jurassic.
 
@@ -32,8 +30,6 @@ Squatiniformes: Also known as angel sharks, they are flattened sharks with a str
 Echinorhiniformes: This group includes the prickly shark and bramble shark. Phylogenetic placement of this group has been ambiguous in scientific studies. They are sometimes given their own order, Echinorhiniformes.
 
 ## Anatomy
-
-
 ### Teeth
 Shark teeth are embedded in the gums rather than directly affixed to the jaw, and are constantly replaced throughout life. Multiple rows of replacement teeth grow in a groove on the inside of the jaw and steadily move forward in comparison to a conveyor belt; some sharks lose 30,000 or more teeth in their lifetime. The rate of tooth replacement varies from once every 8 to 10 days to several months. In most species, teeth are replaced one at a time as opposed to the simultaneous replacement of an entire row, which is observed in the cookiecutter shark.
 Tooth shape depends on the shark's diet: those that feed on mollusks and crustaceans have dense and flattened teeth used for crushing, those that feed on fish have needle-like teeth for gripping, and those that feed on larger prey such as mammals have pointed lower teeth for gripping and triangular upper teeth with serrated edges for cutting. The teeth of plankton-feeders such as the basking shark are small and non-functional.
@@ -56,8 +52,6 @@ Tails provide thrust, making speed and acceleration dependent on tail shape. Cau
 Tiger sharks have a large upper lobe, which allows for slow cruising and sudden bursts of speed. The tiger shark must be able to twist and turn in the water easily when hunting to support its varied diet, whereas the porbeagle shark, which hunts schooling fish such as mackerel and herring, has a large lower lobe to help it keep pace with its fast-swimming prey. Other tail adaptations help sharks catch prey more directly, such as the thresher shark's usage of its powerful, elongated upper lobe to stun fish and squid.
 
 ## Physiology
-
-
 ### Buoyancy
 Unlike bony fish, sharks do not have gas-filled swim bladders for buoyancy. Instead, sharks rely on a large liver filled with oil that contains squalene, and their cartilage, which is about half the normal density of bone. Their liver constitutes up to 30% of their total body mass. The liver's effectiveness is limited, so sharks employ dynamic lift to maintain depth while swimming. Sand tiger sharks store air in their stomachs, using it as a form of swim bladder. Bottom-dwelling sharks, like the nurse shark, have negative buoyancy, allowing them to rest on the ocean floor.
 Some sharks, if inverted or stroked on the nose, enter a natural state of tonic immobility. Researchers use this condition to handle sharks safely.
@@ -82,8 +76,6 @@ One of the biggest differences between the digestive systems of sharks and mamma
 A few sharks appear fluorescent under blue light, such as the swell shark and the chain catshark, where the fluorophore derives from a metabolite of kynurenic acid.
 
 ## Senses
-
-
 ### Smell
 Sharks have keen olfactory senses, located in the short duct (which is not fused, unlike bony fish) between the anterior and posterior nasal openings, with some species able to detect as little as one part per million of blood in seawater. The size of the olfactory bulb varies across different shark species, with size dependent on how much a given species relies on smell or vision to find their prey. In environments with low visibility, shark species generally have larger olfactory bulbs. In reefs, where visibility is high, species of sharks from the family Carcharhinidae have smaller olfactory bulbs. Sharks found in deeper waters also have larger olfactory bulbs.
 Sharks have the ability to determine the direction of a given scent based on the timing of scent detection in each nostril. This is similar to the method mammals use to determine direction of sound.
@@ -145,8 +137,6 @@ All sharks need to keep water flowing over their gills in order for them to brea
 Species that do need to swim continuously to breathe go through a process known as sleep swimming, in which the shark is essentially unconscious. It is known from experiments conducted on the spiny dogfish that its spinal cord, rather than its brain, coordinates swimming, so spiny dogfish can continue to swim while sleeping, and this also may be the case in larger shark species. In 2016 a great white shark was captured on video for the first time in a state researchers believed was sleep swimming.
 
 ## Ecology
-
-
 ### Feeding
 Most sharks are carnivorous. Basking sharks, whale sharks, and megamouth sharks have independently evolved different strategies for filter feeding plankton: basking sharks practice ram feeding, whale sharks use suction to take in plankton and small fishes, and megamouth sharks make suction feeding more efficient by using the luminescent tissue inside of their mouths to attract prey in the deep ocean. This type of feeding requires gill rakers—long, slender filaments that form a very efficient sieve—analogous to the baleen plates of the great whales. The shark traps the plankton in these filaments and swallows from time to time in huge mouthfuls. Teeth in these species are comparatively small because they are not needed for feeding.
 Other highly specialized feeders include cookiecutter sharks, which feed on flesh sliced out of other larger fish and marine mammals. Cookiecutter teeth are enormous compared to the animal's size. The lower teeth are particularly sharp. Although they have never been observed feeding, they are believed to latch onto their prey and use their thick lips to make a seal, twisting their bodies to rip off flesh.
@@ -159,8 +149,6 @@ Many sharks, including the whitetip reef shark are cooperative feeders and hunt 
 Sharks are found in all seas. They generally do not live in fresh water, with a few exceptions such as the bull shark and the river shark which can swim both in seawater and freshwater. Sharks are common down to depths of 2,000 metres (7,000 ft), and some live even deeper, but they are almost entirely absent below 3,000 metres (10,000 ft). The deepest confirmed report of a shark is a Portuguese dogfish at 3,700 metres (12,100 ft).
 
 ## Relationship with humans
-
-
 ### Attacks
 In 2006 the International Shark Attack File (ISAF) undertook an investigation into 96 alleged shark attacks, confirming 62 of them as unprovoked attacks and 16 as provoked attacks. The average number of fatalities worldwide per year between 2001 and 2006 from unprovoked shark attacks is 4.3.
 Contrary to popular belief, only a few sharks are dangerous to humans. Out of more than 470 species, only four have been involved in a significant number of fatal, unprovoked attacks on humans: the great white, oceanic whitetip, tiger, and bull sharks. These sharks are large, powerful predators, and may sometimes attack and kill people. Despite being responsible for attacks on humans they have all been filmed without using a protective cage.
@@ -173,8 +161,6 @@ Until recently, only a few benthic species of shark, such as hornsharks, leopard
 Most species are not suitable for home aquaria, and not every species sold by pet stores are appropriate. Some species can flourish in home saltwater aquaria. Uninformed or unscrupulous dealers sometimes sell juvenile sharks like the nurse shark, which upon reaching adulthood is far too large for typical home aquaria. Public aquaria generally do not accept donated specimens that have outgrown their housing. Some owners have been tempted to release them. Species appropriate to home aquaria represent considerable spatial and financial investments as they generally approach adult lengths of 3 feet (90 cm) and can live up to 25 years.
 
 ### In culture
-
-
 #### In Hawaii
 Sharks figure prominently in Hawaiian mythology. Stories tell of men with shark jaws on their back who could change between shark and human form. A common theme was that a shark-man would warn beach-goers of sharks in the waters. The beach-goers would laugh and ignore the warnings and get eaten by the shark-man who warned them. Hawaiian mythology also includes many shark gods. Among a fishing people, the most popular of all aumakua, or deified ancestor guardians, are shark aumakua. Kamaku describes in detail how to offer a corpse to become a shark. The body transforms gradually until the kahuna can point the awe-struck family to the markings on the shark's body that correspond to the clothing in which the beloved's body had been wrapped. Such a shark aumakua becomes the family pet, receiving food, and driving fish into the family net and warding off danger. Like all aumakua it had evil uses such as helping kill enemies. The ruling chiefs typically forbade such sorcery. Many Native Hawaiian families claim such an aumakua, who is known by name to the whole community.
 Kamohoali'i is the best known and revered of the shark gods, he was the older and favored brother of Pele, and helped and journeyed with her to Hawaii. He was able to assume all human and fish forms. A summit cliff on the crater of Kilauea is one of his most sacred spots. At one point he had a heiau (temple or shrine) dedicated to him on every piece of land that jutted into the ocean on the island of Molokai. Kamohoali'i was an ancestral god, not a human who became a shark and banned the eating of humans after eating one herself. In Fijian mythology, Dakuwaqa was a shark god who was the eater of lost souls.
@@ -190,8 +176,6 @@ A popular myth is that sharks are immune to disease and cancer, but this is not 
 Other apparently false claims are that fins prevent cancer and treat osteoarthritis. No scientific proof supports these claims; at least one study has shown shark cartilage of no value in cancer treatment.
 
 ## Threats to sharks
-
-
 ### Fishery
 In 2008, it was estimated that nearly 100 million sharks were being killed by people every year, due to commercial and recreational fishing. In 2021, it was estimated that the population of oceanic sharks and rays had dropped by 71% over the previous half-century.
 Shark finning yields are estimated at 1.44 million metric tons (1.59 million short tons) for 2000, and 1.41 million metric tons (1.55 million short tons) for 2010. Based on an analysis of average shark weights, this translates into a total annual mortality estimate of about 100 million sharks in 2000, and about 97 million sharks in 2010, with a total range of possible values between 63 and 273 million sharks per year. Sharks are a common seafood in many places, including Japan and Australia. In southern Australia, shark is commonly used in fish and chips, in which fillets are battered and deep-fried or crumbed and grilled. In fish and chip shops, shark is called flake. In India, small sharks or baby sharks (called sora in Tamil language, Telugu language) are sold in local markets. Since the flesh is not developed, cooking the flesh breaks it into powder, which is then fried in oil and spices (called sora puttu/sora poratu). The soft bones can be easily chewed, they are considered a delicacy in coastal Tamil Nadu. Icelanders ferment Greenland sharks to produce a delicacy called hákarl. During a four-year period from 1996 to 2000, an estimated 26 to 73 million sharks were killed and traded annually in commercial markets.

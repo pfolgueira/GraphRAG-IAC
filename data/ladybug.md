@@ -24,8 +24,6 @@ Coccinellids are often distinctively coloured and patterned. The elytron may be 
 Coccinellid larvae are elongated with square heads. They are covered in hairs or setae, the abdominal segments, in particular, each having six divided into pairs, and one to three segmented antennae. Their colouration varies from grey, blue-grey, grey-brown or brown and spotted with white, yellow, red or orange. They tend to brighten as they get closer to adulthood.
 
 ## Evolution
-
-
 ### Fossil history
 Over 6,000 living species of Coccinellidae have been described. They are sparsely preserved in the fossil record. Although molecular clock estimates have placed their origin in the Cretaceous, the oldest fossils of the group are known from the Oise amber of France, dating to the Early Eocene (Ypresian) around 53 million years ago, which belong to the extant genera Rhyzobius  and Nephus. The greatest number of fossils comes from the younger Eocene Baltic amber, including members of the extant genera Serangium and Rhyzobius as well as extinct genera belonging to the tribes Microweiseini (Baltosidis) and Sticholotidini (Electrolotis).
 
@@ -38,8 +36,6 @@ A 2021 genetic study sampling many species, identified three subfamilies, Microw
 An earlier 2009 study concluded that consumption of scale insects is the most basal diet of Coccinellidae. Aphid-eating evolved three separate times and leaf-eating evolved twice, one of which evolved from a clade that contains both aphid-eating and pollen-eating. The fungi-eating also evolved from aphid-eating.
 
 ## Biology and ecology
-
-
 ### Flight
 Coccinellids mostly fly during the day. Springy, cylindrical veins in the hindwings stiffen when in flight and bend when folding. Folding of the wings is further aided by creases in the membrane. These beetles may migrate long distances to hibernation and breeding sites, and areas with more food. They appear to be drawn to recognisable landmarks. The more crowded an area is, the more individuals leave, but will remain if there are enough prey species to feed on. "Trivial flights" refer to flying while foraging or when finding a place to lay eggs. One study of species in Britain found that coccinellids can fly as far as 120 km (75 mi). They flew at speeds of 30 km/h (19 mph) and could reach altitudes close to 1,100 m (3,600 ft).
 
@@ -67,8 +63,6 @@ Threats to coccinellids include climate change, agriculture, urbanisation, and i
 As of 2022, the IUCN Red List does not list the conservation status for any coccinellid, though there is an IUCN SSC Ladybird Specialist Group. Conservationists have suggested several measures for protecting the insects, including citizen science and education programs, habitat preservation and restoration, prevention of the spread of invasive species, and a global monitoring program.
 
 ## Relationship to humans
-
-
 ### Biological control
 Coccinellids have been valued in biological pest control, as they prey on agricultural pests such as aphids and scale insects. Their importance in controlling pests was noted as far back as 1814 in England. Their efficiency can vary: sometimes they have a relatively small effect on aphid populations; at others they cause significant seasonal declines. 
 Several species have been introduced to areas outside their native range; the first being the vedalia beetle, Novius cardinalis. The larva of the species was introduced to California in 1887 from Australia, to protect citrus trees from cottony cushion scale. The project was markedly successful, costing $1,500 in 1889, making it "a textbook example of the great potential of classical biological control as a tactic for suppressing invasive pests." The beetle was then used in 29 countries, again with success; reasons for this include its high prey specificity, fast development, multiple generations each year, efficient discovery of host patches, and larval development completed on a single host insect. 

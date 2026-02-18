@@ -178,8 +178,6 @@ Genus Harpia
 Harpy eagle, Harpia harpyja
 
 ## In culture
-
-
 ### Etymology
 The modern English term for the bird is derived from Latin: aquila by way of French: aigle. The origin of aquila is unknown, but it is believed to possibly derive from aquilus (meaning dark-colored, swarthy, or blackish) as a reference to the plumage of eagles.
 Old English used the term earn, related to Scandinavia's ørn/örn. It is similar to other Indo-European terms for "bird" or "eagle", including Greek: ὄρνις (ornís), Russian: орёл (orël), and Welsh: eryr.

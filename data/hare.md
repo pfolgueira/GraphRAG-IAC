@@ -67,11 +67,7 @@ Moroccan hare, Lepus schlumbergeri
 White-tailed jackrabbit, Lepus townsendii
 
 ## In human culture
-
-
 ### Food
-
-
 #### Meat
 Hares and rabbits are plentiful in many areas, adapt to a wide variety of conditions, and reproduce quickly, so hunting is often less regulated than for other varieties of game. They are a common source of protein worldwide. Because of their extremely low fat content, they are a poor choice as a survival food.
 Hares can be prepared in the same manner as rabbits—commonly roasted or parted for breading and frying.
@@ -106,14 +102,8 @@ In European tradition, the hare symbolises the two qualities of swiftness and ti
 In the Otia Imperialia, the author Gervase of Tilbury describes a creature called a “Grant” as a fire omen. The creature allegedly looks like a bipedal foal that runs through the streets to warn of fire. One interpretation is that the Grant is an exaggerated hare. Hares as fire omens have persisted in parts of England into modernity.
 
 ### In literature and art
-
-
 #### In fiction
-
-
 #### In art
-
-
 #### Three hares
 A study in 2004 followed the history and migration of a symbolic image of three hares with conjoined ears. In this image, three hares are seen chasing each other in a circle with their heads near its centre. While each of the animals appears to have two ears, only three ears are depicted. The ears form a triangle at the centre of the circle and each is shared by two of the hares. The image has been traced from Christian churches in the English county of Devon right back along the Silk Road to China, via western and eastern Europe and the Middle East. Before its appearance in China, it was possibly first depicted in the Middle East before being reimported centuries later. Its use is associated with Christian, Jewish, Islamic and Buddhist sites stretching back to about 600 AD.
 

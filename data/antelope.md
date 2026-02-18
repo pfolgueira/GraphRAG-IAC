@@ -20,8 +20,6 @@ Antelope live in a wide range of habitats. Most live in the African savannahs. H
 Species living in forests, woodland, or bush tend to be sedentary, but many of the plains species undertake long migrations. These enable grass-eating species to follow the rains and thereby their food supply. The gnus and gazelles of East Africa perform some of the most impressive mass migratory circuits of all mammals.
 
 ## Morphology
-
-
 ### Body and covering
 Antelope vary greatly in size. For example, a male common eland can measure 178 cm (5 ft 10 in) at the shoulder and weigh almost 950 kg (2,100 lb), whereas an adult royal antelope may stand only 24 cm (9+1⁄2 in) at the shoulder and weigh a mere 1.5 kg (3+1⁄4 lb).
 Antelope have a wide variety of coverings, though most have a dense coat of short fur. In most species, the coat (pelage) is some variation of a brown colour (or several shades of brown), often with white or pale underbodies. Exceptions include the zebra-marked zebra duiker, the grey, black, and white Jentink's duiker, and the black lechwe. Most of the "spiral-horned" antelope have pale, vertical stripes on their backs. Many desert and semidesert species are particularly pale, some almost silvery or whitish (e.g. Arabian oryx); the beisa and southern oryxes have gray and black pelages with vivid black-and-white faces. Common features of various gazelles are white rumps, which flash a warning to others when they run from danger, and dark stripes midbody (the latter feature is also shared by the springbok and beira). The springbok also has a pouch of white, brushlike hairs running along its back, which opens up when the animal senses danger, causing the dorsal hairs to stand on end.
@@ -47,8 +45,6 @@ The size and shape of antelope horns varies greatly. Those of the duikers and dw
 Antelope horns are efficient weapons, and tend to be better developed in those species where males fight over females (large herd antelope) than in solitary or lekking species. With male-male competition for mates, horns are clashed in combat. Males more commonly use their horns against each other than against another species. The boss of the horns is typically arranged in such a way that two antelope striking at each other's horns cannot crack each other's skulls, making a fight via horn more ritualized than dangerous. Many species have ridges in their horns for at least two-thirds the length of their horns, but these ridges are not a direct indicator of age.
 
 ## Behavior
-
-
 ### Mating strategies
 Antelope are often classified by their reproductive behavior.
 Small antelope, such as dik-diks, tend to be monogamous. They live in a forest environment with patchy resources, and a male is unable to monopolize more than one female due to this sparse distribution. Larger forest species often form very small herds of two to four females and one male.
@@ -70,8 +66,6 @@ The saiga is hunted for its horns, which are considered an aphrodisiac by some c
 It is difficult to determine how long antelope live in the wild. With the preference of predators towards old and infirm individuals, which can no longer sustain peak speeds, few wild prey-animals live as long as their biological potential. In captivity, wildebeest have lived beyond 20 years old, and impalas have reached their late teens.
 
 ## Relationship with humans
-
-
 ### Culture
 The antelope's horn is prized for supposed medicinal and magical powers in many places. The horn of the male saiga, in Eastern practice, is ground as an aphrodisiac, for which it has been hunted nearly to extinction. In the Congo, it is thought to confine spirits.  The antelope's ability to run swiftly has also led to their association with the wind, such as in the Rig Veda, as the steeds of the Maruts and the wind god Vayu. There is, however, no scientific evidence that the horns of any antelope have any effect on human physiology or characteristics.
 In Mali, antelope were believed to have brought the skills of agriculture to mankind.

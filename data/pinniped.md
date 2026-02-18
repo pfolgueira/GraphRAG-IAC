@@ -96,8 +96,6 @@ In a match-to-sample task study, a single California sea lion was able to demons
 For sea lions used in entertainment, trainers toss a ball at the animal or simply place the object on its nose, so it will eventually understand the behavior desired. A sea lion may need a year of training before it can publicly perform. Its long-term memory allows it to perform a trick after as much as three months of non-performance.
 
 ## Human relations
-
-
 ### In culture
 Various human cultures have for millennia depicted pinnipeds. In Homer's Odyssey, the sea god Proteus shepherds a colony of seals. In northern Scotland, Celts of Orkney and the Hebrides believed in selkies—seals that could change into humans and walk on land. In Inuit mythology, they are associated with the goddess Sedna, who sometimes transformed into a seal. It was believed that marine mammals, including seals, came from her severed fingers. In modern culture, pinnipeds are thought of as cute, playful and comical figures.
 

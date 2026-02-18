@@ -42,8 +42,6 @@ The magpie goose (Anseranas semipalmata) is the only living species in the famil
 The northern gannet (Morus bassanus), a seabird, is also known as the "solan goose", although it is unrelated to the true geese, or any other Anseriformes for that matter.
 
 ## In popular culture
-
-
 ### Sayings and phrases that reference geese
 To "have a gander" is to look at something.
  "What's good sauce for the goose is good sauce for the gander" or "What's good for the goose is good for the gander" means that what is an appropriate treatment for one person is equally appropriate for someone else.  This statement supporting equality is frequently used in the context of sex and gender, because a goose is female and a gander is male.
@@ -67,4 +65,3 @@ The fact that the laws were bound in goose skin;
 Because of the age of the laws — it was then believed that geese lived longer than other birds.
 
 ## Gallery
-

@@ -92,11 +92,7 @@ Phalacrocorax sp. (Sarasota County, Florida, US) – may be P. filawyi/idahensis
 The former "Phalacrocorax" (or "Oligocorax") mediterraneus is now considered to belong to the bathornithid Paracrax antiqua. "P." subvolans was actually a darter (Anhinga).
 
 ## In human culture
-
-
 ### Cormorant culling
-
-
 ### Cormorant fishing
 Humans have used cormorants' fishing skills in various places in the world. Archaeological evidence suggests that cormorant fishing was practised in Ancient Egypt, Peru, Korea and India, but the strongest tradition has remained in China and Japan, where it reached commercial-scale level in some areas. In Japan, cormorant fishing is called ukai (鵜飼) and is performed by a fisherman known as an usho. Traditional forms of ukai can be seen on the Nagara River in the city of Gifu, Gifu Prefecture, where cormorant fishing has continued uninterrupted for 1300 years, or in the city of Inuyama, Aichi. In Guilin, Guangxi, cormorants are famous for fishing on the shallow Li River. In Gifu, the Japanese cormorant (P. capillatus) is used; Chinese fishermen often employ great cormorants (P. carbo). In Europe, a similar practice was also used on Doiran Lake in the region of Macedonia. James VI and I appointed a keeper of cormorants, John Wood, and built ponds at Westminster to train the birds to fish.
 In a common technique, a snare is tied near the base of the bird's throat, which allows the bird only to swallow small fish. When the bird captures and tries to swallow a large fish, the fish is caught in the bird's throat. When the bird returns to the fisherman's raft, the fisherman helps the bird to remove the fish from its throat. The method is not as common today, since more efficient methods of catching fish have been developed, but is still practised as a cultural tradition.

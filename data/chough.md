@@ -26,8 +26,6 @@ The two choughs are distinguishable from each other by their bill colour, and in
 The red-billed chough's loud, ringing chee-ow call is similar in character to that of other corvids, particularly the jackdaw, although it is clearer and louder than the call of that species. In contrast, the Alpine chough has rippling preep and whistled sweeeooo calls quite unlike the crows. Small subspecies of both choughs have higher frequency calls than larger races, as predicted by the inverse relationship between body size and frequency.
 
 ## Behaviour and ecology
-
-
 ### Breeding
 Choughs are monogamous, and show high partner and site fidelity. Both species build a bulky nest of roots, sticks and plant stems lined with grass, fine twiglets or hair. It is constructed on a ledge, in a cave or similar fissure in a cliff face, or in man-made locations like abandoned buildings, quarries or dams. Red-billed will also sometimes use occupied buildings such as Mongolian monasteries. The choughs are not colonial, although in suitable habitat several pairs may nest in close proximity.
 Both species lay 3–5 normally whitish eggs blotched with brown or grey, which are incubated by the female alone. The chicks hatch after two to three weeks. Red-billed chough chicks are almost naked, but the chicks of the higher altitude Alpine chough hatch with a dense covering of natal down. The chicks are fed by both parents and fledge in 29–31 days after hatching for Alpine chough, and 31–41 days for red-billed.

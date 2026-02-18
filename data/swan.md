@@ -26,8 +26,6 @@ Swans' nests are on the ground near water and about a metre (3') across. Unlike 
 Evidence suggests that the genus Cygnus evolved in Europe or western Eurasia during the Miocene, spreading all over the Northern Hemisphere until the Pliocene. When the southern species branched off is not known. The mute swan is closest to the Southern Hemisphere Cygnus; its habits of carrying the neck curved (not straight) and the wings fluffed (not flush) as well as its bill colour and knob indicate that its closest living relative is the black swan. Given the biogeography and appearance of the subgenus Olor, it seems likely that these are of a more recent origin, as evidenced shows by their modern ranges (which were mostly uninhabitable during the last ice age) and great similarity between the taxa.
 
 ### Phylogeny
-
-
 ### Species
 Genus Cygnus
 
@@ -56,8 +54,6 @@ Other genera
 The supposed fossil swans "Cygnus" bilinicus and "Cygnus" herrenthalsi were, respectively, a stork and some large bird of unknown affinity (due to the bad state of preservation of the referred material).
 
 ## In culture
-
-
 ### European motifs
 Many of the cultural aspects refer to the mute swan of Europe. Perhaps the best-known story about a swan is the fairy tale "The Ugly Duckling". Swans are frequently regarded as symbols of love or fidelity, owing to their enduring and seemingly monogamous pair bonds. Swans feature prominently in two Wagner operas, Lohengrin and Parsifal.
 
@@ -67,8 +63,6 @@ The Illustrious Brotherhood of Our Blessed Lady, a religious confraternity that 
 A common misconception holds that the British monarch owns all the swans in the United Kingdom and is uniquely permitted to eat them.
 
 ### Heraldry
-
-
 ### Ancient Greece and Rome
 Swans feature strongly in mythology. In Greek mythology, the story of Leda and the Swan recounts that Helen of Troy was conceived in a union of Zeus disguised as a swan and Leda, Queen of Sparta. Four different men (Cycnus, Cycnus, Cycnus, and Cycnus) are said to have been transformed into swans by the gods.
 Other references in classical literature include the belief that, upon death, the mute swan would sing beautifully — hence the phrase "swan song".

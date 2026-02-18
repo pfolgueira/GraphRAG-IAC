@@ -119,8 +119,6 @@ In 1982, the Association of Zoos and Aquariums started a Species Survival Plan f
 About 77% of the captive lions registered in the International Species Information System in 2006 were of unknown origin; these animals might have carried genes that are extinct in the wild and may therefore be important to the maintenance of the overall genetic variability of the lion.
 
 ## Interactions with humans
-
-
 ### In zoos and circuses
 Lions are part of a group of exotic animals that have been central to zoo exhibits since the late 18th century. Although many modern zoos are more selective about their exhibits, there are more than 1,000 African and 100 Asiatic lions in zoos and wildlife parks around the world. They are considered an ambassador species and are kept for tourism, education and conservation purposes. Lions can live over twenty years in captivity; for example, three sibling lions at the Honolulu Zoo lived to the age of 22 in 2007.
 The first European "zoos" spread among noble and royal families in the 13th century, and until the 17th century were called seraglios. At that time, they came to be called menageries, an extension of the cabinet of curiosities. They spread from France and Italy during the Renaissance to the rest of Europe. In England, although the seraglio tradition was less developed, lions were kept at the Tower of London in a seraglio established by King John in the 13th century; this was probably stocked with animals from an earlier menagerie started in 1125 by Henry I at his hunting lodge in Woodstock, Oxfordshire, where according to William of Malmesbury lions had been stocked.

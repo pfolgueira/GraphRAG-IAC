@@ -12,8 +12,6 @@ The two infraorders of Serpentes are Alethinophidia and Scolecophidia. This sepa
 Recent molecular studies support the monophyly of the clades of modern snakes, scolecophidians, typhlopids + anomalepidids, alethinophidians, core alethinophidians, uropeltids (Cylindrophis, Anomochilus, uropeltines), macrostomatans, booids, boids, pythonids and caenophidians.
 
 ### Families
-
-
 ### Legless lizards
 While snakes are limbless reptiles, evolved from (and grouped with) lizards, there are many other species of lizards that have lost their limbs independently but which superficially look similar to snakes. These include the slowworm, glass snake, and amphisbaenians.
 
@@ -38,8 +36,6 @@ In 2016, two studies reported that limb loss in snakes is associated with DNA mu
 There are about 3,900 species of snakes, ranging as far northward as the Arctic Circle in Scandinavia and southward through Australia. Snakes can be found on every continent except Antarctica, as well as in the sea, and as high as 16,000 feet (4,900 m) in the Himalayan Mountains of Asia. There are numerous islands from which snakes are absent, such as Ireland, Iceland, and New Zealand (although New Zealand's northern waters are infrequently visited by the yellow-bellied sea snake and the banded sea krait).
 
 ## Biology
-
-
 ### Size
 The now extinct Titanoboa cerrejonensis was 12.8 m (42 ft) in length. By comparison, the largest extant snakes are the reticulated python, measuring about 6.95 m (22.8 ft) long, and the green anaconda, which measures about 5.21 m (17.1 ft) long and is considered the heaviest snake on Earth at 97.5 kg (215 lb).
 At the other end of the scale, the smallest extant snake is Leptotyphlops carlae, with a length of about 10.4 cm (4.1 in). Most snakes are fairly small animals, approximately 1 m (3.3 ft) in length.
@@ -115,8 +111,6 @@ The elongation in snake body is accompanied by a significant increase in vertebr
 There is ample literature focusing on the limb development/lack of development in snake embryos and the gene expression associated with the different stages. In basal snakes, such as the python, embryos in early development exhibit a hind limb bud that develops with some cartilage and a cartilaginous pelvic element, however this degenerates before hatching. This presence of vestigial development suggests that some snakes are still undergoing hind limb reduction before they are eliminated. There is no evidence in basal snakes of forelimb rudiments and no examples of snake forelimb bud initiation in embryo, so little is known regarding the loss of this trait. Recent studies suggest that hind limb reduction could be due to mutations in enhancers for the SSH gene, however other studies suggested that mutations within the Hox Genes or their enhancers could contribute to snake limblessness. Since multiple studies have found evidence suggesting different genes played a role in the loss of limbs in snakes, it is likely that multiple gene mutations had an additive effect leading to limb loss in snakes.
 
 ## Behavior and life history
-
-
 ### Winter dormancy
 In regions where winters are too cold for snakes to tolerate while remaining active, local species will enter a period of brumation. Unlike hibernation, in which the dormant mammals are actually asleep, brumating reptiles are awake but inactive. Individual snakes may brumate in burrows, under rock piles, or inside fallen trees, or large numbers of snakes may clump together in hibernacula.
 
@@ -152,8 +146,6 @@ Gliding snakes (Chrysopelea) of Southeast Asia launch themselves from branch tip
 The slowest mode of snake locomotion is rectilinear locomotion, which is also the only one where the snake does not need to bend its body laterally, though it may do so when turning. In this mode, the belly scales are lifted and pulled forward before being placed down and the body pulled over them. Waves of movement and stasis pass posteriorly, resulting in a series of ripples in the skin. The ribs of the snake do not move in this mode of locomotion and this method is most often used by large pythons, boas, and vipers when stalking prey across open ground as the snake's movements are subtle and harder to detect by their prey in this manner.
 
 ## Interactions with humans
-
-
 ### Bite
 Snakes do not ordinarily prey on humans. Unless startled or injured, most snakes prefer to avoid contact and will not attack humans. With the exception of large constrictors, nonvenomous snakes are not a threat to humans. The bite of a nonvenomous snake is usually harmless; their teeth are not adapted for tearing or inflicting a deep puncture wound, but rather grabbing and holding. Although the possibility of infection and tissue damage is present in the bite of a nonvenomous snake, venomous snakes present far greater hazard to humans. The World Health Organization (WHO) lists snakebite under the "other neglected conditions" category.
 Documented deaths resulting from snake bites are uncommon. Nonfatal bites from venomous snakes may result in the need for amputation of a limb or part thereof. Of the roughly 725 species of venomous snakes worldwide, only 250 are able to kill a human with one bite. Australia averages only one fatal snake bite per year. In India, 250,000 snakebites are recorded in a single year, with as many as 50,000 recorded initial deaths. The WHO estimates that on the order of 100,000 people die each year as a result of snake bites, and around three times as many amputations and other permanent disabilities are caused by snakebites annually.

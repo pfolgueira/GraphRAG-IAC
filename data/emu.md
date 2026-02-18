@@ -9,8 +9,6 @@ The emu is an important cultural icon of Australia, appearing on the coat of arm
 The etymology of the common name "emu" is uncertain, but is thought to have come from an Arabic word for large bird that was later used by Portuguese explorers to describe the related cassowary in Australia and New Guinea. Another theory is that it comes from the word "ema", which is used in Portuguese to denote a large bird akin to an ostrich or crane. In Victoria, some terms for the emu were Barrimal in the Dja Dja Wurrung language, myoure in Gunai, and courn in Jardwadjali. The birds were known as murawung or birabayin to the local Eora and Darug inhabitants of the Sydney basin.
 
 ## Taxonomy
-
-
 ### History
 Emus were first reported as having been seen by Europeans when explorers visited the western coast of Australia in 1696. This was during an expedition led by Dutch captain Willem de Vlamingh who was searching for survivors of a ship that had gone missing two years earlier. The birds were known on the eastern coast before 1788, when the first Europeans settled there. The birds were first mentioned under the name of the "New Holland cassowary" in Arthur Phillip's Voyage to Botany Bay, published in 1789 with the following description:
 

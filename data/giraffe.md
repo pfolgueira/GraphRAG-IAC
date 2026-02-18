@@ -8,8 +8,6 @@ The name "giraffe" has its earliest known origins in the Arabic word zirāfah (�
 "Camelopard" () is an archaic English name for the giraffe; it derives from the Ancient Greek καμηλοπάρδαλις (kamēlopárdalis), from κάμηλος (kámēlos), "camel", and πάρδαλις (párdalis), "leopard", referring to its camel-like shape and leopard-like colouration.
 
 ## Taxonomy
-
-
 ### Evolution
 Giraffes, along with the okapi, are the only living members of family Giraffidae in the order Artiodactyla. They are ruminants of the clade Pecora, along with Antilocapridae (pronghorns), Cervidae (deer), Bovidae (cattle, antelope, goats and sheep) and Moschidae (musk deer). A 2019 genome study (cladogram below) finds that Giraffidae are a sister taxon to Antilocapridae, with an estimated split of over 20 million years ago.
 
@@ -58,8 +56,6 @@ A giraffe's circulatory system has several adaptations to compensate for its gre
 Giraffes have oesophageal muscles that are strong enough to allow regurgitation of food from the stomach up the neck and into the mouth for rumination. They have four-chambered stomachs, which are adapted to their specialized diet. The intestines of an adult giraffe measure more than 70 m (230 ft) in length and have a relatively small ratio of small to large intestine. Giraffes have a small, compact liver. In fetuses there may be a small gallbladder that vanishes before birth.
 
 ## Behaviour and ecology
-
-
 ### Habitat and feeding
 Giraffes usually inhabit savannahs and open woodlands. They prefer areas dominated by Acacieae, Commiphora, Combretum and Terminalia trees over Brachystegia which are more densely spaced. The Angolan giraffe can be found in desert environments. Giraffes browse on the twigs of trees, preferring those of the subfamily Acacieae and the genera Commiphora and Terminalia, which are important sources of calcium and protein to sustain the giraffe's growth rate. They also feed on shrubs, grass and fruit. A giraffe eats around 34 kg (75 lb) of plant matter daily. When stressed, giraffes may chew on large branches, stripping them of bark. Giraffes are also recorded to chew old bones.
 During the wet season, food is abundant and giraffes are more spread out, while during the dry season, they gather around the remaining evergreen trees and bushes. Mothers tend to feed in open areas, presumably to make it easier to detect predators, although this may reduce their feeding efficiency. As a ruminant, the giraffe first chews its food, then swallows it for processing and then visibly passes the half-digested cud up the neck and back into the mouth to chew again. A giraffe requires less food than many other herbivores because the foliage it eats has more concentrated nutrients and it has a more efficient digestive system. The animal's faeces come in the form of small pellets. When it has access to water, a giraffe will go no more than three days without drinking.
@@ -89,8 +85,6 @@ The local, seasonal presence of large herds of migratory wildebeests and zebras 
 Some parasites feed on giraffes. They are often hosts for ticks, especially in the area around the genitals, which have thinner skin than other areas. Tick species that commonly feed on giraffes are those of genera Hyalomma, Amblyomma and Rhipicephalus. Red-billed and yellow-billed oxpeckers clean giraffes of ticks and alert them to danger. Giraffes host numerous species of internal parasites and are susceptible to various diseases. They were victims of the (now eradicated) viral illness rinderpest. Giraffes can also suffer from a skin disorder, which comes in the form of wrinkles, lesions or raw fissures. As much as 79% of giraffes have symptoms of the disease in Ruaha National Park, but it did not cause mortality in Tarangire and is less prevalent in areas with fertile soils.
 
 ## Human relations
-
-
 ### Cultural significance
 With its lanky build and spotted coat, the giraffe has been a source of fascination throughout human history, and its image is widespread in culture. It has represented flexibility, far-sightedness, femininity, fragility, passivity, grace, beauty and the continent of Africa itself.
 

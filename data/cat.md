@@ -26,8 +26,6 @@ The development of cat breeds started in the mid 19th century. An analysis of th
 Hybridization between domestic and other Felinae species is also possible, producing hybrids such as the Kellas cat in Scotland.
 
 ## Characteristics
-
-
 ### Size
 The domestic cat has a smaller skull and shorter bones than the European wildcat. It averages about 46 cm (18 in) in head-to-body length and 23–25 cm (9.1–9.8 in) in height, with about 30 cm (12 in) long tails. Males are larger than females. Adult domestic cats typically weigh 4–5 kg (8.8–11.0 lb).
 
@@ -56,8 +54,6 @@ The domestic cat genes MC1R and ASIP allow color variety in the coat. The feline
 The cat is an obligate carnivore and have adapted to a low-fibre highly digestible meat diet. Cats have fewer enzymes capable of metabolising carbohydrates compared to omnivores. The cat lacks the ability to convert carotenoids to vitamin A; has an inability to synthesise enough vitamin D; inability to synthesise niacin from tryptophan; inability to synthesise cysteine, citrulline, and methionine; lacks glucokinase activity; and an intolerance to glutamic acid (which is low in animal tissue and high in plant matter). Taurine and arginine are essential for cats. Due to the inability to synthesise adequate amounts of citrulline a single meal lacking in arginine can be fatal to a cat. Cats cannot produce enough taurine and require dietary taurine, a lack of taurine will cause a cat to develop dilated cardiomyopathy. Commercial cat diets historically were lacking in taurine and dilated cardiomyopathy was a common issue until it was linked to taurine deficiency in a 1987 study.
 
 ## Senses
-
-
 ### Vision
 Cats have excellent night vision and can see at one sixth the light level required for human vision. This is partly the result of cat eyes having a tapetum lucidum, which reflects any light that passes through the retina back into the eye, thereby increasing the eye's sensitivity to dim light. Large pupils are an adaptation to dim light. The domestic cat has slit pupils, which allow it to focus bright light without chromatic aberration. At low light, a cat's pupils expand to cover most of the exposed surface of its eyes. The domestic cat has rather poor color vision and only two types of cone cells, optimized for sensitivity to blue and yellowish green; its ability to distinguish between red and green is limited. A response to middle wavelengths from a system other than the rod cells might be due to a third type of cone. This appears to be an adaptation to low light levels rather than representing true trichromatic vision. Cats have a nictitating membrane, allowing them to blink without hindering their vision.
 
@@ -143,8 +139,6 @@ Between 50% and 90% of cats will experience dental or gum problems, but these ca
 In addition to guides for cat owners, guidelines have also been published for veterinarians and caregivers to improve the welfare of cats under their care. The AAFP and ISFM have issued recommendations for cat-friendly interactions in veterinary clinics.
 
 ## Ecology
-
-
 ### Habitats
 The domestic cat is a cosmopolitan species and occurs across much of the world. It is adaptable and now present on all continents except Antarctica, and on 118 of the 131 main groups of islands, even on the remote Kerguelen Islands. Due to its ability to thrive in almost any terrestrial habitat, it is among the world's most invasive species. It lives on small islands with no human inhabitants. Feral cats can live in forests, grasslands, tundra, coastal areas, agricultural land, scrublands, urban areas, and wetlands.
 The unwantedness that leads to the domestic cat being treated as an invasive species is twofold. As it is little altered from the wildcat, it can readily interbreed with the wildcat. This hybridization poses a danger to the genetic distinctiveness of some wildcat populations, particularly in Scotland and Hungary, possibly also the Iberian Peninsula, and where protected natural areas are close to human-dominated landscapes, such as Kruger National Park in South Africa. However, its introduction to places where no native felines are present also contributes to the decline of native species.

@@ -27,8 +27,6 @@ The average snail's diet varies greatly depending on the species, including diff
 Generally, land snails are most active at night due to the damp weather. The humid nighttime air minimizes water evaporation and is beneficial to land snails because their movement requires mucus, which is mostly composed of water. In addition to aiding movement, mucus plays a vital role in transporting food from the gill to the mouth, cleansing the mantle cavity, and trapping food before ingestion.
 
 ## Types of snails by habitat
-
-
 ## Slugs
 Gastropods that lack a conspicuous shell are commonly called slugs rather than snails. Some species of slug have a maroon-brown shell, some have only an internal vestige that serves mainly as a calcium lactate repository, and others have some to no shell at all. Other than that, there is little morphological difference between slugs and snails. There are however important differences in habitats and behavior.
 A shell-less animal is much more maneuverable and compressible, so even quite large land slugs can take advantage of habitats or retreats with very little space, retreats that would be inaccessible to a similar-sized snail. Slugs squeeze themselves into confined spaces such as under loose bark on trees or under stone slabs, logs or wooden boards lying on the ground. In such retreats they are in less danger from either predators or desiccation. Those are often suitable places for laying their eggs.

@@ -54,8 +54,6 @@ Some disagree with these findings, arguing that the results of these tests are o
 In 1995, Marten and Psarakos used television to test dolphin self-awareness. They showed dolphins real-time video of themselves, video of another dolphin and recorded footage. They concluded that their evidence suggested self-awareness rather than social behavior. While this particular study has not been repeated since then, dolphins have since passed the mirror test. Some researchers have argued that evidence for self-awareness has not been convincingly demonstrated.
 
 ## Behavior
-
-
 ### Socialization
 Dolphins are highly social animals, often living in pods of up to a dozen individuals, though pod sizes and structures vary greatly between species and locations. In places with a high abundance of food, pods can merge temporarily, forming a superpod; such groupings may exceed 1,000 dolphins. Membership in pods is not rigid; interchange is common. They establish strong social bonds, and will stay with injured or ill members, helping them to breathe by bringing them to the surface if needed. This altruism does not appear to be limited to their own species. The dolphin Moko in New Zealand has been observed guiding a female pygmy sperm whale together with her calf out of shallow water where they had stranded several times. They have also been seen protecting swimmers from sharks by swimming circles around the swimmers or charging the sharks to make them go away.
 Dolphins communicate using a variety of clicks, whistle-like sounds and other vocalizations. Dolphins also use nonverbal communication by means of touch and posturing.
@@ -122,8 +120,6 @@ River dolphins are highly affected by climate change as high evaporation rates, 
 As warmer waters lead to a decrease in dolphin prey, this led to other causes of dolphin population decrease. In the case of bottlenose dolphins, mullet populations decrease due to increasing water temperatures, which leads to a decrease in the dolphins' health and thus their population. At the Shark Bay World Heritage Area in Western Australia, the local Indo-Pacific bottlenose dolphin population had a significant decline after a marine heatwave in 2011. This heatwave caused a decrease in prey, which led to a decline in dolphin reproductive rates as female dolphins could not get enough nutrients to sustain a calf. The resultant decrease in fish population due to warming waters has also influenced humans to see dolphins as fishing competitors or even bait. Humans use dusky dolphins as bait or are killed off because they consume the same fish humans eat and sell for profit. In the central Brazilian Amazon alone, approximately 600 pink river dolphins are killed each year to be used as bait.
 
 ## Relationships with humans
-
-
 ### In history and religion
 Dolphins have long played a role in human culture.
 In Greek myths, dolphins were seen invariably as helpers of humankind. Dolphins also seem to have been important to the Minoans, judging by artistic evidence from the ruined palace at Knossos. During the 2009 excavations of a major Mycenaean city at Iklaina, a striking fragment of a wall painting came to light, depicting a ship with three human figures and dolphins. Dolphins are common in Greek mythology, and many coins from ancient Greece have been found which feature a man, a boy or a deity riding on the back of a dolphin. The Ancient Greeks welcomed dolphins; spotting dolphins riding in a ship's wake was considered a good omen. In both ancient and later art, Cupid is often shown riding a dolphin. A dolphin rescued the poet Arion from drowning and carried him safe to land, at Cape Matapan, a promontory forming the southernmost point of the Peloponnesus. There was a temple to Poseidon and a statue of Arion riding the dolphin.
@@ -163,8 +159,6 @@ While dolphin attacks occur far less frequently than attacks by other sea animal
 Several scientists who have researched dolphin behaviour have proposed that dolphins' unusually high intelligence in comparison to other animals means that dolphins should be seen as non-human persons who should have their own specific rights and that it is morally unacceptable to keep them captive for entertainment purposes or to kill them either intentionally for consumption or unintentionally as by-catch. Four countries – Chile, Costa Rica, Hungary, and India – have declared dolphins to be "non-human persons" and have banned the capture and import of live dolphins for entertainment.
 
 ### Consumption
-
-
 #### Cuisine
 In some parts of the world, such as Taiji, Japan and the Faroe Islands, dolphins are traditionally considered as food, and are killed in harpoon or drive hunts.
 Dolphin meat is consumed in a small number of countries worldwide, which include Japan and Peru (where it is referred to as chancho marino, or "sea pork"). While Japan may be the best-known and most controversial example, only a very small minority of the population has ever sampled it.

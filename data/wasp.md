@@ -6,8 +6,6 @@ Wasps first appeared in the fossil record in the Jurassic, and diversified into 
 Wasps have appeared in literature from Classical times, as the eponymous chorus of old men in Aristophanes' 422 BC comedy The Wasps, and in science fiction from H. G. Wells's 1904 novel The Food of the Gods and How It Came to Earth, featuring giant wasps with three-inch-long stings. The name 'Wasp' has been used for many warships and other military equipment.
 
 ## Taxonomy and phylogeny
-
-
 ### Paraphyletic grouping
 The wasps are a cosmopolitan paraphyletic grouping of hundreds of thousands of species, consisting of the narrow-waisted clade Apocrita without the ants and bees. The Hymenoptera also contain the somewhat wasplike but unwaisted Symphyta, the sawflies.
 The term wasp is sometimes used more narrowly for members of the Vespidae, which includes several eusocial wasp lineages, such as yellowjackets (the genera Vespula and Dolichovespula), hornets (genus Vespa), and members of the subfamily Polistinae.
@@ -24,8 +22,6 @@ The largest social wasp is the Asian giant hornet, at up to 5 centimetres (2.0 i
 There are estimated to be 100,000 species of ichneumonoid wasps in the families Braconidae and Ichneumonidae. These are almost exclusively parasitoids, mostly using other insects as hosts. Another family, the Pompilidae, is a specialist parasitoid of spiders. Some wasps are even parasitoids of parasitoids; the eggs of Euceros are laid beside lepidopteran larvae and the wasp larvae feed temporarily on their haemolymph, but if a parasitoid emerges from the host, the hyperparasites continue their life cycle inside the parasitoid. Parasitoids maintain their extreme diversity through narrow specialism. In Peru, 18 wasp species were found living on 14 fly species in only two species of Gurania climbing squash.
 
 ## Sociality
-
-
 ### Social wasps
 Of the dozens of extant wasp families, only the family Vespidae contains social species, primarily in the subfamilies Vespinae and Polistinae. With their powerful stings and conspicuous warning coloration, often in black and yellow, social wasps are frequent models for Batesian mimicry by non-stinging insects, and are themselves involved in mutually beneficial Müllerian mimicry of other distasteful insects including bees and other wasps. All species of social wasps construct their nests using some form of plant fiber (mostly wood pulp) as the primary material, though this can be supplemented with mud, plant secretions (e.g., resin), and secretions from the wasps themselves; multiple fibrous brood cells are constructed, arranged in a honeycombed pattern, and often surrounded by a larger protective envelope. Wood fibres are gathered from weathered wood, softened by chewing and mixing with saliva. The placement of nests varies from group to group; yellow jackets such as Dolichovespula media and D. sylvestris prefer to nest in trees and shrubs; Protopolybia exigua attaches its nests on the underside of leaves and branches; Polistes erythrocephalus chooses sites close to a water source.
 Other wasps, like Agelaia multipicta and Vespula germanica, like to nest in cavities that include holes in the ground, spaces under homes, wall cavities or in lofts. While most species of wasps have nests with multiple combs, some species, such as Apoica flavissima, only have one comb. The length of the reproductive cycle depends on latitude; Polistes erythrocephalus, for example, has a much longer (up to 3 months longer) cycle in temperate regions.
@@ -36,8 +32,6 @@ Adult solitary wasps spend most of their time in preparing their nests and forag
 Predatory wasp species normally subdue their prey by stinging it, and then either lay their eggs on it, leaving it in place, or carry it back to their nest where an egg may be laid on the prey item and the nest sealed, or several smaller prey items may be deposited to feed a single developing larva. Apart from providing food for their offspring, no further maternal care is given. Members of the family Chrysididae, the cuckoo wasps, are kleptoparasites and lay their eggs in the nests of unrelated host species.
 
 ## Biology
-
-
 ### Anatomy
 Like all insects, wasps have a hard exoskeleton which protects their three main body parts, the head, the mesosoma (including the thorax and the first segment of the abdomen) and the metasoma. There is a narrow waist, the petiole, joining the first and second segments of the abdomen. The two pairs of membranous wings are held together by small hooks and the forewings are larger than the hind ones; in some species, the females have no wings. In females there is usually a rigid ovipositor which may be modified for injecting venom, piercing or sawing. It either extends freely or can be retracted, and may be developed into a stinger for both defence and for paralysing prey.
 In addition to their large compound eyes, wasps have several simple eyes known as ocelli, which are typically arranged in a triangle just forward of the vertex of the head. Wasps possess mandibles adapted for biting and cutting, like those of many other insects, such as grasshoppers, but their other mouthparts are formed into a suctorial proboscis, which enables them to drink nectar.
@@ -57,8 +51,6 @@ In wasps, as in other Hymenoptera, sex is determined by a haplodiploid system, w
 Females of the solitary wasp parasitoid Venturia canescens can avoid mating with their brothers through kin recognition. In experimental comparisons, the probability that a female will mate with an unrelated male was about twice as high as the chance of her mating with brothers. Female wasps appear to recognize siblings on the basis of a chemical signature carried or emitted by males. Sibling-mating avoidance reduces inbreeding depression that is largely due to the expression of homozygous deleterious recessive mutations.
 
 ## Ecology
-
-
 ### As pollinators
 While the vast majority of wasps play no role in pollination, a few species can effectively transport pollen and pollinate several plant species. Since wasps generally do not have a fur-like covering of soft hairs and a special body part for pollen storage (pollen basket) as some bees do, pollen does not stick to them well. However it has been shown that even without hairs, several wasp species are able to effectively transport pollen, therefore contributing for potential pollination of several plant species.
 Pollen wasps in the subfamily Masarinae gather nectar and pollen in a crop inside their bodies, rather than on body hairs like bees, and pollinate flowers of Penstemon and the water leaf family, Hydrophyllaceae.
@@ -84,8 +76,6 @@ With their powerful stings and conspicuous warning coloration, social wasps are 
 While wasp stings deter many potential predators, bee-eaters (in the bird family Meropidae) specialise in eating stinging insects, making aerial sallies from a perch to catch them, and removing the venom from the stinger by repeatedly brushing the prey firmly against a hard object, such as a twig. The honey buzzard attacks the nests of social hymenopterans, eating wasp larvae; it is the only known predator of the dangerous Asian giant hornet or "yak-killer" (Vespa mandarinia). Likewise, roadrunners are the only real predators of tarantula hawk wasps.
 
 ## Relationship with humans
-
-
 ### As pests
 Social wasps are considered pests when they become excessively common, or nest close to buildings. People are most often stung in late summer and early autumn, when wasp colonies stop breeding new workers; the existing workers search for sugary foods and are more likely to come into contact with humans. Wasp nests made in or near houses, such as in roof spaces, can present a danger as the wasps may sting if people come close to them. Stings are usually painful rather than dangerous, but in rare cases, people may suffer life-threatening anaphylactic shock. Wasps are generally perceived negatively, and according to a 2018 study, the most common words that came to mind for wasps were "sting", "annoying" and "dangerous". This is mostly due to a lack of public knowledge about the useful roles that wasps play. The study found a lack of research on wasps compared to bees, which is stalling efforts to develop conservation efforts for threatened species.
 

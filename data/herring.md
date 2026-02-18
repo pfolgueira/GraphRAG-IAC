@@ -25,8 +25,6 @@ Herring larvae are very slender and can easily be distinguished from all other y
 At one year, they are about 10 cm (4 in) long, and they first spawn at three years.
 
 ## Ecology
-
-
 ### Prey
 Herrings consume copepods, arrow worms, pelagic amphipods, mysids, and krill in the pelagic zone. Conversely, they are a central prey item or forage fish for higher trophic levels. The reasons for this success are still enigmatic; one speculation attributes their dominance to the huge, extremely fast cruising schools they inhabit.
 Herring feed on phytoplankton, and as they mature, they start to consume larger organisms. They also feed on zooplankton, tiny animals found in oceanic surface waters, and small fish and fish larvae. Copepods and other tiny crustaceans are the most common zooplankton eaten by herring. During daylight, herring stay in the safety of deep water, feeding at the surface only at night when the chance of being seen by predators is less. They swim along with their mouths open, filtering the plankton from the water as it passes through their gills.

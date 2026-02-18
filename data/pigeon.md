@@ -94,8 +94,6 @@ Genus Turtur (wood doves, 5 species; tentatively placed here)
 Genus Chalcophaps (emerald doves, 3 species)
 
 ## Description
-
-
 ### Anatomy and physiology
 Overall, the anatomy of Columbidae is characterized by short legs, short bills with a fleshy cere, and small heads on large, compact bodies. Like some other birds, the Columbidae have no gall bladders. Some medieval naturalists concluded they have no bile (gall), which in the medieval theory of the four humours explained the allegedly sweet disposition of doves. In fact, however, they do have bile (as Aristotle had earlier realized), which is secreted directly into the gut.
 The wings of most species are large, and have eleven primary feathers; pigeons have strong wing muscles (wing muscles comprise 31–44% of their body weight) and are among the strongest fliers of all birds.
@@ -122,8 +120,6 @@ Other species of Columbidae have tiny, restricted distributions, usually seen on
 Some continental species also have tiny distributions, such as the black-banded fruit dove, which is restricted to a small area of the Arnhem Land of Australia, the Somali pigeon, found only in a tiny area of northern Somalia, and Moreno's ground dove, endemic to the area around Salta and Tucuman in northern Argentina.
 
 ## Behaviour
-
-
 ### Feeding
 Seeds and fruit form the major component of the diets of pigeons and doves, and the family can be loosely divided between seed-eating (granivorous) species, and fruit-and-mast-eating (frugivorous) species, though many species consume both.
 The granivorous species typically feed on seed found on the ground, whereas the frugivorous species are more arboreal, tending to feed in trees. The morphological adaptations used to distinguish between the two groups include granivores tending to having thick walls in their gizzards, intestines, and esophagi, with the frugivores evolved with thin walls, and the fruit-eating species have short intestines, as opposed to the seed eaters having longer intestines. Frugivores are capable of clinging to branches and even hang upside down to reach fruit.

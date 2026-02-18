@@ -137,8 +137,6 @@ Strigidae gen. et sp. indet. UMMP V31030 (Late Pliocene) – Strix/Bubo?
 the Ibizan owl, Strigidae gen. et sp. indet. – prehistoric
 
 ## Symbolism and mythology
-
-
 ### Africa
 Among the Kikuyu of Kenya, it was believed that owls were harbingers of death. If one saw an owl or heard its hoot, someone was going to die. In general, owls are viewed as harbingers of bad luck, ill health, or death. The belief is widespread even today.
 
@@ -146,8 +144,6 @@ Among the Kikuyu of Kenya, it was believed that owls were harbingers of death. I
 In Hinduism, an owl is the vahana (mount) of the goddess Lakshmi, especially in the eastern region of India. Owls are considered a symbol of wealth, prosperity, wisdom, good luck, and fortune. This is the reason why Owls are seen with Lakshmi, who is also the goddess of fortune, wealth, and prosperity. At the same time, owls are also associated with evil times in Hinduism. At times, Chamunda (fearsome form of Chandi) is depicted seated on an owl, her vahana (mount or vehicle). Hindus believe that owls are messengers of death.
 
 ### East Asia
-
-
 #### China
 In China, owls are traditionally considered a sign of evil or misfortune, but are also seen as a symbol of good luck in military affairs, a symbol of protection and warding off evil spirits at funerals, and even as the incarnation of ancestors. Owls are one of the most common birds in carvings and paintings on bronze, pottery, and funerary objects.
 

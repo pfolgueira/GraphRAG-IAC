@@ -20,8 +20,6 @@ Grouse make up a considerable part of the vertebrate biomass in the Arctic and S
 The three tundra species have maintained their former numbers.  The prairie and forest species have declined greatly because of habitat loss, though popular game birds such as the red grouse and the ruffed grouse have benefited from habitat management. Most grouse species are listed by the IUCN as "least concern" or "near threatened", but the greater and lesser prairie chicken are listed as "vulnerable" and the Gunnison grouse is listed as "endangered". Some subspecies, such as Attwater's prairie chicken and the Cantabrian capercaillie, and some national and regional populations are also in danger. The wild turkey precipitously declined before returning to abundance, even in developed areas.
 
 ## Sexual size dimorphism
-
-
 ### Male size selection
 The phenotypic difference between males and females is called sexual dimorphism. Male grouse tend to be larger than female grouse, which seems to hold true across all the species of grouse, with some difference within each species in terms of how drastic the size difference is. The hypothesis with the most supporting evidence for the evolution of sexual dimorphism in grouse is sexual selection. Sexual selection favors large males; stronger selection for larger size in males leads to greater size dimorphism. Female size will increase correspondingly as male size increases, and this is due to heredity (but not to the extent of the male size). This is because females that are smaller will still be able to reproduce without a substantial disadvantage, but this is not the case with males. The largest among the male grouse (commonly dubbed 'Biggrouse') attract the greatest numbers of females during their mating seasons.
 
@@ -35,11 +33,7 @@ Sexual size dimorphism can manifest itself differently between grouse and other 
 Grouse are game, and hunters kill millions each year for food, sport, and other uses. In the United Kingdom, this takes the form of driven grouse shooting. The male black grouse's tail feathers are a traditional ornament for hats in areas such as Scotland and the Alps.  Folk dances from the Alps to the North American prairies imitate the displays of lekking males.
 
 ## Species
-
-
 ### Extant genera
-
-
 ### Extinct genera
 Genus †Proagriocharis
 Proagriocharis kimballensis

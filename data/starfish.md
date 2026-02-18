@@ -34,8 +34,6 @@ The body cavity contains the circulatory or haemal system. The vessels form thre
 Starfish produce a large number of secondary metabolites in the form of lipids, including steroidal derivatives of cholesterol, and fatty acid amides of sphingosine. The steroids are mostly saponins, known as asterosaponins, and their sulphated derivatives. They vary across species and are typically formed from up to six sugar molecules (usually glucose and galactose) connected by up to three glycosidic chains. Long-chain fatty acid amides of sphingosine occur frequently, with some having known biological activity. Starfish also contain various ceramides and a small number of alkaloids. These chemicals in the starfish may function in defence and communication. Some are feeding deterrents used by the starfish to discourage predation. Others are antifoulants and supplement the pedicellariae to prevent other organisms from settling on the starfish's aboral surface. Some are alarm pheromones and escape-eliciting chemicals, the release of which trigger responses in starfish of the same species, but often stimulate flight in potential prey. Research into the efficacy of these compounds for possible pharmacological or industrial use occurs worldwide.
 
 ## Life cycle
-
-
 ### Sexual reproduction
 Most species of starfish are gonochorous, there being separate male and female individuals. Some species are simultaneous hermaphrodites, producing eggs and sperm at the same time, and in a few of these the same gonad, called an ovotestis, produces both eggs and sperm. Other starfish are sequential hermaphrodites. Protandrous individuals of species like Asterina gibbosa start life as males before changing sex into females as they grow older. In some species such as Nepanthia belcheri, a large female can split in half and the resulting offspring are males. When these grow large enough they change back into females.
 Each starfish arm contains two gonads that release gametes through openings called gonoducts, located on the central disc between the arms. Fertilization is generally external but in a few species, internal fertilization takes place. In most species, the buoyant eggs and sperm are simply released into the water (free spawning) and the resulting embryos and larvae live as part of the plankton. In others, the eggs may be stuck to the undersides of rocks. In certain species of starfish, the females brood their eggs – either by simply enveloping them or by holding them in specialised structures in different parts of the body, externally or internally. Those starfish that brood their eggs by "sitting" on them usually assume a humped posture with their discs raised off the substrate. Pteraster militaris broods a few of its young and disperses the remaining eggs, that are too numerous to fit into its pouch. In these brooding species, the eggs are relatively large, and supplied with yolk, and they generally develop directly into miniature starfish without an intervening larval stage, called "lecithotrophic" .  In Parvulastra parvivipara, an intragonadal brooder, the young starfish obtain nutrients by eating other eggs and embryos in the brood pouch. Brooding occurs in species that live in colder waters. and in smaller species that produce just a few eggs.
@@ -55,8 +53,6 @@ Some species of starfish have the ability to regenerate lost arms and can regrow
 The lifespan of a starfish varies considerably among species. For example, Leptasterias hexactis reaches sexual maturity at 20 g (0.7 oz) in two years and lives for about ten years. Pisaster ochraceus matures at 70–90 g (2.5–3.2 oz) in five years and has a maximum recorded lifespan of 34 years.
 
 ## Ecology
-
-
 ### Distribution and habitat
 Starfish live in marine waters around the world including both tropical and polar waters. They are mainly benthic animals, living in sandy, muddy and rocky substrates. They range from shallow, intertidal waters to the deep-sea floor down to at least 6,000 m (20,000 ft). Starfish are most common along the coast.
 
@@ -78,8 +74,6 @@ The protozoan Orchitophrya stellarum is known to infect and damage the gonads of
 Starfish and other echinoderms can be vulnerable to marine pollution. The common starfish is considered to be a bioindicator species for marine ecosystems. A 2009 study found that P. ochraceus is unlikely to be affected by ocean acidification as severely as other marine animals with calcareous skeletons. In other groups, structures made of calcium carbonate are vulnerable to dissolution when the pH is lowered. Researchers found that when P. ochraceus were exposed to 21 °C (70 °F) and 770 ppm carbon dioxide (beyond rises expected in the next century), they were relatively unaffected. Their survival is likely due to the nodular nature of their skeletons, which are able to compensate for a shortage of carbonate by growing more fleshy tissue.
 
 ## Evolution
-
-
 ### Fossil record
 The earliest fossil echinoderms date to the Cambrian, with the first asterozoans (a group that includes starfish and brittle stars) being the Somasteroidea, which exhibit traits of both groups. Starfish are infrequently found as fossils, possibly because their hard skeletal components separate as the animal decays. Despite this, there are a few places where accumulations of complete skeletal structures occur, fossilized in place in Lagerstätten – so-called "starfish beds".
 By the late Paleozoic, the crinoids and blastoids were the predominant echinoderms, fragments of which are almost the only fossil found in some limestones. In the two major extinction events that occurred during the late Devonian and late Permian, the blastoids were wiped out and only a few species of crinoids survived. Many starfish species also became extinct in these events, but afterwards the surviving few species quickly diversified rapidly over sixty million years between the beginning and middle of the Middle Jurassic. A 2012 study found that speciation in starfish can occur rapidly. During the last 6,000 years, divergence in the larval development of Cryptasterina hystera and Cryptasterina pentagona has taken place, the former adopting internal fertilization and brooding and the latter remaining a broadcast spawner.
@@ -115,8 +109,6 @@ Extinct groups within the Asteroidea include:
 † Trichasteropsida, with the Triassic genus Trichasteropsis (at least 2 species)
 
 ### Phylogeny
-
-
 #### External
 Starfish are deuterostome animals, like the chordates. A 2014 analysis of 219 genes from all classes of echinoderms gives the following phylogenetic tree. The times at which the clades diverged are shown under the labels in millions of years ago (mya).
 
@@ -128,8 +120,6 @@ The phylogeny proposed by Blake in 1987 is:
 Later work making use of molecular evidence, with or without the use of morphological evidence, had by 2000 failed to resolve the argument. In 2011, on further molecular evidence, Janies and colleagues noted that the phylogeny of the echinoderms "has proven difficult", and that "the overall phylogeny of extant echinoderms remains sensitive to the choice of analytical methods". They presented a phylogenetic tree for the living Asteroidea only; using the traditional names of starfish orders where possible, and indicating "part of" otherwise, the phylogeny is shown below. The Solasteridae are split from the Velatida, and the old Spinulosida is broken up.
 
 ## Human relations
-
-
 ### In research
 Starfish have been used in reproductive and developmental studies. Female starfish produce large numbers of oocytes that are easily isolated; these can be stored in a pre-meiosis phase and stimulated to complete division by the use of 1-methyladenine. Starfish oocytes are well suited for this research as they are easy to handle, can be maintained in sea water at room temperature, are transparent, and develop quickly. Asterina pectinifera, used as a model organism for this purpose, is resilient and easy to breed and maintain in the laboratory.
 Another area of research is the ability of starfish to regenerate lost body parts. The stem cells of adult humans are incapable of much differentiation and understanding the regrowth, repair and cloning processes in starfish may have implications for human medicine.

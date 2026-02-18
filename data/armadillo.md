@@ -66,8 +66,6 @@ Like all of the Xenarthra lineages, armadillos originated in South America. Due 
 Today, all extant armadillo species are still present in South America. They are particularly diverse in Paraguay (where 11 species exist) and surrounding areas. Many species are endangered. Some, including four species of Dasypus, are widely distributed over the Americas, whereas others, such as Yepes's mulita, are restricted to small ranges. Two species, the northern naked-tailed armadillo and nine-banded armadillo, are found in Central America; the latter has also reached the United States, primarily in the south-central states (notably Texas), but with a range that extends as far east as North Carolina and Florida, and as far north as southern Nebraska and southern Indiana. Their range has consistently expanded in North America over the last century due to a lack of natural predators. Armadillos are increasingly documented in southern Illinois and are tracking northwards due to climate change.
 
 ## Characteristics
-
-
 ### Size
 The smallest species of armadillo, the pink fairy armadillo, weighs around 85 g (3.0 oz) and is 13–15 cm (5.1–5.9 in) in total length. The largest species, the giant armadillo, can weigh up to 54 kg (119 lb), and can be 150 cm (59 in) long.
 
@@ -79,8 +77,6 @@ The armor is formed by plates of dermal bone covered in relatively small overlap
 Most species have rigid shields over the shoulders and hips, with a number of bands separated by flexible skin covering the back and flanks. Additional armor covers the top of the head, the upper parts of the limbs, and the tail. The underside of the animal is never armored and is simply covered with soft skin and fur. This armor-like skin appears to be an important defense for many armadillos, although most escape predators by fleeing (often into thorny patches, from which their armor protects them) or digging to safety. Only the South American three-banded armadillos (Tolypeutes) rely heavily on their armor for protection.
 
 ## Behaviour
-
-
 ### Diet and predation
 The diets of different armadillo species vary, but consist mainly of insects, grubs, and other invertebrates. Some species, however, feed almost entirely on ants and termites.
 They are prolific diggers. Many species use their sharp claws to dig for food, such as grubs, and to dig dens. The nine-banded armadillo prefers to build burrows in moist soil near the creeks, streams, and arroyos around which it lives and feeds.
@@ -97,8 +93,6 @@ Armadillos have short legs, but can move quite quickly.  The nine-banded armadil
 Gestation lasts from 60 to 120 days, depending on species, although the nine-banded armadillo also exhibits delayed implantation, so the young are not typically born for eight months after mating. Most members of the genus Dasypus give birth to four monozygotic young (that is, identical quadruplets), but other species may have typical litter sizes that range from one to eight. The young are born with soft, leathery skin which hardens within a few weeks. They reach sexual maturity in three to twelve months, depending on the species. Armadillos are solitary animals that do not share their burrows with other adults.
 
 ## Armadillos and humans
-
-
 ### Science and education
 Armadillos are often used in the study of leprosy, since they, along with mangabey monkeys, rabbits, and mice (on their footpads), are among the few known species that can contract the disease systemically. They are particularly susceptible due to their unusually low body temperature, which is hospitable to the leprosy bacterium, Mycobacterium leprae. (The leprosy bacterium is difficult to culture and armadillos have a body temperature of 34 °C (93 °F), similar to human skin.) Humans can acquire a leprosy infection from armadillos by handling them or consuming armadillo meat. Armadillos are a presumed vector and natural reservoir for the disease in Texas, Louisiana and Florida. Prior to the arrival of Europeans in the late 15th century, leprosy was unknown in the New World. Given that armadillos are native to the New World, at some point they must have acquired the disease from old-world humans.
 The armadillo is also a natural reservoir for Chagas disease.

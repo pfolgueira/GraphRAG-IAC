@@ -35,8 +35,6 @@ Fertile chicken eggs hatch at the end of the incubation period, about 21 days; t
 Inbreeding of White Leghorn chickens tends to cause inbreeding depression expressed as reduced egg number and delayed sexual maturity. Strongly inbred Langshan chickens display obvious inbreeding depression in reproduction, particularly for traits such as age when the first egg is laid and egg number.
 
 ## Origin
-
-
 ### Phylogeny
 Water or ground-dwelling fowl similar to modern partridges, in the Galliformes, the order of bird that chickens belong to, survived the Cretaceous–Paleogene extinction event that killed all tree-dwelling birds and their dinosaur relatives. Chickens are descended primarily from the red junglefowl (Gallus gallus) and are scientifically classified as the same species. Domesticated chickens freely interbreed with populations of red junglefowl. The domestic chicken has subsequently hybridised with grey junglefowl, Sri Lankan junglefowl and green junglefowl; a gene for yellow skin, for instance, was incorporated into domestic birds from the grey junglefowl (G. sonneratii). It is estimated that chickens share between 71 and 79% of their genome with red junglefowl.
 
@@ -46,8 +44,6 @@ Exactly when and where the chicken was domesticated was controversial. Genomic s
 Re-examination of bones from over 600 sites, and dating of those from 23 sites, identified the earliest probable chicken bones as from central Thailand, at Ban Non Wat, some 3,250 years ago. The paleo-anatomist Joris Peters and the bioarchaeologist Greger Larson state that this coincided with the growing of rice, and propose that wild jungle fowl were attracted to eat the rice seeds, nested nearby, and became domesticated. Skeletons of birds in the Gallus genus were used as grave goods at the site, confirming domestication.
 
 ## Dispersal
-
-
 ### Austronesia
 A word for the domestic chicken (*manuk) is part of the reconstructed Proto-Austronesian language, indicating they were domesticated by the Austronesian peoples since ancient times. Chickens, together with dogs and pigs, were carried throughout the entire range of the prehistoric Austronesian maritime migrations to Island Southeast Asia, Micronesia, Island Melanesia, Polynesia, and Madagascar, starting from at least 3000 BC from Taiwan. These chickens may have been introduced during pre-Columbian times to South America via Polynesian seafarers, but this is disputed.
 
@@ -67,8 +63,6 @@ Chickens are susceptible both to parasites such as mites, and to diseases caused
 Viral diseases include avian influenza.
 
 ## Use by humans
-
-
 ### Farming
 Chickens are common and widespread domestic animals, with a total population of 23.7 billion as of 2018. More than 50 billion chickens are reared annually as a source of meat and eggs. In the United States alone, more than 8 billion chickens are slaughtered each year for meat, and more than 300 million chickens are reared for egg production. The vast majority of poultry is raised in factory farms. According to the Worldwatch Institute, 74% of the world's poultry meat and 68% of eggs are produced this way. An alternative to intensive poultry farming is free-range farming. Friction between these two main methods has led to long-term issues of ethical consumerism. Opponents of intensive farming argue that it harms the environment, creates human health risks and is inhumane towards sentient animals. Advocates of intensive farming say that their efficient systems save land and food resources owing to increased productivity, and that the animals are looked after in a controlled environment. Chickens farmed for meat are called broilers. Broiler breeds typically take less than six weeks to reach slaughter size, some weeks longer for free-range and organic broilers.
 Chickens farmed primarily for eggs are called layer hens. The UK alone consumes more than 34 million eggs per day. Hens of some breeds can produce over 300 eggs per year; the highest authenticated rate of egg-laying is 371 eggs in 364 days. After 12 months of laying, the commercial hen's egg-laying ability declines to the point where the flock is commercially unviable. Hens, particularly from battery cage systems, are sometimes infirm or have lost a significant amount of their feathers, and their life expectancy has been reduced from around seven years to less than two years. In the UK and Europe, laying hens are then slaughtered and used in processed foods, or sold as 'soup hens'. In some other countries, flocks are sometimes force-moulted rather than being slaughtered to re-invigorate egg-laying. This involves complete withdrawal of food (and sometimes water) for 7–14 days or sufficiently long to cause a body weight loss of 25 to 35%, or up to 28 days under experimental conditions. This stimulates the hen to lose her feathers but also re-invigorates egg-production. Some flocks may be force-moulted several times. In 2003, more than 75% of all flocks were moulted in the US.

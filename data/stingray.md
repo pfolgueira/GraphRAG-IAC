@@ -13,8 +13,6 @@ Permineralized stingray teeth have been found in sedimentary deposits around the
 Full-body stingray fossils are very rare but are known from certain lagerstätten that preserve soft-bodied animals. The extinct Cyclobatis of the Cretaceous of Lebanon is thought to be a skate that had convergently evolved a highly stingray-like body plan, although its exact taxonomic placement is still uncertain. True stingray fossils become more common in the Eocene, with the extinct freshwater stingrays Heliobatis and Asterotrygon known from the Green River Formation. A diversity of stingray fossils is known from the Eocene Monte Bolca formation from Italy, including the early stingaree Arechia, as well as Dasyomyliobatis, which is thought to represent a transitional form between stingrays and eagle rays, and the highly unusual Lessiniabatis, which had an extremely short and slender tail with no sting.
 
 ## Anatomy
-
-
 ### Jaw and teeth
 The mouth of the stingray is located on the ventral side of the vertebrate. Stingrays exhibit hyostylic jaw suspension, which means that the mandibular arch is only suspended by an articulation with the hyomandibula. This type of suspensions allows for the upper jaw to have high mobility and protrude outward. The teeth are modified placoid scales that are regularly shed and replaced. In general, the teeth have a root implanted within the connective tissue and a visible portion of the tooth, is large and flat, allowing them to crush the bodies of hard shelled prey. Male stingrays display sexual dimorphism by developing cusps, or pointed ends, to some of their teeth. During mating season, some stingray species fully change their tooth morphology which then returns to baseline during non-mating seasons.
 
@@ -23,8 +21,6 @@ Spiracles are small openings that allow some fish and amphibians to breathe. Sti
 The flattened bodies of stingrays allow them to effectively conceal themselves in their environments. Stingrays do this by agitating the sand and hiding beneath it. Because their eyes are on top of their bodies and their mouths on the undersides, stingrays cannot see their prey after capture; instead, they use smell and electroreceptors (ampullae of Lorenzini) similar to those of sharks. Stingrays settle on the bottom while feeding, often leaving only their eyes and tails visible. Coral reefs are favorite feeding grounds and are usually shared with sharks during high tide.
 
 ## Behavior
-
-
 ### Reproduction
 During the breeding season, males of various stingray species, such as the round stingray (Urobatis halleri), may rely on their ampullae of Lorenzini to sense certain electrical signals given off by mature females before potential copulation. When a male is courting a female, he follows her closely, biting at her pectoral disc. He then places one of his two claspers into her valve.
 Reproductive ray behaviors are associated with their behavioral endocrinology, for example, in species such as the atlantic stingray (Hypanus sabinus), social groups are formed first, then the sexes display complex courtship behaviors that end in pair copulation which is similar to the species Urobatis halleri. Furthermore, their mating period is one of the longest recorded in elasmobranch fish. Individuals are known to mate for seven months before the females ovulate in March. During this time, the male stingrays experience increased levels of androgen hormones which has been linked to its prolonged mating periods. The behavior expressed among males and females during specific parts of this period involves aggressive social interactions. Frequently, the males trail females with their snout near the female vent then proceed to bite the female on her fins and her body. Although this mating behavior is similar to the species Urobatis halleri, differences can be seen in the particular actions of Hypanus sabinus. Seasonal elevated levels of serum androgens coincide with the expressed aggressive behavior, which led to the proposal that androgen steroids start, indorse and maintain aggressive sexual behaviors in the male rays for this species which drives the prolonged mating season. Similarly, concise elevations of serum androgens in females has been connected to increased aggression and improvement in mate choice. When their androgen steroid levels are elevated, they are able to improve their mate choice by quickly fleeing from tenacious males when undergoing ovulation succeeding impregnation. This ability affects the paternity of their offspring by refusing less qualified mates.
@@ -47,8 +43,6 @@ The venom of the stingray has been relatively unstudied due to the mixture of ve
 The venom is produced and stored in the secretory cells of the vertebral column at the mid-distal region. These secretory cells are housed within the ventrolateral grooves of the spine. The cells of both marine and freshwater stingrays are round and contain a great amount of granule-filled cytoplasm. The stinging cells of marine stingrays are located only within these lateral grooves of the stinger. The stinging cells of freshwater stingray branch out beyond the lateral grooves to cover a larger surface area along the entire blade. Due to this large area and an increased number of proteins within the cells, the venom of freshwater stingrays has a greater toxicity than that of marine stingrays.
 
 ## Human use
-
-
 ### As food
 Rays are edible, and may be caught as food using fishing lines or spears. Stingray recipes can be found in many coastal areas worldwide. For example, in Malaysia and Singapore, stingray is commonly grilled over charcoal, then served with spicy sambal sauce. In Goa, and other Indian states, it is sometimes used as part of spicy curries.
 Generally, the most prized parts of the stingray are the wings, the "cheek" (the area surrounding the eyes), and the liver. The rest of the ray is considered too rubbery to have any culinary uses.
@@ -64,4 +58,3 @@ Several ethnological sections in museums, such as the British Museum, display ar
 Some stingray species are commonly seen in public aquarium exhibits and more recently in home aquaria.
 
 ## Gallery
-

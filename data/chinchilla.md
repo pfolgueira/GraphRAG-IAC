@@ -14,8 +14,6 @@ In nature, chinchillas live in social groups that resemble colonies, but are pro
 Both species of chinchilla are currently listed as Endangered by the IUCN Red List of Threatened Species due to a severe population loss approximated at a 90% global population loss since 2001. The severe population decline has been caused by chinchilla hunting by humans. The long tailed-species was listed on the IUCN Red List as "Very rare and believed to be decreasing in numbers" in 1965. From 1982 to 1996, both species were listed as Indeterminate. In 2006, the long-tailed species was listed as "Vulnerable" while the short-tailed species was listed as "Critically Endangered". By 2008, both were listed as "Critically Endangered", and in 2016 they were reclassified as "Endangered" due to limited recovery in some areas.
 
 ## Relationship with humans
-
-
 ### Fur industry
 Chinchilla fur trade on an international level goes back to the 16th century. Their fur is popular due to its extremely soft feel, which is caused by the sprouting of 25 hairs (on average) from each hair follicle. The color is usually very even, which makes it ideal for small garments or the lining of larger ones, though some large pieces can be made entirely from the fur. A single, full-length coat made from chinchilla fur may require as many as 150 pelts, as chinchillas are relatively small. Their use for fur led to the near extinction of one species (C.chinchilla), and put serious pressure on the other (C. lanigera). Though it is illegal to hunt wild chinchillas, they are now on the verge of becoming extinct because of continued poaching. Domesticated chinchillas are still bred for fur.
 
@@ -29,8 +27,6 @@ Pet chinchillas require easy access to food, water, and hiding places, where the
 Chinchillas have been used in research since the 1950s. Since the 1970s, the prime interest in chinchillas by researchers is their auditory system. Other research fields in which chinchillas are used as an animal model include the study of Chagas disease, gastrointestinal diseases, pneumonia, and listeriosis, as well as of Yersinia and Pseudomonas infections.
 
 ## Veterinary medicine
-
-
 ### Fractures
 Chinchillas live active lives and can recover well from minor physical injury. Fractures may be problematic, because chinchillas sit on their hind legs and eat with their front paws, so many types of injuries will disturb their natural eating behavior.
 

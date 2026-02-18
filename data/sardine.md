@@ -27,8 +27,6 @@ South American pilchard (Sardinops sagax)
 Although they are not true sardines, sprats are sometimes marketed as sardines. For example, the European sprat, Sprattus sprattus, is sometimes marketed as the 'brisling sardine'.
 
 ## Species
-
-
 ## Feeding
 Sardines feed almost exclusively on zooplankton and congregate wherever this is abundant.
 
@@ -42,8 +40,6 @@ Canned sardines are 67% water, 21% protein, 10% fat, and contain negligible carb
 Because they are low in the food chain, sardines are low in contaminants, such as mercury, relative to other fish commonly eaten by humans, and have a relatively low impact in production of greenhouse gases.
 
 ## History
-
-
 ### History of sardine fishing in the UK
 Pilchard fishing and processing became a thriving industry in Cornwall, England from around 1750 to around 1880, after which it went into decline. Catches varied from year to year, and in 1871, the catch was 47,000 hogsheads, while in 1877, only 9,477 hogsheads. A hogshead contained 2,300 to 4,000 pilchards, and when filled with pressed pilchards, weighed 476 lbs. The pilchards were mostly exported to Roman Catholic countries such as Italy and Spain, where they are known as fermades. The chief market for the oil was Bristol, where it was used on machinery.
 Since 1997, sardines from Cornwall have been sold as 'Cornish sardines', and since March 2010, under EU law, Cornish sardines have Protected Geographical Status. The industry has featured in numerous works of art, particularly by Stanhope Forbes and other Newlyn School artists.
@@ -63,4 +59,3 @@ The manner in which sardines can be packed in a can has led to the popular Engli
 Among the residents of the Mediterranean city of Marseille, the local tendency to exaggerate is linked to a folk tale about a sardine that supposedly blocked the city's port in the 18th century. It was actually blocked by a ship called the Sartine.
 
 ## Gallery
-

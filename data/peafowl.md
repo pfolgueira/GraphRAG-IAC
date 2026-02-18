@@ -17,8 +17,6 @@ As with many birds, vibrant iridescent plumage colors are not primarily pigments
 Most commonly, during a courtship display, the visiting peahen will stop directly in front of the peacock, thus providing her with the ability to assess the male at 90° to the surface of the feather. Then, the male will turn and display his feathers about 45° to the right of the sun's azimuth which allows the sunlight to accentuate the iridescence of his train. If the female chooses to interact with the male, he will then turn to face her and shiver his train so as to begin the mating process.
 
 ### Evolution
-
-
 #### Sexual selection
 Charles Darwin suggested in The Descent of Man and Selection in Relation to Sex that peafowl plumage may have evolved through sexual selection:
 
@@ -53,8 +51,6 @@ Peafowl are omnivores and mostly eat plants, flower petals, seed heads, insects 
 Domesticated peafowl may also eat bread and cracked grain such as oats and corn, cheese, cooked rice and sometimes cat food. It has been noticed by keepers that peafowl enjoy protein-rich food including larvae that infest granaries, different kinds of meat and fruit, as well as vegetables including dark leafy greens, broccoli, carrots, beans, beets, and peas.
 
 ## Cultural significance
-
-
 ### Indian peafowl
 The peafowl is native to India and significant in its culture. In Hinduism, the Indian peacock is the mount of the god of war, Kartikeya, and the warrior goddess Kaumari, and is also depicted around the goddess Santoshi. During a war with Asuras, Kartikeya split the demon king Surapadman in half. Out of respect for his adversary's prowess in battle, the god converted the two halves into an integral part of himself. One half became a peacock serving as his mount, and the other a rooster adorning his flag. The peacock displays the divine shape of Omkara when it spreads its magnificent plumes into a full-blown circular form. In the Tantric traditions of Hinduism the goddess Tvarita is depicted with peacock feathers. A peacock feather also adorns the crest of the god Krishna.
 Chandragupta Maurya, the founder of the Mauryan Empire, was born an orphan and raised by a family farming peacocks. According to the Buddhist tradition, the ancestors of the Maurya kings had settled in a region where peacocks (mora in Pali) were abundant. Therefore, they came to be known as "Moriyas", literally, "belonging to the place of peacocks". According to another Buddhist account, these ancestors built a city called Moriya-nagara ("Moriya-city"), which was so called, because it was built with the "bricks coloured like peacocks' necks". After conquering the Nanda Empire and defeating the Seleucid Empire, the Chandragupta dynasty reigned uncontested during its time. Its royal emblem remained the peacock until Emperor Ashoka changed it to a lion, as seen in the Lion Capital of Ashoka, as well in his edicts. The peacock continued to represent elegance and royalty in India during medieval times; for instance, the Mughal seat of power was called the Peacock Throne.
@@ -63,8 +59,6 @@ Peacocks (often a symbol of pride and vanity) were believed to deliberately cons
 India adopted the peacock as its national bird in 1963 and it is one of the national symbols of India.
 
 ### Middle East
-
-
 #### Yazidism
 Tawûsî Melek (lit. 'Peacock Angel') one of the central figures of the Yazidi religion, is symbolized with a peacock. In Yazidi creation stories, before the creation of this world, God created seven Divine Beings, of whom Tawûsî Melek was appointed as the leader. God assigned all of the world's affairs to these seven Divine Beings, also often referred to as the Seven Angels or heft sirr ("the Seven Mysteries").
 In Yazidism, the peacock is believed to represent the diversity of the world, and the colourfulness of the peacock's feathers is considered to represent of all the colours of nature. The feathers of the peacock also symbolize sun rays, from which come light, luminosity and brightness. The peacock opening the feathers of its tail in a circular shape symbolizes the sunrise.

@@ -25,8 +25,6 @@ Ducks have a cosmopolitan distribution, and are found on every continent except 
 Some duck species, mainly those breeding in the temperate and Arctic Northern Hemisphere, are migratory; those in the tropics are generally not. Some ducks, particularly in Australia where rainfall is erratic, are nomadic, seeking out the temporary lakes and pools that form after localised heavy rain.
 
 ## Behaviour
-
-
 ### Feeding
 Ducks eat food sources such as grasses, aquatic plants, fish, insects, small amphibians, worms, and small molluscs.
 Dabbling ducks feed on the surface of water or on land, or as deep as they can reach by up-ending without completely submerging. Along the edge of the bill, there is a comb-like structure called a pecten. This strains the water squirting from the side of the bill and traps any food. The pecten is also used to preen feathers and to hold slippery food items.
@@ -47,8 +45,6 @@ Ducks have many predators. Ducklings are particularly vulnerable, since their in
 Adult ducks are fast fliers, but may be caught on the water by large aquatic predators including big fish such as the North American muskie and the European pike. In flight, ducks are safe from all but a few predators such as humans and the peregrine falcon, which uses its speed and strength to catch ducks.
 
 ## Relationship with humans
-
-
 ### Hunting
 Humans have hunted ducks since prehistoric times. Excavations of middens in California dating to 7800 – 6400 BP have turned up bones of ducks, including at least one now-extinct flightless species. Ducks were captured in "significant numbers" by Holocene inhabitants of the lower Ohio River valley, suggesting they took advantage of the seasonal bounty provided by migrating waterfowl. Neolithic hunters in locations as far apart as the Caribbean, Scandinavia, Egypt, Switzerland, and China relied on ducks as a source of protein for some or all of the year. Archeological evidence shows that Māori people in New Zealand hunted the flightless Finsch's duck, possibly to extinction, though rat predation may also have contributed to its fate. A similar end awaited the Chatham duck, a species with reduced flying capabilities which went extinct shortly after its island was colonised by Polynesian settlers. It is probable that duck eggs were gathered by Neolithic hunter-gathers as well, though hard evidence of this is uncommon.
 In many areas, wild ducks (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or by being trapped using duck decoys. Because an idle floating duck or a duck squatting on land cannot react to fly or move quickly, "a sitting duck" has come to mean "an easy target". These ducks may be contaminated by pollutants such as PCBs.

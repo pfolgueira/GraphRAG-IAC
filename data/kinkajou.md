@@ -3,8 +3,6 @@ The kinkajou (/ˈkɪŋkədʒuː/ KING-kə-joo; Potos flavus) is a mammal of the 
 Native to tropical rainforests of Mexico, Central and South America, this mostly frugivorous mammal is seldom seen by people because of its strict nocturnal habits. However, it is hunted for the pet trade, its skin (to make wallets and horse saddles), and its meat. The species has been included in Appendix III of CITES by Honduras, which means that exports from Honduras require an export permit, and exports from other countries require a certificate of origin or of re-export. They may live up to 40 years in captivity.
 
 ## Nomenclature
-
-
 ### Etymology
 The common name kinkajou derives from French quincajou, based on the Algonquian name for the wolverine. It is similar to the Ojibwe word gwiingwaʼaage, perhaps from a Proto-Algonquian *kwi·nkwaʔa·ke. Its other names in English include honey bear, night ape, and night walker. Throughout its range, several regional names are used; for instance, the Dutch names nachtaap, rolbeer, and rolstaartbeer are used in Suriname. Local names in Portuguese and Spanish include jupará, yapará, huasa, cuchi cuchi, leoncillo, marta, and perro de monte; many of these come from indigenous languages such as Old Tupi.
 

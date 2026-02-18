@@ -36,8 +36,6 @@ Gorillas have a patchy distribution. The range of the two species is separated b
 Mountain gorillas live in montane forests at the higher end of the elevation range, while eastern lowland gorillas live in submontane forests at the lower end. In addition, eastern lowland gorillas live in montane bamboo forests, as well as lowland forests ranging from 600–3,308 m (1,969–10,853 ft) in elevation. Western gorillas live in both lowland swamp forests and montane forests, at elevations ranging from sea level to 1,600 m (5,200 ft). Western lowland gorillas live in swamp and lowland forests ranging up to 1,600 m (5,200 ft), and Cross River gorillas live in low-lying and submontane forests ranging from 150–1,600 m (490–5,250 ft).
 
 ## Ecology
-
-
 ### Diet and activites
 A gorilla's day is divided between rest periods and travel or feeding periods. Diets differ between and within species. Mountain gorillas mostly eat foliage, such as leaves, stems, pith, and shoots, while fruit makes up a very small part of their diets. Mountain gorilla food is widely distributed and neither individuals nor groups have to compete with one another. Their home ranges vary from 3 to 15 km2 (1.2 to 5.8 sq mi), and their movements range around 500 m (0.31 mi) or less on an average day. Despite eating a few species in each habitat, mountain gorillas have flexible diets and can live in a variety of habitats.
 
@@ -53,8 +51,6 @@ Gorillas make a new nest to sleep on each day; even if remaining in the same pla
 One possible predator of gorillas is the leopard. Gorilla remains have been found in leopard scat, but this may be the result of scavenging. When the group is attacked by humans, leopards, or other gorillas, an individual silverback will protect the group, even at the cost of his own life. Gorillas do not appear to directly compete with chimpanzees in areas where they overlap. When fruit is abundant, gorilla and chimpanzee diets converge, but when fruit is scarce gorillas resort to vegetation. The two apes may also feed on different species, whether fruit or insects. Gorillas and chimpanzees may ignore or avoid each other when feeding on the same tree, but they have also been documented to form social bonds. Conversely, coalitions of chimpanzees have been observed attacking families of gorillas including silverbacks and killing infants.
 
 ## Behaviour
-
-
 ### Social structure
 Gorillas live in groups called troops. Troops tend to be made of one adult male or silverback, with a harem of multiple adult females and their offspring. However, multiple-male troops also exist. A silverback is typically more than 12 years of age, and is named after the distinctive patch of silver hair on his back, which comes with maturity. Silverbacks have large canine teeth that also come with maturity. Both males and females tend to emigrate from their natal groups. For mountain gorillas, females disperse from their natal troops more than males. Mountain gorillas and western lowland gorillas also commonly transfer to second new groups.
 Mature males also tend to leave their groups and establish their own troops by attracting emigrating females. However, male mountain gorillas sometimes stay in their natal troops and become subordinate to the silverback. If the silverback dies, these males may be able to become dominant or mate with the females. This behaviour has not been observed in eastern lowland gorillas. In a single male group, when the silverback dies, the females and their offspring disperse and find a new troop. 

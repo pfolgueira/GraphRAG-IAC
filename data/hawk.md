@@ -12,8 +12,6 @@ Falconry was once called "hawking", and any bird used for falconry could be refe
 Aristotle listed eleven types of ἱέρακες (hierakes, hawks; singular ἱέραξ, hierax): aisalōn (merlin), asterias, hypotriorchēs, kirkos, leios, perkos, phassophonos, phrynologos, pternis, spizias, and triorchēs. Pliny numbered sixteen kinds of hawks, but named only aigithos, epileios, kenchrēïs (kestrel), kybindis, and triorchēs (buzzard).
 
 ## Groups
-
-
 ### Accipiterine group
 Accipitrine hawks generally hunt other birds as their primary prey and thus are sometimes called "hen-hawks". Similarly, they are sometimes called "wood-hawks" because of their woodland habitat. Though they are also known as "true hawks" With most being called "sparrowhawks" or "goshawks" with the both being named such because of them hunting small birds (like sparrow) and large water-fowl (like goose) respectively
 The subfamily Accipitrinae contains the genus Accipiter as well as the genera Micronisus (Gabar goshawk), Urotriorchis (long-tailed hawk), and Megatriorchis (Doria's goshawk). Melierax (chanting goshawk) may be included in the subfamily or given a subfamily of its own.
@@ -25,8 +23,6 @@ The proposed new genera Morphnarchus, Rupornis, and Pseudastur would be formed f
 Members of the "Buteogallus group" are also called hawks, with the exception of solitary eagle species. Buteo is the type genus of the subfamily Buteoninae. This subfamily traditionally includes eagles and sea-eagles, but Lerner and Mindell (2005) proposed placing them into separate the subfamilies Aquilinae and Haliaaetinae. This would leave only the buteonine hawks/buzzards in Buteoninae.
 
 ## Characteristics
-
-
 ### Intelligence
 In February 2005, Canadian ornithologist Louis Lefebvre announced a method of measuring avian "IQ" by measuring their innovation in feeding habits. Based on this scale, hawks were named among the most intelligent birds.
 

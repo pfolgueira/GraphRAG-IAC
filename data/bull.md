@@ -19,8 +19,6 @@ The bull's glans penis has a rounded and elongated shape.
 A common misconception widely repeated in depictions of bull behavior is that the color red angers bulls, inciting them to charge. In fact, like most mammals, cattle are red–green color blind. In bullfighting, the movement of the matador's cape, and not the color, provokes a reaction in the bull.
 
 ## Management
-
-
 ### Beef production
 Other than the few bulls needed for breeding, the vast majority of male cattle are castrated and slaughtered for meat before the age of three years, except where they are needed (castrated) as work oxen for haulage. Most of these beef animals are castrated as calves to reduce aggressive behavior and prevent unwanted mating, although some are reared as uncastrated bull beef. A bull is typically ready for slaughter one or two months sooner than a castrated male or a female, and produces proportionately more and leaner muscle.
 Frame score is a useful way of describing the skeletal size of bulls and other cattle. Frame scores can be used as an aid to predict mature cattle sizes and aid in the selection of beef bulls. They are calculated from hip height and age. In sales catalogues, this measurement is frequently reported in addition to weight and other performance data such as estimated breed value.
@@ -49,4 +47,3 @@ Bulls also have a special significance in Spanish culture, where the Running of 
 Popular NBA team the Chicago Bulls features a bull in its branding, mascot, and merchandise.
 
 ## Gallery
-

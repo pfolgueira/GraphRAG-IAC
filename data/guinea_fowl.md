@@ -29,4 +29,3 @@ The helmeted guinea fowl has been introduced in East Africa, South America, the 
 Guinea fowl meat is moist, firmer and leaner than chicken meat and has a slight gamey flavour. It has marginally more protein than chicken or turkey, roughly half the fat of chicken and slightly less food energy per gram. Their eggs are substantially richer than those of chickens.
 
 ## Gallery
-

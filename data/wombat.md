@@ -34,8 +34,6 @@ Northern hairy-nosed wombat or yaminon (Lasiorhinus krefftii), which is critical
 Southern hairy-nosed wombat (Lasiorhinus latifrons), the smallest of the three species
 
 ## Human relations
-
-
 ### History
 Depictions of the animals in rock art are exceptionally rare, though examples estimated to be up to 4,000 years old have been discovered in Wollemi National Park. The wombat is depicted in aboriginal Dreamtime as an animal of little worth. The mainland stories tell of the wombat as originating from a person named Warreen whose head had been flattened by a stone and tail amputated as punishment for selfishness. In contrast, the Tasmanian aboriginal story first recorded in 1830 tells of the wombat (known as the drogedy or publedina) the great spirit Moihernee had asked hunters to leave alone. In both cases, the wombat is regarded as having been banished to its burrowing habitat. Estimates of wombat distribution prior to European settlement are that numbers of all three surviving species were prolific and that they covered a range more than ten times greater than that of today.
 
