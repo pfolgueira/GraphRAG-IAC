@@ -1,0 +1,47 @@
+# Grouse
+Grouse  are a group of birds from the order Galliformes, in the family Phasianidae. Grouse are presently assigned to the tribe Tetraonini (formerly the subfamily Tetraoninae and the family Tetraonidae), a classification supported by mitochondrial DNA sequence studies, and applied by the American Ornithologists' Union, ITIS, International Ornithological Congress, and others.
+Grouse inhabit temperate and subarctic regions of the Northern Hemisphere, from pine forests to moorland and mountainside, from 83°N (rock ptarmigan in northern Greenland) to 28°N (Attwater's prairie chicken in Texas).
+The turkeys are closely allied with grouse, but they have traditionally been excluded from Tetraonini, often placed in their own tribe, subfamily, or family; certain more modern treatments also exclude them. Later phylogenomic analyses demonstrated conclusively that they are sister to the traditionally defined grouse, and they, along with the somewhat earlier-diverging koklass pheasant, may be treated as grouse (i.e., as basal members of the Tetraonini). This is reflected in some more recent circumscriptions.
+
+## Description
+Like many other galliforms, grouse are generally compact, heavily-built birds. True grouse (excluding meleagrids) range in length from 31 to 95 cm (12 to 37+1⁄2 in), and in weight from 0.3 to 6.5 kg (3⁄4 to 14+1⁄4 lb). If the latter are counted, wild turkey toms are the largest tetraonids, attaining lengths of 130 cm (50 in) and weighing up to 10 kg (22 lbs). Male grouse are significantly larger than females, and can be twice as heavy in the western capercaillie (the largest of the true grouse). Like many other galliforms, males often sport incredibly elaborate ornamentation, such as crests, fan-tails, and inflatable, brightly colored patches of bare skin. Many grouse have feathered nostrils, and some species, such as the ptarmigans, have legs which are entirely covered in feathers; in winter the toes, too, have feathers or small scales on the sides, an adaptation for walking on snow and burrowing into it for shelter. Unlike most other galliforms, they typically lack spurs, with the exception of meleagrids, who possess sharp, prominent spurs.
+
+## Feeding and habits
+Grouse feed mainly on vegetation—buds, catkins, leaves, and twigs—which typically accounts for over 95% of adults' food by weight. Thus, their diets vary greatly with the seasons. Hatchlings eat mostly insects and other invertebrates, gradually reducing their proportion of animal food to adult levels. Several of the forest-living species are notable for eating large quantities of conifer needles, which most other vertebrates refuse. To digest vegetable food, grouse have big crops and gizzards, eat grit to break up food, and have long intestines with well-developed caeca in which symbiotic bacteria digest cellulose.
+Forest species flock only in autumn and winter, though individuals tolerate each other when they meet. Prairie species are more social, and tundra species (ptarmigans, Lagopus) are the most social, forming flocks of up to 100 in winter.  All grouse spend most of their time on the ground, though when alarmed, they may take off in a flurry and go into a long glide.
+Most species stay within their breeding range all year, but make short seasonal movements; many individuals of the ptarmigan (called rock ptarmigan in the US) and willow grouse (called willow ptarmigan in the US) migrate hundreds of kilometers.
+
+## Reproduction
+In all but one species (the willow ptarmigan), males are polygamous.  Many species have elaborate courtship displays on the ground at dawn and dusk, which in some are given in leks. The displays feature males' brightly colored combs and in some species, brightly colored inflatable sacs on the sides of their necks. The males display their plumage, give vocalizations that vary widely between species, and may engage in other activities, such as drumming or fluttering their wings, rattling their tails, and making display flights. Occasionally, males fight.
+The nest is a shallow depression or scrape on the ground—often in cover—with a scanty lining of plant material. The female lays one clutch, but may replace it if the eggs are lost. She begins to lay about a week after mating and lays one egg every day or two; the clutch comprises five to 12 eggs. The eggs have the shape of hen's eggs and are pale yellow, sparsely spotted with brown.  On laying the second-last or last egg, the female starts 21 to 28 days of incubation. Chicks hatch in dense, yellow-brown down and leave the nest immediately. They soon develop feathers and can fly shortly before they are two weeks old. The female (and the male in the willow grouse) stays with them and protects them until their first autumn, when they reach their mature weights (except in the male capercaillies). They are sexually mature the following spring, but often do not mate until later years.
+
+## Populations
+Grouse make up a considerable part of the vertebrate biomass in the Arctic and Subarctic. Their numbers may fall sharply in years of bad weather or high predator populations—significant grouse populations are a major food source for lynx, foxes, martens, and birds of prey.
+The three tundra species have maintained their former numbers.  The prairie and forest species have declined greatly because of habitat loss, though popular game birds such as the red grouse and the ruffed grouse have benefited from habitat management. Most grouse species are listed by the IUCN as "least concern" or "near threatened", but the greater and lesser prairie chicken are listed as "vulnerable" and the Gunnison grouse is listed as "endangered". Some subspecies, such as Attwater's prairie chicken and the Cantabrian capercaillie, and some national and regional populations are also in danger. The wild turkey precipitously declined before returning to abundance, even in developed areas.
+
+## Sexual size dimorphism
+
+
+### Male size selection
+The phenotypic difference between males and females is called sexual dimorphism. Male grouse tend to be larger than female grouse, which seems to hold true across all the species of grouse, with some difference within each species in terms of how drastic the size difference is. The hypothesis with the most supporting evidence for the evolution of sexual dimorphism in grouse is sexual selection. Sexual selection favors large males; stronger selection for larger size in males leads to greater size dimorphism. Female size will increase correspondingly as male size increases, and this is due to heredity (but not to the extent of the male size). This is because females that are smaller will still be able to reproduce without a substantial disadvantage, but this is not the case with males. The largest among the male grouse (commonly dubbed 'Biggrouse') attract the greatest numbers of females during their mating seasons.
+
+### Mating behavior selection
+Male grouse display lekking behavior, which is when many males come together in one area and put on displays to attract females. Females selectively choose among the males present for traits they find more appealing. Male grouse exhibit two types: typical lekking and exploded lekking. In typical lekking, males display in small areas defending a limited territory, and in exploded lekking, displaying males are covered over an expansive land area and share larger territories. Male grouse can also compete with one another for access to female grouse through territoriality, in which a male defends a territory which has resources that females need, like food and nest sites. These differences in male behavior in mating systems account for the evolution of body size in grouse. Males of territorial species were smaller than those of exploded lekking species, and males of typical lekking species were the largest overall. The male birds that exhibit lekking behavior, and have to compete with other males for females to choose them, have greater sexual dimorphism in size. This suggests the hypothesis of sexual selection affecting male body size and also gives an explanation for why some species of grouse have a more drastic difference between male and female body size than others.
+
+### Contrast with other bird species
+Sexual size dimorphism can manifest itself differently between grouse and other birds. In some cases, the female is dominant over the male in breeding behavior, which can result in females that are larger than the males.
+
+## In culture
+Grouse are game, and hunters kill millions each year for food, sport, and other uses. In the United Kingdom, this takes the form of driven grouse shooting. The male black grouse's tail feathers are a traditional ornament for hats in areas such as Scotland and the Alps.  Folk dances from the Alps to the North American prairies imitate the displays of lekking males.
+
+## Species
+
+
+### Extant genera
+
+
+### Extinct genera
+Genus †Proagriocharis
+Proagriocharis kimballensis
+Genus †Rhegminornis
+Rhegminornis calobates

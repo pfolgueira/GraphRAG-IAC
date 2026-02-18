@@ -1,0 +1,22 @@
+# Lapwing
+Lapwings (subfamily Vanellinae) are any of various ground-nesting birds (family Charadriidae) akin to plovers and dotterels. They range from 10 to 16 inches (25 to 41 cm) in length.
+The traditional terms "plover", "lapwing", and "dotterel" do not correspond exactly to current taxonomic models; thus, several of the Vanellinae are often called plovers, and one a dotterel, while a few of the "true" plovers (subfamily Charadriinae) are known colloquially as lapwings. In general, a lapwing can be thought of as a larger plover.
+In Europe's Anglophone countries, lapwing refers specifically to the northern lapwing, the only member of this group to occur in most of the continent and thus the first bird to go by the English name lapwing (also known as peewit or pyewipe).
+In the fanciful taxonomy promoted by medieval courtesy books, a group of lapwings was called a "deceit".
+
+## Systematics
+While authorities generally agree that there are approximately 25 species of Vanellinae, classifications within the subfamily remain confused. Some workers have gone so far as to group all the "true" lapwings (except the red-kneed dotterel) into the single genus Vanellus. Current consensus favors a more moderate position, but it is unclear which genera to split. The Handbook of Birds of the World provisionally places all Vanellinae in Vanellus except the red-kneed dotterel, which is in the monotypic Erythrogonys. Its plesiomorphic habitus resembles that of plovers, but details like the missing hallux (hind toe) are like those of lapwings: it is still not entirely clear whether it is better considered sister to all other plovers or lapwings.  The IOC also recognizes a monotypic genus Hoploxypterus for the pied plover.
+Many coloration details of the red-kneed dotterel also occur here and there among the living members of the main lapwing clade. Its position as the sister to all other living Vanellinae or just immediately outside the subfamily thus suggests that their last common ancestor – or even the last common ancestor of plovers and lapwings – almost certainly was a plover-sized bird with a black crown and breast-band, a white feather patch at the wrist, no hallux, and a lipochromic (probably red) bill with a black tip. Its legs were most likely black or the color of the bill's base.
+
+### Evolution
+The fossil record of the Vanellinae is scant and mostly recent in origin; no Neogene lapwings seem to be known. On the other hand, it appears as if early in their evolutionary history the plovers, lapwings and dotterels must have been almost one and the same, and they are hard to distinguish osteologically even today. Thus, since the Red-kneed Dotterel is so distinct that it might arguably be considered a monotypic subfamily, reliably dating its divergence from a selection of true lapwings and plovers would also give a good idea of charadriid wader evolution altogether.
+A mid-Oligocene – c.28 mya (million years ago) – fossil from Rupelmonde in Belgium has been assigned to Vanellus, but even if the genus were broadly defined, it is entirely unclear if the placement is correct. Its age ties in with the appearance of the first seemingly distinct Charadriinae at about the same time, and with the presence of more basal Charadriidae a few million years earlier. However, the assignment of fragmentary fossils to Charadriinae or Vanellinae is not easy. Thus, it is very likely that the charadriid waders originate around the Eocene-Oligocene boundary – roughly 40–30 mya – but nothing more can be said at present. If the Belgian fossil is not a true lapwing, there are actually no Vanellinae fossils known before the Quaternary.
+The Early Oligocene fossil Dolicopterus from Ronzon, France may be such an ancestral member of the Charadriidae or even the Vanellinae, but it has not been studied in recent decades and is in dire need of review.
+Apart from the prehistoric Vanellus, the extinct lapwing genus Viator has been described from fossils. Its remains were found in the tar pits of Talara in Peru and it lived in the Late Pleistocene. Little is known of this rather large lapwing; it may actually belong in Vanellus.
+The remaining Charadrii are highset or chunky birds, larger than many of the scolopacid waders. The evolutionary trend regarding the Charadriidae – which make up most of the diversity of the Charadrii – thus runs contrary to Cope's Rule.
+
+### List of species in taxonomic order
+
+
+## Footnotes
+

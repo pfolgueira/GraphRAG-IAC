@@ -1,0 +1,25 @@
+# Squalidae
+Squalidae, more commonly known as dogfish, dog sharks, or spiny dogfish, are one of several families of sharks categorized under Squaliformes, making it the second largest order of sharks, numbering 119 species across 7 families. Having earned their name after a group of fishermen reportedly observed the species chasing down smaller fish in dog-like packs, dogfish have slender, streamlined bodies, usually more compact in comparison to other species, and a pointed snout. Dogfish likewise have two dorsal fins, each with smooth spines, but no anal fin, and their skin is generally rough to the touch. As the species reaches adulthood, males usually measure a maximum of 100 cm (39 inches), while females typically measure 125 cm (49 inches) long. The species therefore exhibits female-dominant sexual dimorphism.
+Dogfish sharks have slate-grey or grey-brown skin with white dots that become paler (almost white) around the belly region. These sharks are characterized by teeth in upper and lower jaws similar in size; a caudal peduncle with lateral keels; the upper precaudal pit is usually present; and the caudal fin is without a  subterminal notch.
+They are carnivorous, principally preying upon organisms smaller than themselves. Some of their prey include herring, mackerel, and capelin. In special cases, they may consume jellyfish and squid. Even at a young age, spiny dogfish pups may hunt fish two or three times their size. Unlike virtually all other shark species, dogfish sharks possess venom which coats their dorsal spines; this venom is mildly toxic to humans and would be harmful if the shark were to be mishandled. The livers and stomachs of the Squalidae contain the compound squalamine, which possesses the property of reducing small blood vessel growth in humans. Dogfish sharks use their strong jaw and sharp teeth to consume their prey.
+The spiny dogfish has broken several records in the areas of migration and gestation. This shark tends to be a highly migratory species: one shark was recorded as travelling 8,000 km (5,000 miles) after being tagged in Washington state, United States, and found again later in Japan. In addition to its long distance migration, the spiny shark holds the record for the longest gestation period of any other vertebrate at 22–24 months. Females produce eggs and give birth to live young that measure to be 20–33 cm (8–13 inches). The mating cycle of Squalidae consists of multiple paternity, where multiple males can fertilize a single litter. This allows for increased genetic variation, which is essential for the conservation of the species, given their susceptibility to fishing.
+
+## Taxonomy
+Dogfish are scientifically classified as the Squalidae family, categorized under the Squaliform order, which encompasses seven families in total, including Squalidae. The Squalidae family itself contains two separate genera: Cirrhigaleus and Squalus, numbering 37 species between the two. Some extinct genera such as †Protosqualus have been documented.
+Order: Squaliformes
+Family:
+Within Squaliformes, there are seven families
+
+Centrophoridae – gulper sharks
+Dalatiidae – kite-fin sharks
+Echinorhinidae – bramble sharks
+Etmopteridae – lantern sharks
+Oxynotidae – rough sharks
+Somniosidae – sleeper sharks
+Squalidae – dogfish sharks
+Genus:
+Within the Squalidae dogshark family, are two known genera
+
+Squalus: The Squalus genus encompasses 34 different species of dogfish, or spurdogs, home to waters all around the world. With the exception of one – Squalus margaretsmithae, or Smith's dogfish shark, known to be a maximum of 55 cm (21.3 inches) in length  – species classified under the genus are known to range from 56 to 160 cm (22 to 63 inches) in length. While the majority of the species are characterized by their slate or blue-grey body coloration and white underbelly, only 2 – Squalus acanthias and Squalus suckleyi – are more easily recognizable by the notable, evenly-spaced array of small white dots decorating their darker dorsal sides.
+Cirrhigaleus: In contrast to its counterpart genus, Cirrhigaleus currently includes only 3 species, the most recent of which, Cirrhigaleus australis, was discovered and classified in 2007. Cirrhigaleus species are typically the larger of the two Squalidae genera, ranging from 120 to 125 cm (47 to 49.5 inches) in length (although the largest species of 160 cm (63 inches), Squalus acanthias, is classified under the Squalus genus, the vast majority of the species within the same genus remain under or around 100 cm (39 inches) in length, whereas only 3 of 34 total species exceed 120 cm (47 inches). The genus likewise shares many phenotypic similarities with its Squalus counterpart, namely the blue-grey body coloration, white underbelly, and basic morphology, however with some variation; common body coloration may also be a grey-brown hue, and most notably, Cirrhigaleus differs from Squalus in having extremely long nasal barbels, and small black instead of white spots in a similar pattern.
+For a full list of species in each genera: list of sharks
