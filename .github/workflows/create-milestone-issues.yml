@@ -2,6 +2,11 @@ name: Crear Issues de Hitos
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/create-milestone-issues.yml"
 
 jobs:
   create-issues:
