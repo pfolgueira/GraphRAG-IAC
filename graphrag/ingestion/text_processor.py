@@ -44,7 +44,7 @@ class TextProcessor:
         # 3. Procesar cada chunk
         for i, chunk in enumerate(tqdm(chunks, desc="Procesando chunks")):
             chunk_id = f"{document_id}_chunk_{i}"
-            self._process_chunk(chunk_id, chunk, document_id, i)
+            self._process_chunk(chunk_id, chunk.page_content, chunk.metadata, document_id, i)
 
         # 4. Consolidar entidades y relaciones
         self._consolidate_entities()
@@ -67,6 +67,7 @@ class TextProcessor:
             self,
             chunk_id: str,
             text: str,
+            metadata: Dict[str, Any],
             document_id: str,
             index: int
     ):
@@ -81,12 +82,14 @@ class TextProcessor:
         SET c.text = $text,
             c.embedding = $embedding,
             c.index = $index
+            c.metadata = $metadata
         MERGE (d)-[:HAS_CHUNK]->(c)
         """
         self.neo4j.execute_query(query, {
             "chunk_id": chunk_id,
             "text": text,
             "embedding": embedding,
+            "metadata": metadata,
             "index": index,
             "document_id": document_id
         })
@@ -95,39 +98,42 @@ class TextProcessor:
         entities, relationships = self.entity_extractor.extract_entities_and_relationships(text)
 
         # Almacenar entidades
-        for entity in entities:
-            self._store_entity(entity, chunk_id)
+        for label, entities_list in entities.items():
+            for entity_data in entities_list:
+                # 'label' será "Species", "Family", etc.
+                # 'entity_data' será el diccionario con las propiedades extraídas
+                self._store_entity(label, entity_data, chunk_id)
 
         # Almacenar relaciones
         for rel in relationships:
             self._store_relationship(rel, chunk_id)
 
-    def _store_entity(self, entity: Dict[str, Any], chunk_id: str):
+    def _store_entity(self, label: str, entity_data: Dict[str, Any], chunk_id: str):
         """Almacena una entidad y la conecta al chunk, manejando descripciones faltantes."""
+        # Detecta si la clave principal es 'name' (para Species) o 'type' (para el resto)
+        primary_value = entity_data.get("name") or entity_data.get("type")
+        
+        if not primary_value:
+            return
 
-        # Usamos .get() con un valor por defecto para evitar KeyErrors
-        name = entity.get("name")
-        entity_type = entity.get("type", "UNKNOWN")
-        description = entity.get("description", "No description provided")
+        # Extrae el resto de propiedades ignorando las claves principales
+        properties = {
+            k: v for k, v in entity_data.items() 
+            if k not in ["name", "type"]
+        }
 
-        if not name:
-            return  # Si no hay nombre, no podemos crear el nodo
-
-        query = """
-        MATCH (c:Chunk {id: $chunk_id})
-        MERGE (e:Entity {name: $name})
-        ON CREATE SET e.type = $type
-        SET e.description = CASE 
-            WHEN e.description IS NULL THEN [$description]
-            ELSE e.description + [$description]
-        END
-        MERGE (c)-[:HAS_ENTITY]->(e)
+        query = f"""
+        MATCH (c:Chunk {{id: $chunk_id}})
+        MERGE (e:{label} {{id: $primary_value}})
+        SET e.name = $primary_value
+        SET e += $properties
+        MERGE (c)-[:MENTIONS]->(e)
         """
+        
         self.neo4j.execute_query(query, {
             "chunk_id": chunk_id,
-            "name": name,
-            "type": entity_type,
-            "description": description
+            "primary_value": primary_value,
+            "properties": properties
         })
 
     def _store_relationship(self, rel: Dict[str, Any], chunk_id: str):
