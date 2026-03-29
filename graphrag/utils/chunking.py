@@ -1,5 +1,7 @@
 from typing import List
 import tiktoken
+from langchain_text_splitters import MarkdownHeaderTextSplitter, RecursiveCharacterTextSplitter
+from langchain_core.documents import Document
 
 
 def num_tokens_from_string(string: str, model: str = "qwen3:4b") -> int:
@@ -19,7 +21,9 @@ def chunk_text(
         split_on_whitespace_only: bool = True
 ) -> List[str]:
     """
-    Divide el texto en chunks con overlap.
+    Divide el texto en chunks.
+    Primero separa el texto según la jerarquía de encabezados markdown y, posteriormente se
+    hace un chunking recursivo por párrafos, oraciones ...
 
     Args:
         text: Texto a dividir
@@ -28,36 +32,52 @@ def chunk_text(
         split_on_whitespace_only: Si es True, solo divide en espacios
 
     Returns:
-        Lista de chunks de texto
+        Lista de chunks de texto con los metadatos del animal y sección concreta a la que pertenecen
     """
+
+    headers_to_split_on = [
+        ("#", "Animal"),
+        ("##", "Section"),
+        ("###", "Subsection"),
+        ("####", "Subsubsection")
+    ]
+
+    levels = [
+        ("Animal", "Animal"),
+        ("Section", "Section"),
+        ("Subsection", "Subsection"),
+        ("Subsubsection", "Subsubsection")
+    ]
+
+    markdown_splitter = MarkdownHeaderTextSplitter(headers_to_split_on)
+    md_header_splits = markdown_splitter.split_text(text)
+
+    text_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=chunk_size,
+        chunk_overlap=overlap,
+        separators=["\n\n", "\n", r"(?<=\.) ", " "], 
+        is_separator_regex=True,
+        length_function=len,
+    )
+
+    splits = text_splitter.split_documents(md_header_splits)
+
     chunks = []
-    index = 0
 
-    while index < len(text):
-        if split_on_whitespace_only:
-            # Buscar el espacio anterior más cercano
-            prev_whitespace = 0
-            left_index = index - overlap
+    for doc in splits:
+        header_lines = [
+            f"{label}: {doc.metadata[key]}"
+            for key, label in levels
+            if key in doc.metadata and doc.metadata[key] is not None
+        ]
 
-            while left_index >= 0:
-                if text[left_index] == " ":
-                    prev_whitespace = left_index
-                    break
-                left_index -= 1
+        text = "\n".join(header_lines) + "\n" + doc.page_content
 
-            # Buscar el próximo espacio
-            next_whitespace = text.find(" ", index + chunk_size)
-            if next_whitespace == -1:
-                next_whitespace = len(text)
-
-            chunk = text[prev_whitespace:next_whitespace].strip()
-            chunks.append(chunk)
-            index = next_whitespace + 1
-        else:
-            start = max(0, index - overlap + 1)
-            end = min(index + chunk_size + overlap, len(text))
-            chunk = text[start:end].strip()
-            chunks.append(chunk)
-            index += chunk_size
+        new_doc = Document(
+            page_content=text.strip(),
+            metadata=doc.metadata
+        )
+        chunks.append(new_doc)
 
     return chunks
+    
