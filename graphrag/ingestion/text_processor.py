@@ -100,13 +100,12 @@ class TextProcessor:
         # Almacenar entidades
         for label, entities_list in entities.items():
             for entity_data in entities_list:
-                # 'label' será "Species", "Family", etc.
-                # 'entity_data' será el diccionario con las propiedades extraídas
                 self._store_entity(label, entity_data, chunk_id)
 
         # Almacenar relaciones
-        for rel in relationships:
-            self._store_relationship(rel, chunk_id)
+        for rel_type, rels_list in relationships.items():
+            for rel_data in rels_list:                
+                self._store_relationship(rel_type, rel_data, chunk_id)
 
     def _store_entity(self, label: str, entity_data: Dict[str, Any], chunk_id: str):
         """Almacena una entidad y la conecta al chunk, manejando descripciones faltantes."""
@@ -127,7 +126,7 @@ class TextProcessor:
         MERGE (e:{label} {{id: $primary_value}})
         SET e.name = $primary_value
         SET e += $properties
-        MERGE (c)-[:MENTIONS]->(e)
+        MERGE (c)-[:HAS_ENTITY]->(e)
         """
         
         self.neo4j.execute_query(query, {
@@ -136,42 +135,50 @@ class TextProcessor:
             "properties": properties
         })
 
-    def _store_relationship(self, rel: Dict[str, Any], chunk_id: str):
-        """Almacena una relación entre entidades con manejo de errores."""
+    def _store_relationship(self, rel_type: str, rel_data: Dict[str, Any], chunk_id: str):
+        """
+        Almacena una relación semántica asegurando primero que el chunk de origen existe.
+        """
+        
+        # Entidades implicadas en la relación
+        source_id = rel_data.get("source")
+        target_id = rel_data.get("target")
 
-        # Extraer campos con valores por defecto para evitar KeyError
-        source = rel.get("source")
-        target = rel.get("target")
-        rel_type = rel.get("type", "RELATED_TO")
-        description = rel.get("description", "No description available")
-        strength = rel.get("strength", 0.5)
+        if hasattr(source_id, 'value'): source_id = source_id.value
+        if hasattr(target_id, 'value'): target_id = target_id.value
 
-        # Validación crítica: Una relación necesita obligatoriamente origen y destino
-        if not source or not target:
-            print(f"Advertencia: Relación incompleta omitida en chunk {chunk_id}")
+        if not source_id or not target_id:
+            print(f"Advertencia: Relación [{rel_type}] incompleta u omitida en chunk {chunk_id}")
             return
 
-        query = """
-        MATCH (c:Chunk {id: $chunk_id})
-        MERGE (source:Entity {name: $source})
-        MERGE (target:Entity {name: $target})
-        MERGE (source)-[r:RELATIONSHIP {type: $type}]->(target)
-        SET r.description = CASE 
-            WHEN r.description IS NULL THEN [$description]
-            ELSE r.description + [$description]
-        END,
-        r.strength = CASE 
-            WHEN r.strength IS NULL THEN [$strength]
-            ELSE r.strength + [$strength]
-        END
+        # Propiedades extra de la relación
+        properties = {
+            k: (v.value if hasattr(v, 'value') else v) 
+            for k, v in rel_data.items() 
+            if v is not None and k not in ["source", "target"]
+        }
+
+        # Consulta Cypher
+        query = f"""
+        // Validamos que el Chunk existe (tu petición original)
+        MATCH (c:Chunk {{id: $chunk_id}})
+        
+        // Buscamos las entidades de origen y destino por su ID universal
+        MATCH (source {{id: $source_id}})
+        MATCH (target {{id: $target_id}})
+        
+        // Creamos la relación dinámica entre las entidades
+        MERGE (source)-[r:{rel_type}]->(target)
+        
+        // Inyectamos las propiedades extra
+        SET r += $properties
         """
+        
         self.neo4j.execute_query(query, {
             "chunk_id": chunk_id,
-            "source": source,
-            "target": target,
-            "type": rel_type,
-            "description": description,
-            "strength": strength
+            "source_id": source_id,
+            "target_id": target_id,
+            "properties": properties
         })
 
     def _consolidate_entities(self):
