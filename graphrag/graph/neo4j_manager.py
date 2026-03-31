@@ -1,11 +1,11 @@
 from neo4j import GraphDatabase
 from typing import List, Dict, Any, Optional
-from ..config import get_settings
+from ..config import get_settings, get_gemini_settings
 
 
 class Neo4jManager:
     def __init__(self):
-        settings = get_settings()
+        settings = get_gemini_settings()
         self.driver = GraphDatabase.driver(
             settings.neo4j_uri,
             auth=(settings.neo4j_user, settings.neo4j_password)

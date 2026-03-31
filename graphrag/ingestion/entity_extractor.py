@@ -2,6 +2,7 @@ from typing import List, Dict, Any, Tuple, Optional
 from enum import Enum
 from pydantic import BaseModel, Field
 from ..llm.ollama_client import OllamaClient
+from ..llm.gemini_client import GeminiClient
 
 
 # ==========================================
@@ -242,7 +243,7 @@ class GraphExtraction(BaseModel):
 
 class EntityExtractor:
     def __init__(self):
-        self.client = OllamaClient()
+        self.client = GeminiClient()
 
     def extract_entities_and_relationships(
             self,

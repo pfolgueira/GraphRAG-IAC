@@ -8,6 +8,7 @@ from .entity_extractor import EntityExtractor
 from typing import Literal
 from pydantic import BaseModel, Field
 from ..llm.ollama_client import OllamaClient
+from ..llm.gemini_client import GeminiClient
 
 class SpeciesResolution(BaseModel):
         status: Literal["MATCH", "NEW"] = Field(..., description="MUST BE 'MATCH' if the species matches one in the canonical list of species names, or 'NEW' if it is a completely different species not in the list.")
@@ -27,7 +28,8 @@ class TextProcessor:
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
 
-        self.client = OllamaClient()
+        self.gemini_client = GeminiClient()
+        self.ollama_client = OllamaClient()
         self.species_names = self._load_species_names()
 
 
@@ -62,9 +64,9 @@ class TextProcessor:
         print(f"Documento dividido en {len(chunks)} chunks")
 
         # 3. Procesar cada chunk
-        for i, chunk in enumerate(tqdm(chunks, desc="Procesando chunks")):
-            chunk_id = f"{document_id}_chunk_{i}"
-            self._process_chunk(chunk_id, chunk.page_content, chunk.metadata, document_id, i)
+        # for i, chunk in enumerate(tqdm(chunks, desc="Procesando chunks")):
+        #     chunk_id = f"{document_id}_chunk_{i}"
+        #     self._process_chunk(chunk_id, chunk.page_content, chunk.metadata, document_id, i)
 
         # 4. Consolidar entidades y relaciones
         #self._consolidate_entities()
@@ -311,7 +313,7 @@ class TextProcessor:
 
         user_message = f"Extracted Name: {extracted_name}\n\nCanonical List: {self.species_names}"
 
-        resolution: SpeciesResolution = self.client.structured_output(
+        resolution: SpeciesResolution = self.gemini_client.structured_output(
             prompt=user_message,
             schema=SpeciesResolution,
             system_prompt=system_prompt

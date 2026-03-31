@@ -74,7 +74,7 @@ def chunk_text(
         text = "\n".join(header_lines) + "\n" + doc.page_content
 
         new_doc = Document(
-            page_content=text.strip(),
+            page_content=text,
             metadata=doc.metadata
         )
         chunks.append(new_doc)
