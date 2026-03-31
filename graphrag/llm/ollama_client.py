@@ -42,7 +42,7 @@ class OllamaClient:
         response = self.client.chat(
             model=model,
             messages=messages,
-            options={"temperature": temperature},
+            options={"temperature": temperature, "think": False},
             format=format
         )
         return response['message']['content']

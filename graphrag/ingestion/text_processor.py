@@ -31,9 +31,9 @@ class TextProcessor:
         self.species_names = self._load_species_names()
 
 
-    def _load_species_names():
+    def _load_species_names(self):
         try:
-            with open('../../scraping/species.txt', 'r', encoding='utf-8') as fichero:
+            with open('../scraping/species.txt', 'r', encoding='utf-8') as fichero:
                 lista = [linea.strip() for linea in fichero.readlines() if linea.strip()]
             return lista
         except FileNotFoundError:
@@ -102,7 +102,7 @@ class TextProcessor:
         SET c.text = $text,
             c.embedding = $embedding,
             c.index = $index
-            c.metadata = $metadata
+        SET c += $metadata
         MERGE (d)-[:HAS_CHUNK]->(c)
         """
         self.neo4j.execute_query(query, {
@@ -168,11 +168,11 @@ class TextProcessor:
         """
         
         # Entidades implicadas en la relación
-        source_id = rel_data.get("source")
-        target_id = rel_data.get("target")
+        source_val = rel_data.get("source")
+        target_val = rel_data.get("target")
 
-        if hasattr(source_val, 'value'): source_val = source_id.value
-        if hasattr(target_val, 'value'): target_val = target_id.value
+        if hasattr(source_val, 'value'): source_val = source_val.value
+        if hasattr(target_val, 'value'): target_val = target_val.value
 
         if not source_val or not target_val:
             print(f"Relación [{rel_type}] omitida: Faltan origen o destino en el chunk {chunk_id}")
