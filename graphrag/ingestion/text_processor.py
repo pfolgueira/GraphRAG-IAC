@@ -64,13 +64,13 @@ class TextProcessor:
         print(f"Documento dividido en {len(chunks)} chunks")
 
         # 3. Procesar cada chunk
-        # for i, chunk in enumerate(tqdm(chunks, desc="Procesando chunks")):
-        #     chunk_id = f"{document_id}_chunk_{i}"
-        #     self._process_chunk(chunk_id, chunk.page_content, chunk.metadata, document_id, i)
+        for i, chunk in enumerate(tqdm(chunks, desc="Procesando chunks")):
+            chunk_id = f"{document_id}_chunk_{i}"
+            self._process_chunk(chunk_id, chunk.page_content, chunk.metadata, document_id, i)
 
         # 4. Consolidar entidades y relaciones
-        #self._consolidate_entities()
-        #self._consolidate_relationships()
+        self._consolidate_entities()
+        self._consolidate_relationships()
 
         print(f"Documento {document_id} procesado exitosamente")
 

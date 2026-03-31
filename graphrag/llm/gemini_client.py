@@ -45,7 +45,7 @@ class GeminiClient:
         Garantiza que el procesamiento se mantenga de forma estricta por debajo
         del límite de 15 peticiones por minuto de la API gratuita, evitando errores 429.
         """
-        time.sleep(4)
+        time.sleep(1)
 
     def chat(
             self,
