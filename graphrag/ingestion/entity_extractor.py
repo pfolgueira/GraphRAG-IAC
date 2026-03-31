@@ -241,7 +241,7 @@ class GraphExtraction(BaseModel):
 # ==========================================
 
 class EntityExtractor:
-    def __init__(self, entity_types: List[str] = None):
+    def __init__(self):
         self.client = OllamaClient()
 
     def extract_entities_and_relationships(

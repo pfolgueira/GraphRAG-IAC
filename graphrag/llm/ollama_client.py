@@ -51,7 +51,7 @@ class OllamaClient:
             self,
             prompt: str,
             schema: Type[T],
-            system_prompt: str = "Eres un extractor de datos experto. Responde estrictamente en formato JSON.",
+            system_prompt: str = "You are an expert data extractor. Respond strictly in JSON format.",
             model: str = None
     ) -> T:
         """

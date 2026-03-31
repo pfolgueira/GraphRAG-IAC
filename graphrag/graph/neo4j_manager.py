@@ -28,9 +28,22 @@ class Neo4jManager:
     def create_constraints(self):
         """Crea las constraints necesarias en Neo4j."""
         constraints = [
-            "CREATE CONSTRAINT entity_id IF NOT EXISTS FOR (e:Entity) REQUIRE e.id IS UNIQUE",
             "CREATE CONSTRAINT chunk_id IF NOT EXISTS FOR (c:Chunk) REQUIRE c.id IS UNIQUE",
             "CREATE CONSTRAINT document_id IF NOT EXISTS FOR (d:Document) REQUIRE d.id IS UNIQUE",
+
+            "CREATE CONSTRAINT species_name IF NOT EXISTS FOR (s:Species) REQUIRE s.name IS UNIQUE",
+            "CREATE CONSTRAINT family_type IF NOT EXISTS FOR (f:Family) REQUIRE f.type IS UNIQUE",
+            "CREATE CONSTRAINT animal_class_type IF NOT EXISTS FOR (a:AnimalClass) REQUIRE a.type IS UNIQUE",
+            "CREATE CONSTRAINT skeletal_structure_type IF NOT EXISTS FOR (s:SkeletalStructure) REQUIRE s.type IS UNIQUE",
+            "CREATE CONSTRAINT reproduction_method_type IF NOT EXISTS FOR (r:ReproductionMethod) REQUIRE r.type IS UNIQUE",
+            "CREATE CONSTRAINT environment_type_type IF NOT EXISTS FOR (e:EnvironmentType) REQUIRE e.type IS UNIQUE",
+            "CREATE CONSTRAINT habitat_type IF NOT EXISTS FOR (h:Habitat) REQUIRE h.type IS UNIQUE",
+            "CREATE CONSTRAINT location_type IF NOT EXISTS FOR (l:Location) REQUIRE l.type IS UNIQUE",
+            "CREATE CONSTRAINT activity_cycle_type IF NOT EXISTS FOR (a:ActivityCycle) REQUIRE a.type IS UNIQUE",
+            "CREATE CONSTRAINT social_structure_type IF NOT EXISTS FOR (s:SocialStructure) REQUIRE s.type IS UNIQUE",
+            "CREATE CONSTRAINT diet_type_type IF NOT EXISTS FOR (d:DietType) REQUIRE d.type IS UNIQUE",
+            "CREATE CONSTRAINT food_source_type IF NOT EXISTS FOR (f:FoodSource) REQUIRE f.type IS UNIQUE",
+            "CREATE CONSTRAINT conservation_status_type IF NOT EXISTS FOR (c:ConservationStatus) REQUIRE c.type IS UNIQUE"
         ]
 
         for constraint in constraints:

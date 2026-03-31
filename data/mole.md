@@ -1,4 +1,4 @@
-# Mole (animal)
+# Mole
 Moles are small, subterranean mammals. They have cylindrical bodies, velvety fur, very small, inconspicuous eyes and ears, reduced hindlimbs, and short, powerful forelimbs with large paws adapted for digging.
 The word "mole" most commonly refers to many species in the family Talpidae (which are named after the Latin word for mole, talpa). True moles are found in most parts of North America, Europe (except for Ireland) and Asia. Other mammals referred to as moles include the African golden moles and the Australian marsupial moles, which have a similar ecology and lifestyle to true moles but are unrelated. 
 Moles may be viewed as pests to gardeners, but they provide positive contributions to soil, gardens, and ecosystems, including soil aeration, feeding on slugs and small creatures that eat plant roots, and providing prey for other wildlife. They eat earthworms and other small invertebrates in the soil.

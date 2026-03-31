@@ -5,6 +5,13 @@ from ..graph.neo4j_manager import Neo4jManager
 from ..utils.chunking import chunk_text
 from ..utils.embeddings import EmbeddingGenerator
 from .entity_extractor import EntityExtractor
+from typing import Literal
+from pydantic import BaseModel, Field
+from ..llm.ollama_client import OllamaClient
+
+class SpeciesResolution(BaseModel):
+        status: Literal["MATCH", "NEW"] = Field(..., description="MUST BE 'MATCH' if the species matches one in the canonical list of species names, or 'NEW' if it is a completely different species not in the list.")
+        resolved_name: str = Field(..., description="If status is 'MATCH', this MUST be the exact name from the canonical list. If status is 'NEW', this MUST be the most standard, common English name for the extracted species.")
 
 
 class TextProcessor:
@@ -13,13 +20,26 @@ class TextProcessor:
             neo4j_manager: Neo4jManager,
             chunk_size: int = 500,
             chunk_overlap: int = 50,
-            entity_types: List[str] = None,
     ):
         self.neo4j = neo4j_manager
         self.embedding_gen = EmbeddingGenerator()
-        self.entity_extractor = EntityExtractor(entity_types=entity_types)
+        self.entity_extractor = EntityExtractor()
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
+
+        self.client = OllamaClient()
+        self.species_names = self._load_species_names()
+
+
+    def _load_species_names():
+        try:
+            with open('../../scraping/species.txt', 'r', encoding='utf-8') as fichero:
+                lista = [linea.strip() for linea in fichero.readlines() if linea.strip()]
+            return lista
+        except FileNotFoundError:
+            print(f"El fichero no existe.")
+            return []
+
 
     def process_document(
             self,
@@ -47,8 +67,8 @@ class TextProcessor:
             self._process_chunk(chunk_id, chunk.page_content, chunk.metadata, document_id, i)
 
         # 4. Consolidar entidades y relaciones
-        self._consolidate_entities()
-        self._consolidate_relationships()
+        #self._consolidate_entities()
+        #self._consolidate_relationships()
 
         print(f"Documento {document_id} procesado exitosamente")
 
@@ -108,23 +128,29 @@ class TextProcessor:
                 self._store_relationship(rel_type, rel_data, chunk_id)
 
     def _store_entity(self, label: str, entity_data: Dict[str, Any], chunk_id: str):
-        """Almacena una entidad y la conecta al chunk, manejando descripciones faltantes."""
+        """Almacena una entidad y la conecta al chunk, 
+           aplicando Entity Resolution a los nombres de las especies."""
         # Detecta si la clave principal es 'name' (para Species) o 'type' (para el resto)
         primary_value = entity_data.get("name") or entity_data.get("type")
         
         if not primary_value:
             return
+        
+        # Entitie resolution para las Species
+        if label == "Species":
+            primary_value = self._resolve_species_name(primary_value)
 
         # Extrae el resto de propiedades ignorando las claves principales
         properties = {
             k: v for k, v in entity_data.items() 
-            if k not in ["name", "type"]
+            if k not in ["name", "type"] and v is not None
         }
+
+        primary_key = "name" if label == "Species" else "type"
 
         query = f"""
         MATCH (c:Chunk {{id: $chunk_id}})
-        MERGE (e:{label} {{id: $primary_value}})
-        SET e.name = $primary_value
+        MERGE (e:{label} {{{primary_key}: $primary_value}})
         SET e += $properties
         MERGE (c)-[:HAS_ENTITY]->(e)
         """
@@ -137,47 +163,77 @@ class TextProcessor:
 
     def _store_relationship(self, rel_type: str, rel_data: Dict[str, Any], chunk_id: str):
         """
-        Almacena una relación semántica asegurando primero que el chunk de origen existe.
+        Almacena una relación semántica asegurando la compatibilidad con el esquema
+        y aplicando Entity Resolution a las especies implicadas.
         """
         
         # Entidades implicadas en la relación
         source_id = rel_data.get("source")
         target_id = rel_data.get("target")
 
-        if hasattr(source_id, 'value'): source_id = source_id.value
-        if hasattr(target_id, 'value'): target_id = target_id.value
+        if hasattr(source_val, 'value'): source_val = source_id.value
+        if hasattr(target_val, 'value'): target_val = target_id.value
 
-        if not source_id or not target_id:
-            print(f"Advertencia: Relación [{rel_type}] incompleta u omitida en chunk {chunk_id}")
+        if not source_val or not target_val:
+            print(f"Relación [{rel_type}] omitida: Faltan origen o destino en el chunk {chunk_id}")
             return
 
-        # Propiedades extra de la relación
+        # Aplicaa Entity Resolution a la especie de origen
+        source_val = self._resolve_species_name(source_val)
+
+        # Si la relación es de depredación, el destino también es una especie y requiere resolución
+        if rel_type == "PREYS_ON":
+            target_val = self._resolve_species_name(target_val)
+
+        # 3. Mapeo de etiquetas y propiedades basado estrictamente en tu diseño
+        source_label = "Species"
+        source_prop = "name"
+
+        # Mapeamos el tipo de relación con la etiqueta del nodo de destino y su clave
+        target_mapping = {
+            "MEMBER_OF_FAMILY": ("Family", "type"),
+            "BELONGS_TO_CLASS": ("AnimalClass", "type"),
+            "HAS_SKELETAL_STRUCTURE": ("SkeletalStructure", "type"),
+            "REPRODUCES_VIA": ("ReproductionMethod", "type"),
+            "LIVES_IN_ENVIRONMENT": ("EnvironmentType", "type"),
+            "INHABITS": ("Habitat", "type"),
+            "FOUND_IN": ("Location", "type"),
+            "MIGRATES_TO": ("Location", "type"),
+            "HAS_ACTIVITY_CYCLE": ("ActivityCycle", "type"),
+            "ORGANIZED_IN": ("SocialStructure", "type"),
+            "HAS_DIET_TYPE": ("DietType", "type"),
+            "PREYS_ON": ("Species", "name"),
+            "FEEDS_ON": ("FoodSource", "type"),
+            "HAS_CONSERVATION_STATUS": ("ConservationStatus", "type")
+        }
+
+        target_label, target_prop = target_mapping.get(rel_type, ("Unknown", "type"))
+        
+        if target_label == "Unknown":
+            print(f"Relación [{rel_type}] no reconocida en el esquema. Omitiendo.")
+            return
+
+        # Extraer propiedades adicionales de la relación
         properties = {
             k: (v.value if hasattr(v, 'value') else v) 
             for k, v in rel_data.items() 
-            if v is not None and k not in ["source", "target"]
+            if k not in ["source", "target", "description"] and v is not None
         }
 
-        # Consulta Cypher
         query = f"""
-        // Validamos que el Chunk existe (tu petición original)
         MATCH (c:Chunk {{id: $chunk_id}})
-        
-        // Buscamos las entidades de origen y destino por su ID universal
-        MATCH (source {{id: $source_id}})
-        MATCH (target {{id: $target_id}})
-        
-        // Creamos la relación dinámica entre las entidades
+        MERGE (source:{source_label} {{{source_prop}: $source_val}})
+        MERGE (target:{target_label} {{{target_prop}: $target_val}})
+        MERGE (c)-[:HAS_ENTITY]->(source)
+        MERGE (c)-[:HAS_ENTITY]->(target)
         MERGE (source)-[r:{rel_type}]->(target)
-        
-        // Inyectamos las propiedades extra
         SET r += $properties
         """
         
         self.neo4j.execute_query(query, {
             "chunk_id": chunk_id,
-            "source_id": source_id,
-            "target_id": target_id,
+            "source_val": source_val,
+            "target_val": target_val,
             "properties": properties
         })
 
@@ -234,3 +290,38 @@ class TextProcessor:
                 "summary": summary,
                 "avg_strength": avg_strength
             })
+
+    def _resolve_species_name(self, extracted_name: str) -> str:
+        """
+        Utiliza el LLM para evaluar si el nombre extraído es un sinónimo, 
+        variación o el mismo animal que alguno de la lista species_names. Si es nuevo, obtiene su nombre común.
+        """
+        # Si los nombres de la especie coinciden exactamente no se realiza la llamada al LLM
+        if extracted_name in self.species_names:
+            return extracted_name
+
+        system_prompt = """You are an expert zoologist and taxonomist. 
+        Your task is Entity Resolution for an animal Knowledge Graph.
+        You will be given an extracted animal name and a canonical list of species.
+        
+        Rules:
+        1. If the extracted name is a known synonym, regional name, or refers to the exact same biological species as one in the canonical list (e.g., 'Cougar' -> 'Mountain Lion', 'Orca' -> 'Killer Whale'), set status to 'MATCH' and output the exact matching name from the canonical list.
+        2. If the extracted name represents a completely different species not present in the list (e.g., a new predator or prey), set status to 'NEW' and provide the most standard, common English name for this new species in 'resolved_name'.
+        """
+
+        user_message = f"Extracted Name: {extracted_name}\n\nCanonical List: {self.species_names}"
+
+        resolution: SpeciesResolution = self.client.structured_output(
+            prompt=user_message,
+            schema=SpeciesResolution,
+            system_prompt=system_prompt
+        )
+
+        final_name = resolution.resolved_name
+
+        # Si el LLM determina que es una especie nueva, la añadimos a la lista
+        if resolution.status == "NEW" and final_name not in self.species_names:
+            self.species_names.append(final_name)
+            print(f"Nueva especie añadida: {final_name}")
+            
+        return final_name
