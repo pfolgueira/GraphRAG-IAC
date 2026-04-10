@@ -36,8 +36,8 @@ class GeminiSettings(BaseSettings):
     gemini_model: str = Field(validation_alias="GEMINI_MODEL")
 
     # Processing
-    chunk_size: int = 500
-    chunk_overlap: int = 50
+    chunk_size: int = 800
+    chunk_overlap: int = 80
     top_k_results: int = 5
 
     # La clave del éxito: extra="ignore" evita el error con las variables de Ollama

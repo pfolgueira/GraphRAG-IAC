@@ -1,0 +1,69 @@
+# Ostrich
+
+The ostrich looks like an unusual chimera cooked up in a lab. When writing about it, the Greek philosopher Aristotle did not know whether to classify it as a bird or a mammal . But the ostrich belongs to an unusual group of flightless birds well-adapted for life on the ground. Years of hunting almost drove them to extinction, but numbers have recovered sufficiently so that the ostrich now roams the plains of Africa once again.
+
+## Incredible Ostrich Facts
+
+- The ostrich eye, at around 2 inches across, is the largest of any known land animal worldwide.
+- The ostrich is the only bird with two toes. Every other type of bird has three or four.
+- The ostrich was once hunted or farmed in large numbers for its feathers, dating back to ancient Egypt , Babylon, and Assyria. These feathers were used by royalty, upper-class women, and even medieval knights. By 1913, as hunting subsided, more than a million ostriches were raised on farms. However, a fall in the popularity of ostrich feathers caused the farms to decline as well.
+
+## Scientific Name and Species
+
+The scientific name of the ostrich genus is Struthio , derived from the Ancient Greek term for the ostrich and the sparrow . Struthio camelus is also known simply as the common ostrich. ( Camelus , as you might expect, is Greek for camel, perhaps named for its ability to go long periods without water.)
+
+There are two species of ostrich: the Somali ostrich (Struthio molybdophanes) and the common ostrich (Struthio camelus) . Sub-species of the common ostrich include the Masai ostrich (a pink-skinned variety also called East African ostrich), the nominative ostrich (red-necked ostrich or Barbary ostrich), the South African ostrich (Black-necked ostrich or Cape ostrich), and the Arabian ostrich (a Syrian or Middle Eastern ostrich, now extinct).
+
+The ostrich is an example of a ratite: a distantly related group of large flightless birds, including the kiwi , the emu , and the rhea. It was once assumed that the ratites belonged to a single order. However, genetic analysis suggests that these birds had separate evolutionary lineages, so they were placed in different orders entirely. The ostrich is now the only living member of its family and order.
+
+## Evolution
+
+The earliest ostrich fossils date back around 20 to 25 million years. Around 12 million years ago, ostriches evolved to the larger size they are known for. This was also when they began to leave Africa for the rest of Eurasia. All of these non-African species are now extinct.
+
+One interesting trait that the ostrich developed in its evolution is its two toes, whereas most birds have four. The two-toed structure of this ratite helps the ostrich run at high speeds. It’s believed that ostriches evolved in the steppes of Central Asia and then spread to Africa 20 million years ago. In the early Cenozoic, their ancestors inhabited much of the Northern Hemisphere 40 million years ago.
+
+Little is known about their early ancestors or why these birds developed their large size. Their closest relative is the kiwi bird, native to New Zealand. It’s speculated that early kiwis could fly, explaining why they became so distant in location from their much larger relatives.
+
+## Appearance
+
+The ostrich is easily distinguishable from all other birds by its sheer size. Luxuriating in its soft black and white plumage, the male ostrich stands up to 9 feet high and weighs up to 320 pounds. The female, which measures up to 6 feet and 242 pounds, respectively, is much smaller. She and her younger chicks exhibit more gray-brown feathers around the main body. Regardless of sex, the ostrich’s long and sinewy neck, head, and legs are almost completely bald except for a small down layer. The skin is either pink or gray, but the exact colors and patterns may vary by the subspecies.
+
+Given the ostrich’s large size, it’s no surprise that the wings are completely incapable of flight. The evidence suggests that the wings (along with the tail) help the bird maintain balance and court females. The incredibly soft feathers, which lack the waterproof quality of many other birds, hang rather loose off the body.
+
+## Behavior
+
+The ostrich is a social species that congregates in flocks of five to 50 birds in the breeding season and smaller groups of two to five members throughout the rest of the year. These flocks are often seen in the company of other grazing animals like antelopes and zebras . However, this tolerance for other species doesn’t necessarily extend to different flocks since these birds will guard their territory fiercely from outside intruders. Unlike the rich sounds of many other birds, the ostrich can make a roar and a sharp hiss, often used by males to intimidate each other. Ostriches also make booming sounds or low drumming calls when agitated.
+
+These birds spend almost all day grazing and foraging for food, which is abundant in the African savannas . Although they can go for long periods without liquids, ostriches appear to have a strong affinity for large bodies of water, where they often take baths to clean themselves off.
+
+Contrary to popular myth, ostriches do not bury their heads in the sand when threatened; rather, they press their head and neck flat against the ground, perhaps to avoid detection. Their first instinct is to run away or hide from danger, but that does not mean the bird lacks defenses. The ostrich has a rather vicious clawed foot that can kill a predator as large as a lion .
+
+## Habitat
+
+These birds inhabit the savannas, woodlands, and deserts of Africa . They are endemic to a large strip of land between Western Africa, the Horn of Africa, and Southern Africa. The savanna sometimes provides a brush for the ostrich to hide in, but the bird relies on its speed and cleverness whenever the brush is sparse to evade predators.
+
+## Diet and Digestion
+
+These birds enjoy an omnivorous diet heavy in plant material. The bird’s diet comprises seeds, grass, fruits, and flowers. It sometimes supplements this with insects , reptiles, or other meat left over by carnivores.
+
+This bird has an intestinal tract some 46 feet long to squeeze out as many nutrients as possible. It consumes stones, sand, and food and then grinds it in the specialized gizzard organ. These birds can also survive without a single drop of water for several days. They can lose up to a quarter of their body weight in water before they need to drink again.
+
+## Predators and Threats
+
+The biggest threat to these birds has been human hunting. The drive to harvest its feathers almost led to the ostrich’s extinction in the 18th century. As ostrich farming became more common, this practice lost some appeal. However, hunting, habitat loss, and even predation still pose some risks to the ostrich.
+
+Despite its formidable size, the bird is threatened by all kinds of carnivores, including lions , cheetahs , leopards , hyenas , and African hunting dogs . vultures , warthogs , and mongooses also raid nests for their eggs. Except for the cheetah, most predators cannot keep up with the ostrich’s impressive speed, so they wait to ambush the unsuspecting bird.
+
+## Reproduction, Babies, and Lifespan
+
+The breeding season lasts between March and September of each year. The male performs an elaborate dance in which he appears to bow down to the ground and shake his feathers, first one wing and then the other, while his tail bobs up and down. The dance is intended to exhibit the male’s strength and health so that the female can judge. The most territorial male will mate with flocks of three to five hens at a time, but it only forms a pair bond with the most dominant hen. Other males will also have the opportunity to mate with the remaining females.
+
+Together, the fertilized females will dump their eggs into a communal nest (consisting of just a simple hole dug in the ground). The dominant hen places her eggs at the center, giving them the best chance at survival, but all of the eggs have a better chance to survive than if they were incubated in a separate nest. Each female bird can produce seven to 10 eggs simultaneously, but the communal nest can hold up to 60. Weighing more than 3 pounds, these eggs are the largest of any species on the planet. They are nearly as large as dinosaur eggs. Males and females take turns guarding the nest. The group’s females watch over it during the day, while the males take over at night.
+
+After an incubation period of 42 to 46 days, the chicks will emerge from the eggs with a stiff down, measuring about the same size as a chicken . After they leave the nest, the parents will take the chicks under the wing to protect them from the harsh sunlight or rain. When threatened, the male will attempt to distract the predator with a display of loud noises and an outstretched neck while the females and chicks attempt to find cover.
+
+The baby bird grows quickly; at about six months, it is almost the same size as the adult bird. It will reach sexual maturity after three to four years, which is relatively long compared to most birds. The regular lifespan of these birds is about 30 to 40 years in the wild and about 50 years in captivity.
+
+## Population
+
+The IUCN Red List considers the common ostrich a species of least concern , while the Somali ostrich is potentially vulnerable to extinction. Both species appear to be decreasing slightly in number, and it is estimated that no more than 150,000 ostriches remain in the wild.

@@ -1,0 +1,87 @@
+# Cow
+
+#### “…roughly one cow for every seven humans on earth…”
+
+Cows are animals that are found all over the world. They were domesticated by humans over 10,000 years ago for work, dairy, meat, and more. However, scientists are still learning much about their complex brains and emotions. These gentle giants range from 700 lbs, to as big as a car, with some having long horns, humps on their backs, colorful patterns, or other incredible traits! While technically a ‘cow’ only refers to a female, the term is often used to describe any animal of the species regardless of gender. The technically correct term for a group of animals in this species is ‘cattle’.
+
+## Cow Facts
+
+- The largest cows grow to almost two tons, as big as a car!
+- Cows are the second-largest type of livestock in the world, by number!
+- A cow can produce over seven gallons of milk per day!
+- Cows are sacred in parts of India and slaughtering a cow there is often banned.
+
+Check out more incredible facts about cows.
+
+## Scientific Name, History, and Evolution
+
+The scientific name for a cow is Bos taurus . Bos Taurus is the largest in the category of bovinae . Two major subspecies of cow are the indicus and the taurus (or Bos taurus taurus). Indicus traces its roots to southern Asia, particularly modern-day India. Meanwhile, the taurus traces its origins to Europe.
+
+The predecessor to modern-day cows was the auroch. The auroch was an undomesticated bovine that lived in what is now Turkey and Pakistan. As cows were domesticated, they were interbred and soon started to spread across different civilizations. Researchers have found that the genetics of cattle brought to the Americas during Spanish colonization have traces of serval different bovine lineages, showing the historical mixing of breeds from African cows and European cows.
+
+## Appearance and Behavior
+
+Cows are animals that come in a wide array of breeds, colors, sizes, and even shapes! Standing on four legs with hooved feet, the average adult cow weighs a little less than a small car–about 1,500 pounds. This varies depending on breed, ranging from the Chianina cow , which grows to over 3,700 pounds, to the Dexter cow , which tops out at about 750 pounds. These breeds stand six feet and three feet tall at the shoulder, respectively. Most cows have a thin layer of bristly hair, but certain breeds have longer hair. These skin and hair combinations come with a number of distinct patterns. The holstein is the most well-known style, with irregular black and white shapes, with a strip of white between the eyes. A “red” holstein has brown or reddish brown patches in place of the black. Angus cows are black from head to tail. The Highland cow features long, shaggy, brownish-red hair. Though there are hundreds, if not thousands, of breeds with different markings, most feature variations on gray, brown, black, and white hides. Indicus cows of any breed have another feature: a “hump.” This protrusion on the back of these cows’ necks is the easiest way to tell them from taurus cows. Almost all cows have horns. These range in length and shape across breeds. Sticking almost straight out to the sides from its head and reaching roughly three feet long each, the horns on a Texas Longhorn cow are easy to spot. In fact, a Texas longhorn holds the Guinness World Record for cow horn length, measuring over ten feet long from one tip to another. Meanwhile, a Brahman cow has roughly six-inch-long horns that point up and back from its head. The English longhorn can have horns that point mostly downward, curving similarly to a sheep’s horns.
+
+A group of cows is called a kine. And a group of cattle is a herd. Check out this article to learn more about group cow names and how they function.
+
+## Types of Cows and Cattle
+
+There are over 250 different types of cows throughout the globe, and American ranchers alone have around 80 breeds in which to access.
+
+Here are some of the top cow breeds:
+
+- Angus Cow – The Angus Cow, also known as “Aberdeen Angus”, is the most common beef cattle breed in the United States. There are more than 330,000 registered Black Angus cows. One reason the breed is so popular is the characteristics of its meat, which are marketed as yielding meat with a rich flavor and plenty of marbling. Another positive aspect of this breed is that they are pretty self-sufficient as calves. These cows are also great at being mothers as well.
+- Belted Galloway Cow – The Belted Galloway Cow, also known as “Oreo Cattle”, is aptly named because of its white stripe surrounded by their black head and rump. While mostly sought out for their coloration, they do make quality beef that is lean.
+- Brahman Cow – The Brahman Cow hails from India and is actually the world’s most numerous cow breed. They stand out because of their protruding hump over their shoulders. They also have extra skin under their throat area for warmth.
+- Charolais – The Charolais Cow originally comes from France. They have a light-colored coat, and they are raised for drafting purposes, like fieldwork, but also for milk and beef. They are known for being hardy and withstanding cooler conditions.
+- Dexter – The Dexter Cow hails from Ireland and is one of the smaller versions of the cow. They are valued because of their gentle nature and size which requires less acreage to manage. Furthermore, they provide the most milk per pound than other cattle breeds.
+- English Longhorn – The English Longhorn Cattle is a multipurpose cattle breed that is known to be easy to raise and is in use as a work animal as well as beef and dairy. Also known as the British Longhorn. This breed’s origin is in Craven, England, during the 1700s, and was primarily in use as a draught animal (or a work animal). The breed is found nearly everywhere on the planet now and is known for its extended horns on both sides of its head.
+- Fleckvieh – Fleckvieh Cattle serve a dual purpose and are raised for their meat and milk production. They became popular in the 19 th century and originated in Austria, but now can be found all across Europe, the USA, and certain parts of South America. These cattle result from cross-breeding native stock with Simmental cattle native to Switzerland around the 1830s. Simmental cattle are known for producing top-quality milk and meat. In addition, they are highly immune to diseases, making them a desirable breed.
+- Gelbvieh – The Gelbvieh Cow comes from Bavaria, Germany, and was used for all-around purposes. Via artificial insemination, they were incorporated into American cattle in the 1970s for their strong birthing and mothering qualities.
+- Hereford – Hereford Cows can be found worldwide in a variety of climates, which makes them a popular breed. They are, after all, a highly adaptable breed of cow. In the U.S., Herefords were popular because they matured early and fattened well. It’s common to hear that Herefords are docile, easy to breed, milk well, and are also very dependable mothers.
+- Holstein – Holstein Cows are black and white, and they probably come to mind when you think of stereotypical cows. This breed is known as the Holstein Friesian. The reason this breed is so popular is that it is often used in advertisements for dairy products. There is plenty of high-quality milk produced consistently by these cows. Because of this, they are generally kept as dairy cows in order to continue producing milk.
+- Limousin – The Limousin Cow is an ancient breed of cow that can even be seen in prehistoric paintings on cave walls that date back tens of thousands of years. These cows come from France originally and have a reddish and golden hue to their hair. They now are plentiful in American and Canadian ranches.
+- Lineback – Lineback Cattle are named after the line that goes down the middle of their back, the lineback cattle or Randall lineback cattle is a critically endangered rare breed of cattle that is currently being conserved in the United States to prevent extinction. Like most other cattle breeds, they are used for dairy and beef and are generally low maintenance. It is easy to spot lineback cattle due to the thick white line going down their back.
+- Nelore – The Nelore Cattle breed descended from the Ongole cattle breed which was originally from India. Their main use is meat and milk production, as well as riding animals and draught. Nelore is a widespread breed, accounting for more than half of the world’s total bovine beef-producing population. This breed is not just sought after for its tasty beef, but also for its hardiness, resistance to extreme heat, insects, bloat, and prolific reproductive life as well.
+- Nguni – Nguni Cattle are native to the Southern region of Africa . They are widely known and revered for their eye-catching speckled and multi-patterned hides. This cattle breed is also known for its good temperament and ability to withstand harsh climate conditions. Nguni cattle originated as a hybrid of various Indian and European breeds. They are sought after for their excellent natural immunity to tick-borne diseases.
+- Piedmontese – The Piedmontese Cow are well known for their exceptional muscular genetics. They build muscle mass faster than other breeds. They are also hardy and resistant to many diseases. They orgininated thousands and thousands of years ago in Italy and were the product from breeding two ancient types of cattle: the Pakistani Zebu and the European Auroch. They have since been incorporated on American ranches and are an important source for many cheeses from Italy.
+- Red Angus – The Red Angus Cow is originally a Scottish breed and a product from red English longhorns being bred with black Angus cows. The goal was to create work animals. Only a few of the resulting offspring were red. Eventually American ranchers saught to breed red offspring together in order to strengthen the Red Angus breed into what it is today.
+- Scottish Highland – The Scottish Highland Cow originally hails from the high elevations of the scenic Scottish Highlands, this breed is now raised worldwide for meat production. Judging by its behavior and physical characteristics, it is very much a quintessential cattle breed. But the Highland cattle also has many distinct features, including its sturdy constitution and incredibly long hair.
+- Shorthorn – The Shorthorn Cow comes from the Brittish Isles and is also known as Durham cattle. This was a popular breed for early American settlers because they are known to be very manageable, long-lived, and easy to breed. All of those qualities help them become the cattle of choice for early Americans who needed cows as work animals and for dairy and meat production. Some are naturally polled, and some are horned.
+- Simmental – The Simmental Cow. Among all breeds of cattle, the Simmental is one of the oldest and most widely distributed. American beef farmers have been benefitting from the introduction of these red and white cattle since the late 19th century. Having a large body frame, they require little help during calving season and can gain weight quickly.
+- Senepol – The Senepol Cow is a specially created breed from St. Croix, one of the U.S. Virgin Islands. Breeders created them by selectively breeding N’Dama cattle from Senegal and the British red poll cattle from the island. It is no difficult task to identify these animals. Their unique red color and lack of horns, among many other desirable, qualities. Breeders rear Senepol cattle for their top-notch milk and meat production. They happen to be one of the most sought-after cattle breeds.
+- Texas Longhorn – The Texas Longhorn is one of the most iconic animals in America. These mammoths developed to be hardy, rugged, and parasite and disease-resistant in the American West being able to sustain themselves on rougher plant life than many other breeds of cattle. Through overzealous crossbreeding, they were almost wiped out by ranchers around the turn of the 20th century, but the longhorn population has since recovered.
+- Watusi – The Watusi Cow, known as “African Ankole-Watusi”, comes from the Nile Valley and dates back its roots over 5,000 years ago. These are known for their strikingly large horns and can be seen on ancient drawings from Egypt. Naturally, the Watusi breed can thrive in warm environments, and their horns actually aid the cattle by cooling down their blood through increased circulation.
+- Welsh Black – Welsh Black is one of the oldest breeds in the United Kingdom and existed in pre-Roman Britain. For approximately 1,000 years, Welsh black cattle have been bred in Britain and Wales for dairy and beef production. There were two main types of this breed: the Northern, known for their beef, and the Southern, known for dairy. Welsh black cattle, as they are known today, are a combination of the Northern and Southern breeds and are best suited for beef production.
+- Wagyu – The most valuable cattle today is probably the Wagyu Cattle. Their beef has a unique taste and unparalleled marbling content. It is sought after in hihg-end restaurants around the world. There are four types of Wagyu breeds: Japanese polled, Japanese shorthorn, Japanese brown, and finally Japanese black being the most common in Japan.What Do Wagyu Cows Eat? 15+ Foods They Consume
+
+## Intellect and Emotion
+
+Recent research has found that cows are really smart, complex animals! They can learn, have memories, figure things out, and can even tell one cow from another. They have personalities too, with scientists documenting cows who are bold, shy, playful, and other traits. Cows also show emotion. When they’re scared or anxious one can see more of the whites of their eyes, such as when a mother is separated from her calf. In addition, their ears will hang more loosely when they’re feeling o.k. Their mood can also be affected by the mood of other cows, what scientists call “emotional contagion.” For example, a cow might eat less or act more anxious, simply because other cows in the herd are scared or hurt.
+
+## Habitat
+
+Cows are animals that can survive in many climates and places. The indicus subspecies are better suited to tropical environments, while taurus cows can survive easily in winter climates. In general, cows need access to a wide range of space, so they can graze on grasses. Whether in the mountains, jungle, or wide open plains, cows can adapt to many different environments.
+
+## Diet
+
+Cows are herbivores, which means they eat grass and other plants. Cows can eat a wide range of tough grasses thanks to their very unique way of eating. A cow will first bite plants or grass and swallow them unchewed. This unchewed food goes into its first stomach until later. When the cow finds a quiet place, it will begin to vomit the plants back into its mouth. This vomit is called “cud,” and the cow will chew the cud down into smaller pieces for further digestion.
+
+## Predators and Threats
+
+Cow predators include dogs, coyotes, bobcats , and similar animals. Because most cows are on farms, the threat of predators is typically small. In the United States, for example, only two percent of all farm cow deaths were the result of predators. Most of those predators were dogs, followed by coyotes. The bigger threat to cows comes from disease. Because cows move in herds, one sick cow can quickly infect others. Depending on the type of infection, this can cause big problems. For example, some worry about a return of Foot and Mouth Disease (FMD). FMD doesn’t affect humans but can wreak havoc on cows. FMD is spread easily for miles, and can quickly infect a whole herd. Governments take cow diseases very seriously. In 2003, reports that some U.S. cattle were infected with a disease called “mad cow disease” resulted in governments not allowing U.S. beef in their countries. This costs beef farmers roughly $11 billion in lost sales.
+
+## Reproduction, Babies, and Lifespan
+
+Cows begin their life after a nine-month pregnancy. Following a live birth, the baby, known as a calf, will nurse for a few months before weaning. The baby can typically walk shortly after birth. It will take about one to two years for a cow to grow to the point that it can start having babies of its own. Cows typically have one baby at a time.
+
+Most farm cows are bred artificially–that is, a sperm is implanted in the cow. This helps farmers to avoid certain genetic problems.
+
+As an adult, a cow will give birth to a single calf once every two years or so. Though the natural lifespan of a cow can go over twenty years, most cows don’t live too much beyond ten years. This is because the majority of cows are part of a farming operation, and after a few years of milk production, cows are typically then tagged for meat processing.
+
+## Population
+
+Numbering over 1.4 billion, there’s roughly one cow for every seven humans on earth. This makes cows and cattle the second most abundant farm animal in the world. Though there are select areas of wild cows, the majority of bos taurus are domesticated. This means they were raised to live on a farm.
+
+Though cows in general are not at risk, certain breeds are significantly less common than others. Various conservation groups work to retain rare breeds of cows, such as the Dexter.
