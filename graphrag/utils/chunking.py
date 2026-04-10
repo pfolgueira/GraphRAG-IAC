@@ -17,8 +17,7 @@ def num_tokens_from_string(string: str, model: str = "qwen3:4b") -> int:
 def chunk_text(
         text: str,
         chunk_size: int,
-        overlap: int,
-        split_on_whitespace_only: bool = True
+        overlap: int
 ) -> List[str]:
     """
     Divide el texto en chunks.

@@ -11,8 +11,8 @@ from ..llm.ollama_client import OllamaClient
 from ..llm.gemini_client import GeminiClient
 
 class SpeciesResolution(BaseModel):
-        status: Literal["MATCH", "NEW"] = Field(..., description="MUST BE 'MATCH' if the species matches one in the canonical list of species names, or 'NEW' if it is a completely different species not in the list.")
-        resolved_name: str = Field(..., description="If status is 'MATCH', this MUST be the exact name from the canonical list. If status is 'NEW', this MUST be the most standard, common English name for the extracted species.")
+        status: Literal["MATCH", "NEW"] = Field(..., description="MUST BE 'MATCH' if the extracted name is an exact match, a synonym, OR a specific sub-type/breed that can be generalized to a broader animal present in the canonical list. Set to 'NEW' ONLY if it represents a completely unrepresented animal lineage.")
+        resolved_name: str = Field(..., description="If status is 'MATCH', this MUST be the exact name from the canonical list (use the broader parent name if generalizing, e.g., 'Penguin' for 'Emperor Penguin'). If status is 'NEW', provide a standard, high-level generic English name for the new animal.")
 
 
 class TextProcessor:
@@ -302,16 +302,21 @@ class TextProcessor:
         if extracted_name in self.species_names:
             return extracted_name
 
-        system_prompt = """You are an expert zoologist and taxonomist. 
-        Your task is Entity Resolution for an animal Knowledge Graph.
-        You will be given an extracted animal name and a canonical list of species.
-        
+        system_prompt = """You are an expert Knowledge Graph engineer and taxonomist working with a simplified, high-level animal ontology. 
+        Your task is Entity Resolution. You will be given an extracted animal name and a canonical list of base animal entities.
+                
         Rules:
-        1. If the extracted name is a known synonym, regional name, or refers to the exact same biological species as one in the canonical list (e.g., 'Cougar' -> 'Mountain Lion', 'Orca' -> 'Killer Whale'), set status to 'MATCH' and output the exact matching name from the canonical list.
-        2. If the extracted name represents a completely different species not present in the list (e.g., a new predator or prey), set status to 'NEW' and provide the most standard, common English name for this new species in 'resolved_name'.
-        """
+        1. SYNONYMS & EXACT MATCHES: If the extracted name is a known synonym, regional name, or refers to the same animal as one in the canonical list (e.g., 'Cougar' -> 'Mountain Lion', 'Orca' -> 'Killer Whale'), set status to 'MATCH' and output the exact matching name from the canonical list.
 
-        user_message = f"Extracted Name: {extracted_name}\n\nCanonical List: {self.species_names}"
+        2. GENERALIZATION (SUB-SPECIES TO PARENT): If the extracted name is a specific type, breed, or sub-species of a broader generic animal that is already present in the canonical list, you MUST generalize it to the broader entity. Set status to 'MATCH'. 
+        Examples: 
+        - 'Laysan Albatross' -> 'Albatross'
+        - 'Emperor Penguin' -> 'Penguin'
+        - 'Grizzly Bear' -> 'Bear'
+
+        3. NEW ENTITIES: Only if the extracted name represents a completely different animal lineage not covered by ANY broad category or synonym in the list, set status to 'NEW'. Provide the most standard, common English name for this new species in 'resolved_name'. Keep new names at a high, generic level if possible (e.g., output 'Eagle' instead of 'Bald Eagle')."""
+
+        user_message = f"Extracted Name: {extracted_name}\n\nCanonical List of Species: {self.species_names}"
 
         resolution: SpeciesResolution = self.gemini_client.structured_output(
             prompt=user_message,
