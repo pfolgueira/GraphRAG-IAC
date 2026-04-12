@@ -1,4 +1,5 @@
 import uuid
+import time
 from typing import List, Dict, Any
 from tqdm import tqdm
 from ..graph.neo4j_manager import Neo4jManager
@@ -11,16 +12,17 @@ from ..llm.ollama_client import OllamaClient
 from ..llm.gemini_client import GeminiClient
 
 class SpeciesResolution(BaseModel):
-        status: Literal["MATCH", "NEW"] = Field(..., description="MUST BE 'MATCH' if the extracted name is an exact match, a synonym, OR a specific sub-type/breed that can be generalized to a broader animal present in the canonical list. Set to 'NEW' ONLY if it represents a completely unrepresented animal lineage.")
-        resolved_name: str = Field(..., description="If status is 'MATCH', this MUST be the exact name from the canonical list (use the broader parent name if generalizing, e.g., 'Penguin' for 'Emperor Penguin'). If status is 'NEW', provide a standard, high-level generic English name for the new animal.")
+        status: Literal["MATCH", "NEW", "DISCARD"] = Field(..., description="MUST BE 'MATCH' if the extracted name is an exact match, a synonym, OR a specific sub-type/breed that can be generalized to a broader animal present in the canonical list. Set to 'NEW' ONLY if it represents a completely unrepresented animal lineage. Set to 'DISCARD' if the entity is not an animal.")
+        resolved_name: str = Field(..., description="If status is 'MATCH', this MUST be the exact name from the canonical list (use the broader parent name if generalizing, e.g., 'Penguin' for 'Emperor Penguin'). If status is 'NEW', provide a standard, high-level generic English name for the new animal. If status is 'DISCARD' you must return an empty string")
 
 
 class TextProcessor:
     def __init__(
             self,
             neo4j_manager: Neo4jManager,
+            species_names: List[str],
             chunk_size: int = 500,
-            chunk_overlap: int = 50,
+            chunk_overlap: int = 50
     ):
         self.neo4j = neo4j_manager
         self.embedding_gen = EmbeddingGenerator()
@@ -30,7 +32,8 @@ class TextProcessor:
 
         self.gemini_client = GeminiClient()
         self.ollama_client = OllamaClient()
-        self.species_names = self._load_species_names()
+        self.species_names = species_names
+        self.species_names_lower = [animal.lower() for animal in species_names]
 
 
     def _load_species_names(self):
@@ -67,10 +70,11 @@ class TextProcessor:
         for i, chunk in enumerate(tqdm(chunks, desc="Procesando chunks")):
             chunk_id = f"{document_id}_chunk_{i}"
             self._process_chunk(chunk_id, chunk.page_content, chunk.metadata, document_id, i)
+            time.sleep(3)
 
         # 4. Consolidar entidades y relaciones
-        self._consolidate_entities()
-        self._consolidate_relationships()
+        # self._consolidate_entities()
+        # self._consolidate_relationships()
 
         print(f"Documento {document_id} procesado exitosamente")
 
@@ -141,6 +145,8 @@ class TextProcessor:
         # Entitie resolution para las Species
         if label == "Species":
             primary_value = self._resolve_species_name(primary_value)
+            if primary_value is None:
+                return
 
         # Extrae el resto de propiedades ignorando las claves principales
         properties = {
@@ -182,10 +188,14 @@ class TextProcessor:
 
         # Aplicaa Entity Resolution a la especie de origen
         source_val = self._resolve_species_name(source_val)
+        if source_val is None:
+            return
 
         # Si la relación es de depredación, el destino también es una especie y requiere resolución
         if rel_type == "PREYS_ON":
             target_val = self._resolve_species_name(target_val)
+            if target_val is None:
+                return
 
         # 3. Mapeo de etiquetas y propiedades basado estrictamente en tu diseño
         source_label = "Species"
@@ -299,8 +309,8 @@ class TextProcessor:
         variación o el mismo animal que alguno de la lista species_names. Si es nuevo, obtiene su nombre común.
         """
         # Si los nombres de la especie coinciden exactamente no se realiza la llamada al LLM
-        if extracted_name in self.species_names:
-            return extracted_name
+        if extracted_name.lower() in self.species_names_lower:
+            return extracted_name.title()
 
         system_prompt = """You are an expert Knowledge Graph engineer and taxonomist working with a simplified, high-level animal ontology. 
         Your task is Entity Resolution. You will be given an extracted animal name and a canonical list of base animal entities.
@@ -314,7 +324,11 @@ class TextProcessor:
         - 'Emperor Penguin' -> 'Penguin'
         - 'Grizzly Bear' -> 'Bear'
 
-        3. NEW ENTITIES: Only if the extracted name represents a completely different animal lineage not covered by ANY broad category or synonym in the list, set status to 'NEW'. Provide the most standard, common English name for this new species in 'resolved_name'. Keep new names at a high, generic level if possible (e.g., output 'Eagle' instead of 'Bald Eagle')."""
+        3. NEW ENTITIES: If the extracted name is clearly an animal but represents a completely different animal lineage not covered by ANY broad category or synonym in the list, set status to 'NEW'. Provide the most standard, common English name for this new species in 'resolved_name'. Keep new names at a high, generic level if possible (e.g., output 'Eagle' instead of 'Bald Eagle').
+
+        4. BROAD CLASSIFICATIONS & TRAITS (DISCARD): If the extracted name is a dietary classification (e.g., 'Carnivore', 'Herbivore', 'Predator'), a broad taxonomic class (e.g., 'Mammal', 'Reptile', 'Bird', 'Amphibian'), or a generic biological family term rather than a specific animal (e.g., 'Feline', 'Canine', 'Big Cat'), you MUST discard it. Set status to 'DISCARD' and set 'resolved_name' to an empty string.
+
+        5. NON-ANIMALS (DISCARD): If the extracted name is NOT an animal (e.g., a plant, geographic location, inanimate object, person, or abstract concept), you MUST discard it. Set status to 'DISCARD' and set 'resolved_name' to an empty string."""
 
         user_message = f"Extracted Name: {extracted_name}\n\nCanonical List of Species: {self.species_names}"
 
@@ -324,11 +338,17 @@ class TextProcessor:
             system_prompt=system_prompt
         )
 
-        final_name = resolution.resolved_name
+        if resolution.status == "DISCARD":
+            print(f"Especie {extracted_name} descartada")
+            return None
 
-        # Si el LLM determina que es una especie nueva, la añadimos a la lista
-        if resolution.status == "NEW" and final_name not in self.species_names:
+        final_name = resolution.resolved_name.title()
+
+        final_name_lower = final_name.lower()
+
+        if resolution.status == "NEW" and final_name_lower not in self.species_names_lower:
             self.species_names.append(final_name)
+            self.species_names_lower.append(final_name_lower)
             print(f"Nueva especie añadida: {final_name}")
             
         return final_name

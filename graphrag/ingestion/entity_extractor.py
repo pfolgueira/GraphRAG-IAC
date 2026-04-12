@@ -86,7 +86,6 @@ class SpeciesNode(BaseModel):
     lifespan_years: Optional[float] = Field(None, description="Lifespan of the species.")
     gestation_period_days: Optional[float] = Field(None, description="Average duration of embryo development until birth in days.")
     maturity_age_years: Optional[float] = Field(None, description="Estimated age in years at which the species reaches sexual maturity or independence.")
-
 class FamilyNode(BaseModel):
     type: str = Field(..., description="Taxonomic classification category: Hominidae, Felidae, Canidae, Equidae, etc.")
 
@@ -254,7 +253,10 @@ class EntityExtractor:
         """
         system_prompt = """You are an expert zoology Knowledge Graph extractor.
         Your goal is to extract animal species, their biometrics, their classifications, and specific relationships from the text provided.
-        Strictly adhere to the provided schema descriptions and ENUM constraints. Ensure the source and target of each relationship exactly match the extracted entities.
+        CRITICAL RULES (ZERO TOLERANCE FOR HALLUCINATIONS)
+        1. STRICT GROUNDING: You must base your extraction ONLY on facts explicitly stated in the source text. DO NOT use pre-trained knowledge, common sense, or assumptions.
+        2. SCHEMA & ENUM COMPLIANCE: Strictly adhere to the provided schema descriptions and ENUM constraints. If a concept in the text does not fit the allowed ENUMs, either map it safely to the closest ENUM if semantically identical, or discard it entirely.
+        3. ENTITY CONSISTENCY: Ensure the source and target of each relationship exactly match the extracted entities.
         """
         prompt = f"Extract zoological entities and their relationships from the following text:\n\n{text}"
 
