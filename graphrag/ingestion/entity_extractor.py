@@ -303,7 +303,83 @@ class EntityExtractor:
             "HAS_CONSERVATION_STATUS": [x.model_dump(mode='json', exclude_none=True) for x in extraction.has_conservation_status_rels],
         }
 
+        num_entities = sum(len(nodes_dict[n]) for n in nodes_dict)
+        num_relationships = sum(len(rels_dict[r]) for r in rels_dict)
+        print(f"Initial extraction: {num_entities} entities and {num_relationships} relationships")
+
         return nodes_dict, rels_dict
+    
+    def review_extraction(
+            self,
+            text: str,
+            entities: Dict[str, List[Dict[str, Any]]],
+            relationships: Dict[str, List[Dict[str, Any]]]
+    ) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
+        """
+        Review step to consolidate the entities and relationships extracted for a chunk.
+        """
+
+        system_prompt = """You are an expert data reviewer specialized in zoology Knowledge Graphs.
+Your task is to review an initial extraction of entities and relationships from a text, correct any mistakes, remove hallucinations, and extract ANY missing information.
+CRITICAL RULES:
+1. STRICT GROUNDING: Every single entity or relationship you KEEP or ADD must be explicitly stated in the source text, if not, DELETE it. DO NOT use pre-trained knowledge, common sense, or assumptions.
+2. SCHEMA & ENUM COMPLIANCE: Strictly adhere to the provided schema descriptions and ENUM constraints.
+3. ENTITY CONSISTENCY: Ensure the source and target of each relationship exactly match the extracted entities."""
+
+        prompt = f"""Review the text and the initial extraction (Entities and Relationships) to ensure that absolutely no invented information has been included
+(everything must be explicitly stated in the text), and that all relevant entities and relationships present in the text are fully captured according to the schema.
+
+TEXT: {text}
+
+INITIAL ENTITIES: {entities}
+
+INITIAL RELATIONSHIPS: {relationships}"""
+
+        extraction: GraphExtraction = self.client.structured_output(
+            prompt=prompt,
+            schema=GraphExtraction,
+            system_prompt=system_prompt
+        )
+
+        nodes_dict = {
+            "Species": [x.model_dump(mode='json', exclude_none=True) for x in extraction.species],
+            "Family": [x.model_dump(mode='json') for x in extraction.families],
+            "AnimalClass": [x.model_dump(mode='json') for x in extraction.animal_classes],
+            "SkeletalStructure": [x.model_dump(mode='json') for x in extraction.skeletal_structures],
+            "ReproductionMethod": [x.model_dump(mode='json') for x in extraction.reproduction_methods],
+            "EnvironmentType": [x.model_dump(mode='json') for x in extraction.environment_types],
+            "Habitat": [x.model_dump(mode='json') for x in extraction.habitats],
+            "Location": [x.model_dump(mode='json') for x in extraction.locations],
+            "ActivityCycle": [x.model_dump(mode='json') for x in extraction.activity_cycles],
+            "SocialStructure": [x.model_dump(mode='json') for x in extraction.social_structures],
+            "DietType": [x.model_dump(mode='json') for x in extraction.diet_types],
+            "FoodSource": [x.model_dump(mode='json') for x in extraction.food_sources],
+            "ConservationStatus": [x.model_dump(mode='json') for x in extraction.conservation_statuses],
+        }
+        
+        rels_dict = {
+            "MEMBER_OF_FAMILY": [x.model_dump(mode='json', exclude_none=True) for x in extraction.member_of_family_rels],
+            "BELONGS_TO_CLASS": [x.model_dump(mode='json', exclude_none=True) for x in extraction.belongs_to_class_rels],
+            "HAS_SKELETAL_STRUCTURE": [x.model_dump(mode='json', exclude_none=True) for x in extraction.has_skeletal_structure_rels],
+            "REPRODUCES_VIA": [x.model_dump(mode='json', exclude_none=True) for x in extraction.reproduces_via_rels],
+            "LIVES_IN_ENVIRONMENT": [x.model_dump(mode='json', exclude_none=True) for x in extraction.lives_in_environment_rels],
+            "INHABITS": [x.model_dump(mode='json', exclude_none=True) for x in extraction.inhabits_rels],
+            "FOUND_IN": [x.model_dump(mode='json', exclude_none=True) for x in extraction.found_in_rels],
+            "MIGRATES_TO": [x.model_dump(mode='json', exclude_none=True) for x in extraction.migrates_to_rels],
+            "HAS_ACTIVITY_CYCLE": [x.model_dump(mode='json', exclude_none=True) for x in extraction.has_activity_cycle_rels],
+            "ORGANIZED_IN": [x.model_dump(mode='json', exclude_none=True) for x in extraction.organized_in_rels],
+            "HAS_DIET_TYPE": [x.model_dump(mode='json', exclude_none=True) for x in extraction.has_diet_type_rels],
+            "PREYS_ON": [x.model_dump(mode='json', exclude_none=True) for x in extraction.preys_on_rels],
+            "FEEDS_ON": [x.model_dump(mode='json', exclude_none=True) for x in extraction.feeds_on_rels],
+            "HAS_CONSERVATION_STATUS": [x.model_dump(mode='json', exclude_none=True) for x in extraction.has_conservation_status_rels],
+        }
+
+        num_entities = sum(len(nodes_dict[n]) for n in nodes_dict)
+        num_relationships = sum(len(rels_dict[r]) for r in rels_dict)
+        print(f"Initial extraction: {num_entities} entities and {num_relationships} relationships")
+        
+        return nodes_dict, rels_dict
+
 
     def summarize_entity(self, entity_name: str, descriptions: List[str]) -> str:
         """Consolidate descriptions (Entity Resolution step)."""

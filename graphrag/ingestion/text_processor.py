@@ -101,40 +101,42 @@ class TextProcessor:
             index: int
     ):
         """Procesa un chunk individual."""
-        # # Generar embedding
-        # embedding = self.embedding_gen.embed_text(text)
+        # Generar embedding
+        embedding = self.embedding_gen.embed_text(text)
 
-        # # Crear nodo de chunk
-        # query = """
-        # MATCH (d:Document {id: $document_id})
-        # MERGE (c:Chunk {id: $chunk_id})
-        # SET c.text = $text,
-        #     c.embedding = $embedding,
-        #     c.index = $index
-        # SET c += $metadata
-        # MERGE (d)-[:HAS_CHUNK]->(c)
-        # """
-        # self.neo4j.execute_query(query, {
-        #     "chunk_id": chunk_id,
-        #     "text": text,
-        #     "embedding": embedding,
-        #     "metadata": metadata,
-        #     "index": index,
-        #     "document_id": document_id
-        # })
+        # Crear nodo de chunk
+        query = """
+        MATCH (d:Document {id: $document_id})
+        MERGE (c:Chunk {id: $chunk_id})
+        SET c.text = $text,
+            c.embedding = $embedding,
+            c.index = $index
+        SET c += $metadata
+        MERGE (d)-[:HAS_CHUNK]->(c)
+        """
+        self.neo4j.execute_query(query, {
+            "chunk_id": chunk_id,
+            "text": text,
+            "embedding": embedding,
+            "metadata": metadata,
+            "index": index,
+            "document_id": document_id
+        })
 
-        # # Extraer entidades y relaciones
-        # entities, relationships = self.entity_extractor.extract_entities_and_relationships(text)
+        # Extraer entidades y relaciones
+        tmp_entities, tmp_relationships = self.entity_extractor.extract_entities_and_relationships(text)
 
-        # # Almacenar entidades
-        # for label, entities_list in entities.items():
-        #     for entity_data in entities_list:
-        #         self._store_entity(label, entity_data, chunk_id)
+        entities, relationships = self.entity_extractor.review_extraction(text, tmp_entities, tmp_relationships)
 
-        # # Almacenar relaciones
-        # for rel_type, rels_list in relationships.items():
-        #     for rel_data in rels_list:                
-        #         self._store_relationship(rel_type, rel_data, chunk_id)
+        # Almacenar entidades
+        for label, entities_list in entities.items():
+            for entity_data in entities_list:
+                self._store_entity(label, entity_data, chunk_id)
+
+        # Almacenar relaciones
+        for rel_type, rels_list in relationships.items():
+            for rel_data in rels_list:                
+                self._store_relationship(rel_type, rel_data, chunk_id)
 
         # Generar preguntas hipotéticas para RAG
         hypothetical_questions = self.hypothetical_question_generator.generate_hypothetical_questions(text)
