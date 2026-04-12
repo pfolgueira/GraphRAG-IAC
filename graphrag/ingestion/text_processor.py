@@ -6,6 +6,7 @@ from ..graph.neo4j_manager import Neo4jManager
 from ..utils.chunking import chunk_text
 from ..utils.embeddings import EmbeddingGenerator
 from .entity_extractor import EntityExtractor
+from .hypothetical_question_generator import HypotheticalQuestionGenerator
 from typing import Literal
 from pydantic import BaseModel, Field
 from ..llm.ollama_client import OllamaClient
@@ -27,6 +28,7 @@ class TextProcessor:
         self.neo4j = neo4j_manager
         self.embedding_gen = EmbeddingGenerator()
         self.entity_extractor = EntityExtractor()
+        self.hypothetical_question_generator = HypotheticalQuestionGenerator()
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
 
@@ -64,6 +66,7 @@ class TextProcessor:
 
         # 2. Dividir en chunks
         chunks = chunk_text(text, self.chunk_size, self.chunk_overlap)
+        chunks = chunks
         print(f"Documento dividido en {len(chunks)} chunks")
 
         # 3. Procesar cada chunk
@@ -98,40 +101,46 @@ class TextProcessor:
             index: int
     ):
         """Procesa un chunk individual."""
-        # Generar embedding
-        embedding = self.embedding_gen.embed_text(text)
+        # # Generar embedding
+        # embedding = self.embedding_gen.embed_text(text)
 
-        # Crear nodo de chunk
-        query = """
-        MATCH (d:Document {id: $document_id})
-        MERGE (c:Chunk {id: $chunk_id})
-        SET c.text = $text,
-            c.embedding = $embedding,
-            c.index = $index
-        SET c += $metadata
-        MERGE (d)-[:HAS_CHUNK]->(c)
-        """
-        self.neo4j.execute_query(query, {
-            "chunk_id": chunk_id,
-            "text": text,
-            "embedding": embedding,
-            "metadata": metadata,
-            "index": index,
-            "document_id": document_id
-        })
+        # # Crear nodo de chunk
+        # query = """
+        # MATCH (d:Document {id: $document_id})
+        # MERGE (c:Chunk {id: $chunk_id})
+        # SET c.text = $text,
+        #     c.embedding = $embedding,
+        #     c.index = $index
+        # SET c += $metadata
+        # MERGE (d)-[:HAS_CHUNK]->(c)
+        # """
+        # self.neo4j.execute_query(query, {
+        #     "chunk_id": chunk_id,
+        #     "text": text,
+        #     "embedding": embedding,
+        #     "metadata": metadata,
+        #     "index": index,
+        #     "document_id": document_id
+        # })
 
-        # Extraer entidades y relaciones
-        entities, relationships = self.entity_extractor.extract_entities_and_relationships(text)
+        # # Extraer entidades y relaciones
+        # entities, relationships = self.entity_extractor.extract_entities_and_relationships(text)
 
-        # Almacenar entidades
-        for label, entities_list in entities.items():
-            for entity_data in entities_list:
-                self._store_entity(label, entity_data, chunk_id)
+        # # Almacenar entidades
+        # for label, entities_list in entities.items():
+        #     for entity_data in entities_list:
+        #         self._store_entity(label, entity_data, chunk_id)
 
-        # Almacenar relaciones
-        for rel_type, rels_list in relationships.items():
-            for rel_data in rels_list:                
-                self._store_relationship(rel_type, rel_data, chunk_id)
+        # # Almacenar relaciones
+        # for rel_type, rels_list in relationships.items():
+        #     for rel_data in rels_list:                
+        #         self._store_relationship(rel_type, rel_data, chunk_id)
+
+        # Generar preguntas hipotéticas para RAG
+        hypothetical_questions = self.hypothetical_question_generator.generate_hypothetical_questions(text)
+        for question in hypothetical_questions:
+            question_embedding = self.embedding_gen.embed_text(question)
+            self._store_hypothetical_question(question, question_embedding, chunk_id)
 
     def _store_entity(self, label: str, entity_data: Dict[str, Any], chunk_id: str):
         """Almacena una entidad y la conecta al chunk, 
@@ -352,3 +361,15 @@ class TextProcessor:
             print(f"Nueva especie añadida: {final_name}")
             
         return final_name
+    
+    def _store_hypothetical_question(self, question: str, question_embedding: List[float], chunk_id: str):
+        self.neo4j.execute_query("""
+        MATCH (c:Chunk {id: $chunk_id})
+        MERGE (q:Question {text: $question})
+        SET q.question_embedding = $question_embedding
+        MERGE (c)-[:HAS_QUESTION]->(q)
+        """, {
+            "chunk_id": chunk_id,
+            "question": question,
+            "question_embedding": question_embedding
+        })

@@ -1,6 +1,7 @@
 import json
 from typing import List, Dict, Any, Type, TypeVar
 import ollama
+import requests
 from pydantic import BaseModel
 from ..config import get_settings
 
@@ -103,6 +104,22 @@ class OllamaClient:
             response = self.client.embeddings(model=model, prompt=text)
             embeddings.append(response['embedding'])
         return embeddings
+
+    @staticmethod
+    def _extract_rerank_results(response: Any) -> List[Any]:
+        """Extrae la lista de resultados desde dicts u objetos del SDK."""
+        if response is None:
+            return []
+
+        if isinstance(response, dict):
+            return response.get("results", []) or []
+
+        # Algunas versiones del SDK devuelven objetos con atributo results.
+        results = getattr(response, "results", None)
+        if results is not None:
+            return list(results)
+
+        return []
 
     @staticmethod
     def extract_json(response: str) -> Dict[str, Any]:

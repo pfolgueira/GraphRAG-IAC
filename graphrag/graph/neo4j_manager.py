@@ -52,12 +52,17 @@ class Neo4jManager:
             except Exception as e:
                 print(f"Constraint ya existe o error: {e}")
 
-    def create_vector_index(self, index_name: str = "chunk_embeddings"):
-        """Crea un índice vectorial."""
+    def create_vector_index(
+            self,
+            index_name: str = "chunk_embeddings",
+            label: str = "Chunk",
+            property_name: str = "embedding"
+    ):
+        """Crea un índice vectorial para la etiqueta y propiedad indicadas."""
         query = f"""
         CREATE VECTOR INDEX {index_name} IF NOT EXISTS
-        FOR (c:Chunk)
-        ON c.embedding
+        FOR (n:{label})
+        ON n.{property_name}
         OPTIONS {{indexConfig: {{
             `vector.dimensions`: 768,
             `vector.similarity_function`: 'cosine'

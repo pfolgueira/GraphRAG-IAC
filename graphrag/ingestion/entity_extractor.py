@@ -93,8 +93,12 @@ class HabitatNode(BaseModel):
     type: str = Field(..., description="Type of natural environment or ecosystem: Forest, Desert, Grassland, Ocean, etc.")
 
 class LocationNode(BaseModel):
-    type: str = Field(..., description="Geographical region or area: Africa, South America, Amazon Rainforest, Pacific Ocean, etc.")
-
+    type: str = Field(..., description="The geographical location of the animal. "
+            "STRICT RULE: You MUST generalize the location to a Country, Continent, Sea, or Ocean. "
+            "Do NOT output specific regions, natural parks, or habitats. "
+            "Examples: If the text says 'Amazon Rainforest', output 'Brazil' or 'South America'. "
+            "If it says 'Serengeti', output 'Tanzania'. If it says 'Great Barrier Reef', output 'Pacific Ocean'.")
+    
 class AnimalClassNode(BaseModel):
     type: AnimalClassEnum = Field(..., description="Main biological category.")
 
@@ -254,8 +258,8 @@ class EntityExtractor:
         system_prompt = """You are an expert zoology Knowledge Graph extractor.
         Your goal is to extract animal species, their biometrics, their classifications, and specific relationships from the text provided.
         CRITICAL RULES (ZERO TOLERANCE FOR HALLUCINATIONS)
-        1. STRICT GROUNDING: You must base your extraction ONLY on facts explicitly stated in the source text. DO NOT use pre-trained knowledge, common sense, or assumptions.
-        2. SCHEMA & ENUM COMPLIANCE: Strictly adhere to the provided schema descriptions and ENUM constraints. If a concept in the text does not fit the allowed ENUMs, either map it safely to the closest ENUM if semantically identical, or discard it entirely.
+        1. STRICT GROUNDING: You must base your extraction on the source text. DO NOT use pre-trained knowledge, common sense, or assumptions.
+        2. SCHEMA & ENUM COMPLIANCE: Strictly adhere to the provided schema descriptions and ENUM constraints.
         3. ENTITY CONSISTENCY: Ensure the source and target of each relationship exactly match the extracted entities.
         """
         prompt = f"Extract zoological entities and their relationships from the following text:\n\n{text}"
