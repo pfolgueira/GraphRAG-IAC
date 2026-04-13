@@ -1,6 +1,7 @@
 from typing import List, Dict, Any, Tuple, Optional
 from enum import Enum
 from pydantic import BaseModel, Field
+import json
 from ..llm.ollama_client import OllamaClient
 from ..llm.gemini_client import GeminiClient
 
@@ -241,6 +242,73 @@ class GraphExtraction(BaseModel):
 
 
 # ==========================================
+# PRUEBAS DEL REVIEWER
+# ==========================================
+class EntityPointer(BaseModel):
+    category: str = Field(..., description="The category of the entity to delete (e.g., 'Species', 'Location', 'Habitat').")
+    name_or_type: str = Field(..., description="The specific 'name' or 'type' value of the entity to delete.")
+
+class RelationshipPointer(BaseModel):
+    source: str = Field(..., description="Source entity of the relationship to delete.")
+    target: str = Field(..., description="Target entity of the relationship to delete.")
+    relationship_type: str = Field(..., description="The description/name of the relationship (e.g., 'INHABITS', 'MEMBER_OF_FAMILY').")
+
+# Agrupamos las adiciones para mantener el esquema limpio para el LLM
+class MissingEntities(BaseModel):
+    species: List[SpeciesNode] = Field(default=[], description="Missed species")
+    families: List[FamilyNode] = Field(default=[], description="Missed families")
+    habitats: List[HabitatNode] = Field(default=[], description="Missed habitats")
+    locations: List[LocationNode] = Field(default=[], description="Missed locations")
+    animal_classes: List[AnimalClassNode] = Field(default=[])
+    skeletal_structures: List[SkeletalStructureNode] = Field(default=[])
+    reproduction_methods: List[ReproductionMethodNode] = Field(default=[])
+    environment_types: List[EnvironmentTypeNode] = Field(default=[])
+    activity_cycles: List[ActivityCycleNode] = Field(default=[])
+    social_structures: List[SocialStructureNode] = Field(default=[])
+    diet_types: List[DietTypeNode] = Field(default=[])
+    food_sources: List[FoodSourceNode] = Field(default=[])
+    conservation_statuses: List[ConservationStatusNode] = Field(default=[])
+
+class MissingRelationships(BaseModel):
+    member_of_family_rels: List[MemberOfFamilyRel] = Field(default=[])
+    belongs_to_class_rels: List[BelongsToClassRel] = Field(default=[])
+    has_skeletal_structure_rels: List[HasSkeletalStructureRel] = Field(default=[])
+    reproduces_via_rels: List[ReproducesViaRel] = Field(default=[])
+    lives_in_environment_rels: List[LivesInEnvironmentRel] = Field(default=[])
+    inhabits_rels: List[InhabitsRel] = Field(default=[])
+    found_in_rels: List[FoundInRel] = Field(default=[])
+    migrates_to_rels: List[MigratesToRel] = Field(default=[])
+    has_activity_cycle_rels: List[HasActivityCycleRel] = Field(default=[])
+    organized_in_rels: List[OrganizedInRel] = Field(default=[])
+    has_diet_type_rels: List[HasDietTypeRel] = Field(default=[])
+    preys_on_rels: List[PreysOnRel] = Field(default=[])
+    feeds_on_rels: List[FeedsOnRel] = Field(default=[])
+    has_conservation_status_rels: List[HasConservationStatusRel] = Field(default=[])
+
+class GraphPatch(BaseModel):
+    entities_to_delete: List[EntityPointer] = Field(
+        default=[], 
+        description="Entities from the initial extraction that MUST be deleted because they are NOT explicitly in the text or are redundant synonyms."
+    )
+    relationships_to_delete: List[RelationshipPointer] = Field(
+        default=[], 
+        description="Relationships from the initial extraction that MUST be deleted because they are NOT explicitly in the text."
+    )
+    missing_entities_to_add: MissingEntities = Field(
+        default_factory=MissingEntities, 
+        description="NEW entities explicitly found in the text but missing from the initial extraction."
+    )
+    missing_relationships_to_add: MissingRelationships = Field(
+        default_factory=MissingRelationships, 
+        description="NEW relationships explicitly found in the text but missing from the initial extraction."
+    )
+
+    # ==========================================
+# PRUEBAS DEL REVIEWER
+# ==========================================
+
+
+# ==========================================
 #   ENTITY EXTRACTOR CLASS
 # ==========================================
 
@@ -308,7 +376,7 @@ class EntityExtractor:
         print(f"Initial extraction: {num_entities} entities and {num_relationships} relationships")
 
         return nodes_dict, rels_dict
-    
+        
     def review_extraction(
             self,
             text: str,
@@ -319,66 +387,154 @@ class EntityExtractor:
         Review step to consolidate the entities and relationships extracted for a chunk.
         """
 
-        system_prompt = """You are an expert data reviewer specialized in zoology Knowledge Graphs.
-Your task is to review an initial extraction of entities and relationships from a text, correct any mistakes, remove hallucinations, and extract ANY missing information.
-CRITICAL RULES:
-1. STRICT GROUNDING: Every single entity or relationship you KEEP or ADD must be explicitly stated in the source text, if not, DELETE it. DO NOT use pre-trained knowledge, common sense, or assumptions.
-2. SCHEMA & ENUM COMPLIANCE: Strictly adhere to the provided schema descriptions and ENUM constraints.
-3. ENTITY CONSISTENCY: Ensure the source and target of each relationship exactly match the extracted entities."""
+        # Formateo limpio para que el LLM lo lea sin problemas
+        initial_entities_json = json.dumps(entities, indent=2)
+        initial_relations_json = json.dumps(relationships, indent=2)
 
-        prompt = f"""Review the text and the initial extraction (Entities and Relationships) to ensure that absolutely no invented information has been included
-(everything must be explicitly stated in the text), and that all relevant entities and relationships present in the text are fully captured according to the schema.
+#         system_prompt = """You are an expert data reviewer specialized in zoology Knowledge Graphs.
+# Your task is to review an initial extraction of entities and relationships from a text, correct any mistakes, remove hallucinations, and extract ANY missing information.
+# CRITICAL RULES:
+# 1. STRICT GROUNDING: Every single entity or relationship you KEEP or ADD must be explicitly stated in the source text, if not, DELETE it. DO NOT use pre-trained knowledge, common sense, or assumptions.
+# 2. SCHEMA & ENUM COMPLIANCE: Strictly adhere to the provided schema descriptions and ENUM constraints.
+# 3. ENTITY CONSISTENCY: Ensure the source and target of each relationship exactly match the extracted entities."""
 
-TEXT: {text}
+#         prompt = f"""Review the text and the initial extraction (Entities and Relationships) to ensure that absolutely NO INVENTED INFORMATION has been included
+# (everything must be explicitly stated in the text), and that all relevant entities and relationships present in the text are fully captured according to the schema.
 
-INITIAL ENTITIES: {entities}
+# TEXT: {text}
 
-INITIAL RELATIONSHIPS: {relationships}"""
+# INITIAL ENTITIES: {initial_entities_json}
 
-        extraction: GraphExtraction = self.client.structured_output(
+# INITIAL RELATIONSHIPS: {initial_relations_json}"""
+
+        system_prompt = """You are an expert Data Auditor specialized in zoology Knowledge Graphs.
+Your goal is to output a "Patch" (additions and deletions) to fix an initial extraction. You must act as a BLIND PARSER.
+
+CRITICAL RULES (ZERO TOLERANCE FOR HALLUCINATIONS & DUPLICATES):
+1. DELETE UNGROUNDED DATA: If an item in the initial extraction is not explicitly printed in the text (word for word or direct synonym), add it to the 'delete' lists. Do not use world knowledge.
+2. DELETE REDUNDANCY: If synonyms were extracted as separate entities, keep the common one and delete the duplicates.
+3. STRICTLY NO DUPLICATES IN ADDITIONS: Only add NEW entities or relationships if they are explicitly in the text AND completely missing from the initial extraction. If it is already in the initial extraction, DO NOT add it again.
+4. MINIMAL OUTPUT: If the initial extraction is perfect, return empty lists."""
+
+        prompt = f"""Compare the ORIGINAL TEXT against the INITIAL EXTRACTION.
+Output ONLY the specific items that need to be deleted (hallucinations/redundancies) and the specific NEW items that need to be added. Do not rewrite correct existing data.
+
+# TEXT: {text}
+
+# INITIAL ENTITIES: {initial_entities_json}
+
+# INITIAL RELATIONSHIPS: {initial_relations_json}"""
+
+        extraction: GraphPatch = self.client.structured_output(
             prompt=prompt,
-            schema=GraphExtraction,
+            schema=GraphPatch,
             system_prompt=system_prompt
         )
-
-        nodes_dict = {
-            "Species": [x.model_dump(mode='json', exclude_none=True) for x in extraction.species],
-            "Family": [x.model_dump(mode='json') for x in extraction.families],
-            "AnimalClass": [x.model_dump(mode='json') for x in extraction.animal_classes],
-            "SkeletalStructure": [x.model_dump(mode='json') for x in extraction.skeletal_structures],
-            "ReproductionMethod": [x.model_dump(mode='json') for x in extraction.reproduction_methods],
-            "EnvironmentType": [x.model_dump(mode='json') for x in extraction.environment_types],
-            "Habitat": [x.model_dump(mode='json') for x in extraction.habitats],
-            "Location": [x.model_dump(mode='json') for x in extraction.locations],
-            "ActivityCycle": [x.model_dump(mode='json') for x in extraction.activity_cycles],
-            "SocialStructure": [x.model_dump(mode='json') for x in extraction.social_structures],
-            "DietType": [x.model_dump(mode='json') for x in extraction.diet_types],
-            "FoodSource": [x.model_dump(mode='json') for x in extraction.food_sources],
-            "ConservationStatus": [x.model_dump(mode='json') for x in extraction.conservation_statuses],
-        }
         
-        rels_dict = {
-            "MEMBER_OF_FAMILY": [x.model_dump(mode='json', exclude_none=True) for x in extraction.member_of_family_rels],
-            "BELONGS_TO_CLASS": [x.model_dump(mode='json', exclude_none=True) for x in extraction.belongs_to_class_rels],
-            "HAS_SKELETAL_STRUCTURE": [x.model_dump(mode='json', exclude_none=True) for x in extraction.has_skeletal_structure_rels],
-            "REPRODUCES_VIA": [x.model_dump(mode='json', exclude_none=True) for x in extraction.reproduces_via_rels],
-            "LIVES_IN_ENVIRONMENT": [x.model_dump(mode='json', exclude_none=True) for x in extraction.lives_in_environment_rels],
-            "INHABITS": [x.model_dump(mode='json', exclude_none=True) for x in extraction.inhabits_rels],
-            "FOUND_IN": [x.model_dump(mode='json', exclude_none=True) for x in extraction.found_in_rels],
-            "MIGRATES_TO": [x.model_dump(mode='json', exclude_none=True) for x in extraction.migrates_to_rels],
-            "HAS_ACTIVITY_CYCLE": [x.model_dump(mode='json', exclude_none=True) for x in extraction.has_activity_cycle_rels],
-            "ORGANIZED_IN": [x.model_dump(mode='json', exclude_none=True) for x in extraction.organized_in_rels],
-            "HAS_DIET_TYPE": [x.model_dump(mode='json', exclude_none=True) for x in extraction.has_diet_type_rels],
-            "PREYS_ON": [x.model_dump(mode='json', exclude_none=True) for x in extraction.preys_on_rels],
-            "FEEDS_ON": [x.model_dump(mode='json', exclude_none=True) for x in extraction.feeds_on_rels],
-            "HAS_CONSERVATION_STATUS": [x.model_dump(mode='json', exclude_none=True) for x in extraction.has_conservation_status_rels],
-        }
-
-        num_entities = sum(len(nodes_dict[n]) for n in nodes_dict)
-        num_relationships = sum(len(rels_dict[r]) for r in rels_dict)
-        print(f"Initial extraction: {num_entities} entities and {num_relationships} relationships")
+        # ==========================================
+        # 1. PROCESAR ELIMINACIONES (ALUCINACIONES)
+        # ==========================================
         
-        return nodes_dict, rels_dict
+        # Eliminar entidades
+        for entity_ptr in extraction.entities_to_delete:
+            category = entity_ptr.category  # Ej: "Species", "Habitat"
+            identifier = entity_ptr.name_or_type
+            
+            if category in entities:
+                entities[category] = [
+                    e for e in entities[category] 
+                    if e.get('name') != identifier and e.get('type') != identifier
+                ]
+
+        # Eliminar relaciones
+        for rel_ptr in extraction.relationships_to_delete:
+            rel_type = rel_ptr.relationship_type  # Ej: "INHABITS"
+            src = rel_ptr.source
+            tgt = rel_ptr.target
+            
+            if rel_type in relationships:
+                relationships[rel_type] = [
+                    r for r in relationships[rel_type] 
+                    if not (r.get('source') == src and r.get('target') == tgt)
+                ]
+
+        # ==========================================
+        # 2. PROCESAR ADICIONES (RECALL)
+        # ==========================================
+        
+        new_ents = extraction.missing_entities_to_add
+        new_rels = extraction.missing_relationships_to_add
+
+        # Función auxiliar para añadir entidades sin duplicar
+        def add_unique_entities(category: str, items: list, is_species: bool = False):
+            id_key = 'name' if is_species else 'type'
+            existing_ids = {e.get(id_key) for e in entities.get(category, [])}
+            
+            for item in items:
+                item_dict = item.model_dump(mode='json', exclude_none=True)
+                item_id = item_dict.get(id_key)
+                if item_id and item_id not in existing_ids:
+                    entities[category].append(item_dict)
+                    existing_ids.add(item_id) # Actualizar el set para evitar duplicados en el propio parche
+
+        add_unique_entities("Species", new_ents.species, is_species=True)
+        add_unique_entities("Family", new_ents.families)
+        add_unique_entities("AnimalClass", new_ents.animal_classes)
+        add_unique_entities("SkeletalStructure", new_ents.skeletal_structures)
+        add_unique_entities("ReproductionMethod", new_ents.reproduction_methods)
+        add_unique_entities("EnvironmentType", new_ents.environment_types)
+        add_unique_entities("Habitat", new_ents.habitats)
+        add_unique_entities("Location", new_ents.locations)
+        add_unique_entities("ActivityCycle", new_ents.activity_cycles)
+        add_unique_entities("SocialStructure", new_ents.social_structures)
+        add_unique_entities("DietType", new_ents.diet_types)
+        add_unique_entities("FoodSource", new_ents.food_sources)
+        add_unique_entities("ConservationStatus", new_ents.conservation_statuses)
+
+        # Función auxiliar para añadir relaciones sin duplicar
+        def add_unique_relationships(category: str, items: list):
+            existing_pairs = {(r.get('source'), r.get('target')) for r in relationships.get(category, [])}
+            
+            for item in items:
+                item_dict = item.model_dump(mode='json', exclude_none=True)
+                pair = (item_dict.get('source'), item_dict.get('target'))
+                if pair not in existing_pairs:
+                    relationships[category].append(item_dict)
+                    existing_pairs.add(pair)
+
+        add_unique_relationships("MEMBER_OF_FAMILY", new_rels.member_of_family_rels)
+        add_unique_relationships("BELONGS_TO_CLASS", new_rels.belongs_to_class_rels)
+        add_unique_relationships("HAS_SKELETAL_STRUCTURE", new_rels.has_skeletal_structure_rels)
+        add_unique_relationships("REPRODUCES_VIA", new_rels.reproduces_via_rels)
+        add_unique_relationships("LIVES_IN_ENVIRONMENT", new_rels.lives_in_environment_rels)
+        add_unique_relationships("INHABITS", new_rels.inhabits_rels)
+        add_unique_relationships("FOUND_IN", new_rels.found_in_rels)
+        add_unique_relationships("MIGRATES_TO", new_rels.migrates_to_rels)
+        add_unique_relationships("HAS_ACTIVITY_CYCLE", new_rels.has_activity_cycle_rels)
+        add_unique_relationships("ORGANIZED_IN", new_rels.organized_in_rels)
+        add_unique_relationships("HAS_DIET_TYPE", new_rels.has_diet_type_rels)
+        add_unique_relationships("PREYS_ON", new_rels.preys_on_rels)
+        add_unique_relationships("FEEDS_ON", new_rels.feeds_on_rels)
+        add_unique_relationships("HAS_CONSERVATION_STATUS", new_rels.has_conservation_status_rels)
+
+        # ==========================================
+        # 3. CONTEO Y LOGS
+        # ==========================================
+        
+        final_num_entities = sum(len(entities[n]) for n in entities)
+        final_num_relationships = sum(len(relationships[r]) for r in relationships)
+        
+        deleted_ents = len(extraction.entities_to_delete)
+        deleted_rels = len(extraction.relationships_to_delete)
+        
+        added_ents = sum(len(getattr(new_ents, field)) for field in new_ents.model_fields)
+        added_rels = sum(len(getattr(new_rels, field)) for field in new_rels.model_fields)
+
+        print(f"Audit completed:")
+        print(f" - Entities: Deleted {deleted_ents} | Added {added_ents} -> Final: {final_num_entities}")
+        print(f" - Relationships: Deleted {deleted_rels} | Added {added_rels} -> Final: {final_num_relationships}")
+        
+        return entities, relationships
 
 
     def summarize_entity(self, entity_name: str, descriptions: List[str]) -> str:
