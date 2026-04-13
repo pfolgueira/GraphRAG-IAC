@@ -17,9 +17,9 @@ class GraphCleaner:
         """
 
         self._delete_self_loops()
-        self._delete_isolated_nodes()
         self._delete_carnivore_foods()
         self._delete_herbivore_preys()
+        self._delete_isolated_nodes()
 
     def _delete_self_loops(self):
         """
