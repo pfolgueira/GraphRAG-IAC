@@ -6,6 +6,7 @@ from ..graph.neo4j_manager import Neo4jManager
 from ..utils.chunking import chunk_text
 from ..utils.embeddings import EmbeddingGenerator
 from .entity_extractor import EntityExtractor
+from .graph_cleaner import GraphCleaner
 from .hypothetical_question_generator import HypotheticalQuestionGenerator
 from typing import Literal
 from pydantic import BaseModel, Field
@@ -28,6 +29,7 @@ class TextProcessor:
         self.neo4j = neo4j_manager
         self.embedding_gen = EmbeddingGenerator()
         self.entity_extractor = EntityExtractor()
+        self.graph_cleaner = GraphCleaner(self.neo4j)
         self.hypothetical_question_generator = HypotheticalQuestionGenerator()
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
@@ -66,18 +68,21 @@ class TextProcessor:
 
         # 2. Dividir en chunks
         chunks = chunk_text(text, self.chunk_size, self.chunk_overlap)
-        chunks = chunks
+        chunks = chunks[25:26]
         print(f"Documento dividido en {len(chunks)} chunks")
 
-        # 3. Procesar cada chunk
-        for i, chunk in enumerate(tqdm(chunks, desc="Procesando chunks")):
+        # 3. Procesar cada chunk (numeración empieza en 14)
+        for i, chunk in enumerate(tqdm(chunks, desc="Procesando chunks"), start=25):
             chunk_id = f"{document_id}_chunk_{i}"
             self._process_chunk(chunk_id, chunk.page_content, chunk.metadata, document_id, i)
-            time.sleep(3)
+            time.sleep(5)
 
         # 4. Consolidar entidades y relaciones
         # self._consolidate_entities()
         # self._consolidate_relationships()
+
+        # Limpiar el grafo para eliminar nodos o relaciones inconsistentes
+        self.graph_cleaner.clean_graph()
 
         print(f"Documento {document_id} procesado exitosamente")
 
