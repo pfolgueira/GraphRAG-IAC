@@ -41,11 +41,9 @@ class GeminiClient:
 
     def _rate_limit_delay(self):
         """
-        Pausa de 4 segundos antes de cada llamada.
-        Garantiza que el procesamiento se mantenga de forma estricta por debajo
-        del límite de 15 peticiones por minuto de la API gratuita, evitando errores 429.
+        Pausa de 5 segundos antes de cada llamada.
         """
-        time.sleep(1)
+        time.sleep(5)
 
     def chat(
             self,
@@ -87,12 +85,32 @@ class GeminiClient:
     ) -> T:
         """Fuerza al modelo a devolver un objeto basado en un esquema de Pydantic."""
         model_name = model or self.settings.gemini_model
+
+        safety_settings = [
+            types.SafetySetting(
+                category="HARM_CATEGORY_DANGEROUS_CONTENT",
+                threshold="BLOCK_NONE",
+            ),
+            types.SafetySetting(
+                category="HARM_CATEGORY_HATE_SPEECH",
+                threshold="BLOCK_NONE",
+            ),
+            types.SafetySetting(
+                category="HARM_CATEGORY_HARASSMENT",
+                threshold="BLOCK_NONE",
+            ),
+            types.SafetySetting(
+                category="HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                threshold="BLOCK_NONE",
+            )
+        ]
         
         config = types.GenerateContentConfig(
             temperature=0.0,
             system_instruction=system_prompt,
             response_mime_type="application/json",
             response_schema=schema,
+            safety_settings=safety_settings
         )
 
         self._rate_limit_delay()

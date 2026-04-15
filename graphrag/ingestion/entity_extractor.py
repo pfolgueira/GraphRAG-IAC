@@ -6,6 +6,8 @@ import json
 from ..llm.ollama_client import OllamaClient
 from ..llm.gemini_client import GeminiClient
 
+from pydantic import ValidationError
+
 
 # ==========================================
 #   ENUMS
@@ -473,11 +475,25 @@ STEP 3: Generate the JSON patch using your thought process as a guide.
 {initial_entities_json}
 {initial_relations_json}"""
 
-        extraction: GraphPatch = self.client.structured_output(
-            prompt=prompt,
-            schema=GraphPatch,
-            system_prompt=system_prompt
-        )
+        # extraction: GraphPatch = self.client.structured_output(
+        #     prompt=prompt,
+        #     schema=GraphPatch,
+        #     system_prompt=system_prompt
+        # )
+
+        try:
+            extraction: GraphPatch = self.client.structured_output(
+                prompt=prompt,
+                schema=GraphPatch,
+                system_prompt=system_prompt
+            )
+            
+            if extraction is None:
+                return entities, relationships
+
+        except ValidationError as e:
+            print(e)
+            return entities, relationships
         
         # ==========================================
         # 1. PROCESAR ELIMINACIONES (ALUCINACIONES)

@@ -68,11 +68,11 @@ class TextProcessor:
 
         # 2. Dividir en chunks
         chunks = chunk_text(text, self.chunk_size, self.chunk_overlap)
-        chunks = chunks[25:26]
+        chunks = chunks[14:]
         print(f"Documento dividido en {len(chunks)} chunks")
 
         # 3. Procesar cada chunk (numeración empieza en 14)
-        for i, chunk in enumerate(tqdm(chunks, desc="Procesando chunks"), start=25):
+        for i, chunk in enumerate(tqdm(chunks, desc="Procesando chunks"), start=14):
             chunk_id = f"{document_id}_chunk_{i}"
             self._process_chunk(chunk_id, chunk.page_content, chunk.metadata, document_id, i)
             time.sleep(5)
