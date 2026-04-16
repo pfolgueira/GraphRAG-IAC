@@ -475,12 +475,6 @@ STEP 3: Generate the JSON patch using your thought process as a guide.
 {initial_entities_json}
 {initial_relations_json}"""
 
-        # extraction: GraphPatch = self.client.structured_output(
-        #     prompt=prompt,
-        #     schema=GraphPatch,
-        #     system_prompt=system_prompt
-        # )
-
         try:
             extraction: GraphPatch = self.client.structured_output(
                 prompt=prompt,
