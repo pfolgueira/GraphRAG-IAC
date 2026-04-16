@@ -2,3 +2,4 @@ lion.md
 iguana.md
 woodpecker.md
 duck.md
+albatross.md
