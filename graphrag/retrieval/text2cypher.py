@@ -46,6 +46,18 @@ class Text2CypherRetriever:
                 for ex in self.few_shot_examples
             ])
 
+        enums_str = """When filtering by the 'type' property (or 'name' for Species) on the following nodes, you should use one of these Title Case values. Do not use lowercase or alter the spelling:
+
+- (:AnimalClass {type: ...}): 'Mammal', 'Reptile', 'Bird', 'Fish', 'Amphibian'
+- (:SkeletalStructure {type: ...}): 'Vertebrate', 'Invertebrate'
+- (:ReproductionMethod {type: ...}): 'Oviparous', 'Viviparous', 'Ovoviviparous'
+- (:EnvironmentType {type: ...}): 'Aquatic', 'Terrestrial', 'Aerial'
+- (:ActivityCycle {type: ...}): 'Nocturnal', 'Diurnal', 'Crepuscular'
+- (:SocialStructure {type: ...}): 'Solitary', 'Pair-living', 'Family group', 'Herd', 'Pack', 'Colony', 'Eusocial'
+- (:DietType {type: ...}): 'Carnivore', 'Herbivore', 'Omnivore'
+- (:FoodSource {type: ...}): 'Grass', 'Leaves', 'Fruits', 'Seeds', 'Bark', 'Nectar', 'Aquatic Plants'
+- (:ConservationStatus {type: ...}): 'EX (Extinct)', 'EW (Extinct in the Wild)', 'CR (Critically Endangered)', 'EN (Endangered)', 'VU (Vulnerable)', 'NT (Near Threatened)', 'LC (Least Concern)', 'DD (Data Deficient)', 'NE (Not Evaluated)'"""
+
         # 3. Construir el prompt del sistema estructurado
         system_prompt = f"""You are an Information Retrieval Agent operating a Neo4j Knowledge Graph. Your task is to translate natural language questions into exact Cypher queries to extract the required data.
 
@@ -55,6 +67,9 @@ class Text2CypherRetriever:
 --- TERMINOLOGY MAP ---
 Use the following domain-specific terminology mappings to understand the user's intent:
 {terminology_str}
+
+--- ALLOWED ENUM VALUES (STRICT EXACT MATCH) ---
+{enums_str}
 
 --- FEW-SHOT EXAMPLES ---
 Use these examples as a reference for the expected Cypher structure:
@@ -66,6 +81,7 @@ Use these examples as a reference for the expected Cypher structure:
 3. Do NOT provide any explanations, apologies, or conversational text before or after the query.
 4. Ensure the query is syntactically correct and optimized for Neo4j.
 5. Use EXACTLY the node labels, relationship types, and properties provided in the schema and terminology map. Do not hallucinate properties.
+6. GENERAL TITLE CASE RULE: For ALL OTHER nodes and string properties not listed in the enums (such as Species 'name', Location 'type', etc.), you MUST format the search values in Title Case (e.g., use 'African Elephant' instead of 'african elephant', or 'South Africa' instead of 'south africa').
 
 Generate a Cypher query to answer the following question."""
 
