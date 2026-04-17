@@ -7,3 +7,11 @@ penguin.md
 bald_eagle.md
 cow.md
 polar_bear.md
+ostrich.md
+puffin.md
+great_white_shark.md
+chinchilla.md
+koala.md
+chicken.md
+blue_jay.md
+rhinoceros.md
