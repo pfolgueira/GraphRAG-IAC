@@ -8,6 +8,7 @@ class Text2CypherRetriever:
         self.neo4j = neo4j_manager
         self.client = OllamaClient()
         self.few_shot_examples = []
+        self.terminology_maps = {} # Nuevo: Diccionario para almacenar mapas terminológicos
 
     def add_few_shot_example(self, question: str, cypher: str):
         """Añade un ejemplo few-shot."""
@@ -16,6 +17,12 @@ class Text2CypherRetriever:
             "cypher": cypher
         })
 
+    def add_terminology_map(self, term: str, graph_equivalent: str):
+        """
+        Añade una regla al mapa terminológico.
+        """
+        self.terminology_maps[term] = graph_equivalent
+
     def generate_cypher(self, question: str) -> str:
         """
         Genera una query Cypher a partir de una pregunta en lenguaje natural.
@@ -23,26 +30,42 @@ class Text2CypherRetriever:
         schema = self.neo4j.get_schema()
         schema_str = self.neo4j.format_schema(schema)
 
-        # Construir ejemplos few-shot
-        examples_str = ""
+        # 1. Construir mapas terminológicos
+        terminology_str = "No specific terminology mapped."
+        if self.terminology_maps:
+            terminology_str = "\n".join([
+                f"- '{term}' means/refers to: {mapping}"
+                for term, mapping in self.terminology_maps.items()
+            ])
+
+        # 2. Construir ejemplos few-shot
+        examples_str = "No examples provided."
         if self.few_shot_examples:
-            examples_str = "Examples:\n" + "\n".join([
-                f"Question: {ex['question']}\nCypher: {ex['cypher']}"
+            examples_str = "\n".join([
+                f"Question: {ex['question']}\nCypher: {ex['cypher']}\n"
                 for ex in self.few_shot_examples
             ])
 
-        system_prompt = f"""You are an expert at converting natural language questions into Cypher queries for Neo4j.
+        # 3. Construir el prompt del sistema estructurado
+        system_prompt = f"""You are an Information Retrieval Agent operating a Neo4j Knowledge Graph. Your task is to translate natural language questions into exact Cypher queries to extract the required data.
 
-Graph Schema:
+--- GRAPH SCHEMA ---
 {schema_str}
 
+--- TERMINOLOGY MAP ---
+Use the following domain-specific terminology mappings to understand the user's intent:
+{terminology_str}
+
+--- FEW-SHOT EXAMPLES ---
+Use these examples as a reference for the expected Cypher structure:
 {examples_str}
 
-Rules:
-1. Use only the node labels, relationship types, and properties shown in the schema
-2. Return ONLY the Cypher query, no explanations
-3. Do not use markdown code blocks
-4. Make sure the query is syntactically correct
+--- FORMATTING INSTRUCTIONS ---
+1. Return ONLY the raw Cypher query.
+2. Do NOT wrap the query in markdown code blocks (e.g., no ```cypher or ```).
+3. Do NOT provide any explanations, apologies, or conversational text before or after the query.
+4. Ensure the query is syntactically correct and optimized for Neo4j.
+5. Use EXACTLY the node labels, relationship types, and properties provided in the schema and terminology map. Do not hallucinate properties.
 
 Generate a Cypher query to answer the following question."""
 
@@ -51,9 +74,10 @@ Generate a Cypher query to answer the following question."""
             {"role": "user", "content": question}
         ]
 
+        # Mantenemos temperature a 0.0 para que sea determinista y preciso
         cypher = self.client.chat(messages, temperature=0.0)
 
-        # Limpiar la respuesta
+        # Limpiar la respuesta (doble comprobación por si el LLM ignora las instrucciones de formato)
         cypher = cypher.replace("```cypher", "").replace("```", "").strip()
 
         return cypher
