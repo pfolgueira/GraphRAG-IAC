@@ -62,13 +62,17 @@ class GraphCleaner:
         Deletes all 'FEEDS_ON' relationships where the source node is a 'Carnivore'.
         """
         query = """
-        MATCH (s:Species)-[:HAS_DIET_TYPE]->({type: "Carnivore"})
+        MATCH (s:Species)-[:HAS_DIET_TYPE]->(d:DietType {type: "Carnivore"})
+        WHERE COUNT { (s)-[:HAS_DIET_TYPE]->() } = 1
         MATCH (s)-[r:FEEDS_ON]->()
         WITH type(r) AS rel_type, r
         DELETE r
         RETURN rel_type, count(r) AS deleted_count
         """
         results = self.neo4j.execute_query(query)
+
+        if not results:
+            print("No 'FEEDS_ON' relationships found for exclusive Carnivores.")
         
         for row in results:
             print(f"Deleted {row['deleted_count']} '{row['rel_type']}' relationships for Carnivores.")
@@ -80,7 +84,8 @@ class GraphCleaner:
         Deletes all 'PREYS_ON' relationships where the source node is an 'Herbivore'.
         """
         query = """
-        MATCH (s:Species)-[:HAS_DIET_TYPE]->({type: "Herbivore"})
+        MATCH (s:Species)-[:HAS_DIET_TYPE]->(d:DietType {type: "Herbivore"})
+        WHERE COUNT { (s)-[:HAS_DIET_TYPE]->() } = 1
         MATCH (s)-[r:PREYS_ON]->()
         WITH type(r) AS rel_type, r
         DELETE r
@@ -88,9 +93,11 @@ class GraphCleaner:
         """
         results = self.neo4j.execute_query(query)
         
+        if not results:
+            print("No 'PREYS_ON' relationships found for exclusive Herbivores.")
 
         for row in results:
-            print(f"Deleted {row['deleted_count']} '{row['rel_type']}' relationships for Herbivores.")
+            print(f"Deleted {row['deleted_count']} '{row['rel_type']}' relationships for exclusive Herbivores.")
                 
         return results
         

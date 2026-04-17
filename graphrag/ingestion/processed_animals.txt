@@ -3,3 +3,7 @@ iguana.md
 woodpecker.md
 duck.md
 albatross.md
+penguin.md
+bald_eagle.md
+cow.md
+polar_bear.md

@@ -90,6 +90,7 @@ class SpeciesNode(BaseModel):
     lifespan_years: Optional[float] = Field(None, description="Lifespan of the species.")
     gestation_period_days: Optional[float] = Field(None, description="Average duration of embryo development until birth in days.")
     maturity_age_years: Optional[float] = Field(None, description="Estimated age in years at which the species reaches sexual maturity or independence.")
+    
 class FamilyNode(BaseModel):
     type: str = Field(..., description="Taxonomic classification category: Hominidae, Felidae, Canidae, Equidae, etc.")
 
@@ -196,12 +197,12 @@ class HasDietTypeRel(BaseModel):
 class PreysOnRel(BaseModel):
     source: str = Field(..., description="Name of the predator Species")
     target: str = Field(..., description="Name of the prey Species")
-    description: str = Field("PREYS_ON", description="Indicates that the species hunts and consumes another species as part of its diet.")
+    description: str = Field("PREYS_ON", description="Indicates the consumption of ANY ANIMAL MATTER. This STRICTLY includes large preys, Insect, Fish, Crustacean, Squid, etc. Use PREYS_ON ONLY if the food is a living creature/animal.")
 
 class FeedsOnRel(BaseModel):
     source: str = Field(..., description="Name of the Species")
     target: str = Field(..., description="Type of the Food Source")
-    description: str = Field("FEEDS_ON", description="Represents the consumption of non-animal food sources.")
+    description: str = Field("FEEDS_ON", description="Represents the consumption of NON-ANIMAL food sources. This includes Grass, Leaves, Fruits, Seeds, Bark, Nectar and Aquatic Plants.")
 
 class HasConservationStatusRel(BaseModel):
     source: str = Field(..., description="Name of the Species")
@@ -424,21 +425,8 @@ class EntityExtractor:
         Review step to consolidate the entities and relationships extracted for a chunk.
         """
 
-        # Formateo limpio para que el LLM lo lea sin problemas
-        # initial_entities_json = json.dumps(entities, indent=2)
-        # initial_relations_json = json.dumps(relationships, indent=2)
         initial_entities_json = self._flatten_entities(entities)
         initial_relations_json = self._flatten_relationships(relationships)
-
-#         system_prompt = """You are an expert data reviewer specialized in zoology Knowledge Graphs.
-# Your task is to review an initial extraction of entities and relationships from a text, correct any mistakes, remove hallucinations, and extract ANY missing information.
-
-# CRITICAL RULES (ZERO TOLERANCE FOR HALLUCINATIONS & DUPLICATES):
-# 1. STRICT GROUNDING: Every single entity or relationship you KEEP or ADD must be explicitly stated in the source text, if not, DELETE it. DO NOT use pre-trained knowledge, common sense, or assumptions.
-# 2. SCHEMA & ENUM COMPLIANCE: Strictly adhere to the provided schema descriptions. Never invent new categories or relationship types.
-# 3. DELETE REDUNDANCY: If synonyms were extracted as separate entities, keep the common one and delete the duplicates.
-# 4. STRICTLY NO DUPLICATES IN ADDITIONS: Only add NEW entities or relationships if they are explicitly in the text and COMPLETELY MISSING from the initial extraction. If it is already in the initial extraction, DO NOT add it again.
-# 5. MINIMAL OUTPUT: If the initial extraction is perfect, return empty lists."""
 
         system_prompt = """You are a ruthless Zoology Data Auditor. Your ONLY missions are to purge hallucinations and recover forgotten data from an initial extraction.
 
@@ -450,17 +438,17 @@ CRITICAL RULES:
 5. ZERO DUPLICATES: Never add an omission if it (or a direct synonym) is already present in the INITIAL EXTRACTION. Check the list twice.
 6. SCHEMA STRICTNESS: You must use the exact categories and relationship types provided in the schema."""
 
-#         prompt = f"""Compare the ORIGINAL TEXT against the INITIAL EXTRACTION (Entites and Relationships).
-# Output ONLY the specific items that need to be deleted (hallucinations/redundancies) and the specific NEW items that need to be added. Do not rewrite correct existing data.
+        brief_reasoning_system_prompt = """You are a ruthless Zoology Data Auditor. Your ONLY missions are to purge hallucinations and recover forgotten data from an initial extraction.
 
-# --- ORIGINAL TEXT ---
-# {text}
+CRITICAL RULES:
+1. REASON FIRST: You MUST use the 'thought_process' field to analyze the text before filling any lists. Structure your thoughts using [HALLUCINATION CHECK] and [OMISSION CHECK].
+2. REASONING BREVITY: Limit your 'thought_process' to a MAXIMUM of 3 sentences for hallucinations and 3 sentences for omissions. Be direct, no fluff.
+3. THE HALLUCINATION PURGE (DELETE): Every single entity and relationship in the INITIAL EXTRACTION must be explicitly backed by the text. If it relies on biological world knowledge or assumptions, YOU MUST DELETE IT.
+4. BEWARE OF NEGATIONS & CONTRASTS: Pay extremely close attention to words like 'not', 'never', 'unlike', or 'while'. If the text states an animal DOES NOT do something, and the extraction says it does, DELETE IT.
+5. SCHEMA-BOUND OMISSION (ADD): If a fact is clearly stated in the text but missing from the extraction, YOU CAN ONLY ADD IT IF IT FITS AN EXACT SCHEMA CATEGORY (e.g., 'Species', 'Habitat', 'Location'). 
+6. ZERO DUPLICATES: Never add an omission if it (or a direct synonym) is already present in the INITIAL EXTRACTION. Check the list twice.
+7. SCHEMA STRICTNESS: You must use the exact categories and relationship types provided in the schema."""
 
-# --- INITIAL ENTITIES ---
-# {initial_entities_json}
-
-# --- INITIAL RELATIONSHIPS ---
-# {initial_relations_json}"""
 
         prompt = f"""Execute your audit on the data below.
 
@@ -485,9 +473,22 @@ STEP 3: Generate the JSON patch using your thought process as a guide.
             if extraction is None:
                 return entities, relationships
 
-        except ValidationError as e:
+        except Exception as e:
             print(e)
-            return entities, relationships
+            print("Reintentando revisión con un razonamiento más breve")
+            try:
+                extraction: GraphPatch = self.client.structured_output(
+                    prompt=prompt,
+                    schema=GraphPatch,
+                    system_prompt=brief_reasoning_system_prompt
+                )
+                
+                if extraction is None:
+                    return entities, relationships
+            except Exception as e:
+                print(e)
+                print("Error en la segunda revisión. Se añadirán las entidades y relaciones extraídas inicialmente.")
+                return entities, relationships
         
         # ==========================================
         # 1. PROCESAR ELIMINACIONES (ALUCINACIONES)

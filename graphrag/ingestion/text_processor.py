@@ -36,8 +36,8 @@ class TextProcessor:
 
         self.gemini_client = GeminiClient()
         self.ollama_client = OllamaClient()
-        self.species_names = species_names
-        self.species_names_lower = [animal.lower() for animal in species_names]
+        self.species_names = set(species_names)
+        self.species_names_lower = {animal.lower() for animal in species_names}
 
 
     def _load_species_names(self):
@@ -68,11 +68,11 @@ class TextProcessor:
 
         # 2. Dividir en chunks
         chunks = chunk_text(text, self.chunk_size, self.chunk_overlap)
-        chunks=chunks[20:]
+        chunks=chunks[4:]
         print(f"Documento dividido en {len(chunks)} chunks")
 
-        # 3. Procesar cada chunk (numeración empieza en 14)
-        for i, chunk in enumerate(tqdm(chunks, desc="Procesando chunks"),start=20):
+        # 3. Procesar cada chunk
+        for i, chunk in enumerate(tqdm(chunks, desc="Procesando chunks"), start=4):
             chunk_id = f"{document_id}_chunk_{i}"
             self._process_chunk(chunk_id, chunk.page_content, chunk.metadata, document_id, i)
             time.sleep(2)
@@ -324,15 +324,23 @@ class TextProcessor:
         Utiliza el LLM para evaluar si el nombre extraído es un sinónimo, 
         variación o el mismo animal que alguno de la lista species_names. Si es nuevo, obtiene su nombre común.
         """
+        extracted_name_lower = extracted_name.lower()
         # Si los nombres de la especie coinciden exactamente no se realiza la llamada al LLM
-        if extracted_name.lower() in self.species_names_lower:
-            return extracted_name.title()
+        if extracted_name_lower in self.species_names_lower:
+            return extracted_name.title()     
+        # Si el nombre del animal está en plural, comprobamos si coincide con alguan especie de la lista eliminando la 's' final.
+        elif extracted_name_lower.endswith('s'):
+            singular_name = extracted_name_lower[:-1]
+            if singular_name in self.species_names_lower:
+                return extracted_name[:-1].title()
+        
+        extracted_name = extracted_name.title()
 
         system_prompt = """You are an expert Knowledge Graph engineer and taxonomist working with a simplified, high-level animal ontology. 
         Your task is Entity Resolution. You will be given an extracted animal name and a canonical list of base animal entities.
                 
         Rules:
-        1. SYNONYMS & EXACT MATCHES: If the extracted name is a known synonym, regional name, or refers to the same animal as one in the canonical list (e.g., 'Cougar' -> 'Mountain Lion', 'Orca' -> 'Killer Whale'), set status to 'MATCH' and output the exact matching name from the canonical list.
+        1. SYNONYMS & EXACT MATCHES: If the extracted name is a plural form (e.g., 'Snakes' -> 'Snake', 'Wolves' -> 'Wolf'), a known synonym, regional name, or refers to the same animal as one in the canonical list (e.g., 'Cougar' -> 'Mountain Lion', 'Orca' -> 'Killer Whale'), set status to 'MATCH' and output the exact matching name from the canonical list.
 
         2. GENERALIZATION (SUB-SPECIES TO PARENT): If the extracted name is a specific type, breed, or sub-species of a broader generic animal that is already present in the canonical list, you MUST generalize it to the broader entity. Set status to 'MATCH'. 
         Examples: 
@@ -363,8 +371,8 @@ class TextProcessor:
         final_name_lower = final_name.lower()
 
         if resolution.status == "NEW" and final_name_lower not in self.species_names_lower:
-            self.species_names.append(final_name)
-            self.species_names_lower.append(final_name_lower)
+            self.species_names.add(final_name)
+            self.species_names_lower.add(final_name_lower)
             print(f"Nueva especie añadida: {final_name}")
             
         return final_name

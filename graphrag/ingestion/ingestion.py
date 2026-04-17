@@ -11,7 +11,7 @@ DATA_DIR = Path("../../scraping/data/")
 PROCESSED_FILE_PATH = Path("./processed_animals.txt")
 
 initial_animals = [
-    "Tiger", "Lion", "Elephant", "Dolphin", "Giant Panda", "Horse", "Penguin", "Wolf", "Shark", "Rabbit",
+    "Tiger", "Crocodile", "Lion", "Elephant", "Dolphin", "Giant Panda", "Horse", "Penguin", "Wolf", "Shark", "Rabbit",
     "Gorilla", "Giraffe", "Cheetah", "Polar Bear", "Hippopotamus", "Zebra", "Red Panda", "Kangaroo", "Koala", "Sloth",
     "Meerkat", "Rhinoceros", "Snow Leopard", "Orangutan", "Chimpanzee", "Platypus", "Lemur", "Capybara", "Sea Otter", "Arctic Fox",
     "Jaguar", "Black Panther", "Brown Bear", "Okapi", "Tasmanian Devil", "Wombat", "Quokka", "Hedgehog", "Fennec Fox", "Bald Eagle",

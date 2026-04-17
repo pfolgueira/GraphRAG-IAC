@@ -14,7 +14,7 @@ class GeminiClient:
     def __init__(self):
         self.settings = get_gemini_settings()
         # Instanciamos el cliente en lugar de configurar globalmente
-        self.client = genai.Client(api_key=self.settings.gemini_api_key)
+        self.client = genai.Client(api_key=self.settings.gemini_api_key, http_options={'timeout': 300_000})
 
     def _parse_messages(self, messages: List[Dict[str, str]]) -> tuple[Optional[str], List[types.Content]]:
         """Adapta el historial al formato estricto de types.Content de la nueva API."""
@@ -41,9 +41,9 @@ class GeminiClient:
 
     def _rate_limit_delay(self):
         """
-        Pausa de 5 segundos antes de cada llamada.
+        Pausa de 8 segundos antes de cada llamada.
         """
-        time.sleep(5)
+        time.sleep(8)
 
     def chat(
             self,
@@ -85,32 +85,13 @@ class GeminiClient:
     ) -> T:
         """Fuerza al modelo a devolver un objeto basado en un esquema de Pydantic."""
         model_name = model or self.settings.gemini_model
-
-        safety_settings = [
-            types.SafetySetting(
-                category="HARM_CATEGORY_DANGEROUS_CONTENT",
-                threshold="BLOCK_NONE",
-            ),
-            types.SafetySetting(
-                category="HARM_CATEGORY_HATE_SPEECH",
-                threshold="BLOCK_NONE",
-            ),
-            types.SafetySetting(
-                category="HARM_CATEGORY_HARASSMENT",
-                threshold="BLOCK_NONE",
-            ),
-            types.SafetySetting(
-                category="HARM_CATEGORY_SEXUALLY_EXPLICIT",
-                threshold="BLOCK_NONE",
-            )
-        ]
         
         config = types.GenerateContentConfig(
             temperature=0.0,
             system_instruction=system_prompt,
             response_mime_type="application/json",
             response_schema=schema,
-            safety_settings=safety_settings
+            max_output_tokens=65536
         )
 
         self._rate_limit_delay()
