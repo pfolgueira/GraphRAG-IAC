@@ -1,6 +1,7 @@
 import pytest
 from graphrag.graph.neo4j_manager import Neo4jManager
-from graphrag.retrieval.vector_retriever import VectorRetriever, HybridRetriever
+from graphrag.retrieval.vector_retriever import VectorRetriever
+from graphrag.retrieval.hybrid_retriever import HybridRetriever
 from graphrag.retrieval.text2cypher import Text2CypherRetriever
 from graphrag.ingestion.text_processor import TextProcessor
 

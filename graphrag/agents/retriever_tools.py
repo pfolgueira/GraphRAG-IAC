@@ -1,5 +1,6 @@
 from typing import List, Dict, Any, Callable, TypedDict
-from ..retrieval.vector_retriever import VectorRetriever, HybridRetriever
+from ..retrieval.vector_retriever import VectorRetriever
+from ..retrieval.hybrid_retriever import HybridRetriever
 from ..retrieval.text2cypher import Text2CypherRetriever
 from ..graph.neo4j_manager import Neo4jManager
 

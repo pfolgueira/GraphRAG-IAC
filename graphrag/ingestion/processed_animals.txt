@@ -17,3 +17,4 @@ blue_jay.md
 rhinoceros.md
 buffalo.md
 clownfish.md
+giraffe.md

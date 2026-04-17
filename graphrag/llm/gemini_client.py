@@ -14,7 +14,7 @@ class GeminiClient:
     def __init__(self):
         self.settings = get_gemini_settings()
         # Instanciamos el cliente en lugar de configurar globalmente
-        self.client = genai.Client(api_key=self.settings.gemini_api_key, http_options={'timeout': 300_000})
+        self.client = genai.Client(api_key=self.settings.gemini_api_key, http_options={'timeout': 150_000})
 
     def _parse_messages(self, messages: List[Dict[str, str]]) -> tuple[Optional[str], List[types.Content]]:
         """Adapta el historial al formato estricto de types.Content de la nueva API."""
@@ -96,7 +96,6 @@ class GeminiClient:
 
         self._rate_limit_delay()
 
-        # Para un único prompt, podemos pasar el string directamente
         response = self.client.models.generate_content(
             model=model_name,
             contents=prompt,
