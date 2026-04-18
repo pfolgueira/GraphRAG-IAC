@@ -39,16 +39,16 @@ class VectorRetriever:
 
         # Recuperar candidatos por vector search de preguntas
         candidates = self._retrieve_question_candidates(query_embedding, top_k_candidates)
-        if not candidates:
-            return []
+        
+        return candidates
 
-        # Rerank por relevancia query-document con bge-reranker-v2-m3
-        reranked = self._rerank_candidates(query, candidates)
-        if not reranked:
-            # Fallback si el reranker no está disponible.
-            return candidates[:top_k]
+        # # Rerank por relevancia query-document con bge-reranker-v2-m3
+        # reranked = self._rerank_candidates(query, candidates)
+        # if not reranked:
+        #     # Fallback si el reranker no está disponible.
+        #     return candidates[:top_k]
 
-        return reranked[:top_k]
+        # return reranked[:top_k]
 
     def _retrieve_question_candidates(
             self,
@@ -68,101 +68,103 @@ class VectorRetriever:
         ORDER BY score DESC
         """
 
-        return self.neo4j.execute_query(cypher_query, {
+        results = self.neo4j.execute_query(cypher_query, {
             "query_embedding": query_embedding,
             "top_k_candidates": top_k_candidates
         })
 
-    def _rerank_candidates(
-            self,
-            query: str,
-            candidates: List[Dict[str, Any]]
-    ) -> List[Dict[str, Any]]:
-        """Rerankea candidatos con Transformers (BAAI/bge-reranker-v2-m3)."""
-        documents = [candidate.get("text", "") for candidate in candidates]
-        if not documents:
-            return []
+    #     return results
 
-        if not self._ensure_transformers_reranker_loaded():
-            return []
+    # def _rerank_candidates(
+    #         self,
+    #         query: str,
+    #         candidates: List[Dict[str, Any]]
+    # ) -> List[Dict[str, Any]]:
+    #     """Rerankea candidatos con Transformers (BAAI/bge-reranker-v2-m3)."""
+    #     documents = [candidate.get("text", "") for candidate in candidates]
+    #     if not documents:
+    #         return []
 
-        try:
-            scores = self._score_with_transformers(query, documents)
-        except Exception as e:
-            print(f"Reranker no disponible, usando ranking vectorial original: {e}")
-            return []
+    #     if not self._ensure_transformers_reranker_loaded():
+    #         return []
 
-        rerank_results = sorted(
-            [{"index": idx, "relevance_score": score} for idx, score in enumerate(scores)],
-            key=lambda x: x["relevance_score"],
-            reverse=True
-        )
+    #     try:
+    #         scores = self._score_with_transformers(query, documents)
+    #     except Exception as e:
+    #         print(f"Reranker no disponible, usando ranking vectorial original: {e}")
+    #         return []
 
-        output: List[Dict[str, Any]] = []
-        for item in rerank_results:
-            idx = item.get("index")
-            if idx is None or idx < 0 or idx >= len(candidates):
-                continue
+    #     rerank_results = sorted(
+    #         [{"index": idx, "relevance_score": score} for idx, score in enumerate(scores)],
+    #         key=lambda x: x["relevance_score"],
+    #         reverse=True
+    #     )
 
-            ranked_item = dict(candidates[idx])
-            ranked_item["rerank_score"] = item.get("relevance_score", 0.0)
-            output.append(ranked_item)
+    #     output: List[Dict[str, Any]] = []
+    #     for item in rerank_results:
+    #         idx = item.get("index")
+    #         if idx is None or idx < 0 or idx >= len(candidates):
+    #             continue
 
-        return output
+    #         ranked_item = dict(candidates[idx])
+    #         ranked_item["rerank_score"] = item.get("relevance_score", 0.0)
+    #         output.append(ranked_item)
 
-    def _ensure_transformers_reranker_loaded(self) -> bool:
-        """Carga perezosa del modelo de reranking."""
-        if self._reranker_model is not None and self._reranker_tokenizer is not None:
-            return True
+    #     return output
 
-        try:
-            torch = importlib.import_module("torch")
-            transformers = importlib.import_module("transformers")
-            AutoTokenizer = getattr(transformers, "AutoTokenizer")
-            AutoModelForSequenceClassification = getattr(transformers, "AutoModelForSequenceClassification")
-        except Exception as e:
-            print(f"No se pudo importar transformers/torch: {e}")
-            return False
+    # def _ensure_transformers_reranker_loaded(self) -> bool:
+    #     """Carga perezosa del modelo de reranking."""
+    #     if self._reranker_model is not None and self._reranker_tokenizer is not None:
+    #         return True
 
-        self._reranker_device = "cuda" if torch.cuda.is_available() else "cpu"
+    #     try:
+    #         torch = importlib.import_module("torch")
+    #         transformers = importlib.import_module("transformers")
+    #         AutoTokenizer = getattr(transformers, "AutoTokenizer")
+    #         AutoModelForSequenceClassification = getattr(transformers, "AutoModelForSequenceClassification")
+    #     except Exception as e:
+    #         print(f"No se pudo importar transformers/torch: {e}")
+    #         return False
 
-        self._reranker_tokenizer = AutoTokenizer.from_pretrained(self.reranker_model)
-        self._reranker_model = AutoModelForSequenceClassification.from_pretrained(self.reranker_model)
-        self._reranker_model.to(self._reranker_device)
-        self._reranker_model.eval()
-        return True
+    #     self._reranker_device = "cuda" if torch.cuda.is_available() else "cpu"
 
-    def _score_with_transformers(self, query: str, documents: List[str]) -> List[float]:
-        """Calcula scores de relevancia para pares (query, document)."""
-        torch = importlib.import_module("torch")
+    #     self._reranker_tokenizer = AutoTokenizer.from_pretrained(self.reranker_model)
+    #     self._reranker_model = AutoModelForSequenceClassification.from_pretrained(self.reranker_model)
+    #     self._reranker_model.to(self._reranker_device)
+    #     self._reranker_model.eval()
+    #     return True
 
-        scores: List[float] = []
-        total = len(documents)
+    # def _score_with_transformers(self, query: str, documents: List[str]) -> List[float]:
+    #     """Calcula scores de relevancia para pares (query, document)."""
+    #     torch = importlib.import_module("torch")
 
-        for start in range(0, total, self.reranker_batch_size):
-            batch_docs = documents[start:start + self.reranker_batch_size]
-            batch_pairs = [[query, doc] for doc in batch_docs]
+    #     scores: List[float] = []
+    #     total = len(documents)
 
-            encoded = self._reranker_tokenizer(
-                batch_pairs,
-                padding=True,
-                truncation=True,
-                max_length=self.reranker_max_length,
-                return_tensors="pt"
-            )
-            encoded = {k: v.to(self._reranker_device) for k, v in encoded.items()}
+    #     for start in range(0, total, self.reranker_batch_size):
+    #         batch_docs = documents[start:start + self.reranker_batch_size]
+    #         batch_pairs = [[query, doc] for doc in batch_docs]
 
-            with torch.no_grad():
-                logits = self._reranker_model(**encoded).logits
+    #         encoded = self._reranker_tokenizer(
+    #             batch_pairs,
+    #             padding=True,
+    #             truncation=True,
+    #             max_length=self.reranker_max_length,
+    #             return_tensors="pt"
+    #         )
+    #         encoded = {k: v.to(self._reranker_device) for k, v in encoded.items()}
 
-            if logits.dim() == 2:
-                batch_scores = logits[:, 0]
-            else:
-                batch_scores = logits
+    #         with torch.no_grad():
+    #             logits = self._reranker_model(**encoded).logits
 
-            scores.extend(batch_scores.detach().cpu().tolist())
+    #         if logits.dim() == 2:
+    #             batch_scores = logits[:, 0]
+    #         else:
+    #             batch_scores = logits
 
-        return [float(score) for score in scores]
+    #         scores.extend(batch_scores.detach().cpu().tolist())
+
+    #     return [float(score) for score in scores]
 
     def retrieve_with_entities(self, query: str, top_k: int = None) -> List[Dict[str, Any]]:
         """

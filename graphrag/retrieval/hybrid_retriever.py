@@ -33,7 +33,7 @@ class HybridRetriever:
         fulltext_results: List[Dict[str, Any]],
         top_k: int,
     ) -> List[Dict[str, Any]]:
-        """Fusiona resultados normalizando scores y aplicando pesos por fuente."""
+        """Fusiona resultados normalizando scores y ponderando cada retriever."""
         weight_vector = 0.6
         weight_fulltext = 0.4
 
