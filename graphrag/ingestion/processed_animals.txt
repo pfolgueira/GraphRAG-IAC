@@ -18,3 +18,4 @@ rhinoceros.md
 buffalo.md
 clownfish.md
 giraffe.md
+horse.md

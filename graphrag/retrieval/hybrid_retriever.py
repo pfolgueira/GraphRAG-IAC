@@ -19,19 +19,17 @@ class HybridRetriever:
         """
         Combina resultados de búsqueda vectorial y full-text en un ranking único.
         """
-        top_k = top_k or self.settings.top_k_results
+        top_k_candidates = self.settings.top_k_candidates
+        top_k_results = top_k or self.settings.top_k_results
 
-        # Recuperamos más candidatos para mejorar la mezcla final.
-        candidate_k = max(top_k * 2, top_k)
+        vector_results = self.vector_retriever.retrieve(query=query, top_k=top_k_candidates)
+        fulltext_results = self.fulltext_retriever.retrieve(query=query, top_k=top_k_candidates)
 
-        vector_results = self.vector_retriever.retrieve(query=query, top_k=candidate_k)
-        fulltext_results = self.fulltext_retriever.retrieve(query=query, top_k=candidate_k)
-
-        fused_candidates = self._fuse_results(vector_results, fulltext_results, top_k=candidate_k)
+        fused_candidates = self._fuse_results(vector_results, fulltext_results, top_k=top_k_candidates)
 
         reranked_results = self._rerank_results(query, fused_candidates)
 
-        return reranked_results[:top_k]
+        return reranked_results[:top_k_results]
 
     def _rerank_results(self, query: str, candidates: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """Aplica un modelo Cross-Encoder para reordenar los candidatos de forma precisa."""

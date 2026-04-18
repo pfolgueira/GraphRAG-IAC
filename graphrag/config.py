@@ -16,6 +16,7 @@ class Settings(BaseSettings):
     # Processing
     chunk_size: int = 500
     chunk_overlap: int = 50
+    top_k_candidates: int = 15
     top_k_results: int = 5
 
     # Configuración de Pydantic V2: ignora variables en el .env que no estén en esta clase

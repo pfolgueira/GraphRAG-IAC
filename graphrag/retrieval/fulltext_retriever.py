@@ -28,7 +28,7 @@ class FullTextRetriever:
         """
         Recupera chunks usando búsqueda vectorial pura de texto completo.
         """
-        top_k = top_k or self.settings.top_k_results
+        top_k = top_k or self.settings.top_k_candidates
 
         # Construir el prompt para el LLM
         system_prompt = """You are a precise keyword extraction assistant for an Animal Knowledge Graph. 
