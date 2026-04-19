@@ -14,7 +14,7 @@ class GeminiClient:
     def __init__(self):
         self.settings = get_gemini_settings()
         # Instanciamos el cliente en lugar de configurar globalmente
-        self.client = genai.Client(api_key=self.settings.gemini_api_key, http_options={'timeout': 150_000})
+        self.client = genai.Client(api_key=self.settings.gemini_api_key, http_options={'timeout': 60_000})
 
     def _parse_messages(self, messages: List[Dict[str, str]]) -> tuple[Optional[str], List[types.Content]]:
         """Adapta el historial al formato estricto de types.Content de la nueva API."""
@@ -41,7 +41,7 @@ class GeminiClient:
 
     def _rate_limit_delay(self):
         """
-        Pausa de 8 segundos antes de cada llamada.
+        Pausa de 5 segundos antes de cada llamada.
         """
         time.sleep(8)
 

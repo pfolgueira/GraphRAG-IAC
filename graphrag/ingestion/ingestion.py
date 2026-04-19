@@ -67,9 +67,12 @@ def main():
 
     print(f"Total de archivos: {len(files)} | Procesados: {len(processed_animals)} | Pendientes: {len(pending_animals)}")
 
-    files_to_process = 1
+    #files_to_process = 1
+
+    pending_animals = [f for f in pending_animals if f.name == "dolphin.md"]
     
-    for file in pending_animals[:files_to_process]:
+    #for file in pending_animals[:files_to_process]:
+    for file in pending_animals:
         print(f"Procesando {file.name}")
         
         try:
