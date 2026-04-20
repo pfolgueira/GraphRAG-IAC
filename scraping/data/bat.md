@@ -1,0 +1,51 @@
+# Bat
+
+#### “A mother bat gives birth to her babies while hanging upside down.”
+
+There are 47 species of bats living in the United States and 1300 species of bats in total. Bats live in many types of environments except in extremely cold places (polar regions) and extremely hot ones (deserts). Bats are important pollinators and help to control the population of insects. These animals are social and live in groups that can number in the hundreds of thousands! Though vampire bats are the most well-known, there are only three species of bats that use another animal’s blood as food.
+
+## 5 Bat Facts
+
+- Some bats travel up to 2,400 miles each year to spend the winter in a place with a warm climate
+- 70% of all bats feed on beetles, moths, flies, mosquitoes, and other insects
+- The biggest type of bat in the world is known as the Pteropus
+- Bats have been known to survive for over 20 years
+- A bat is a mammal that can fly without ever gliding. Some bats are extremely fast. The Mexican free-tailed bat can reach speeds of more than 100 miles per hour, making it the fastest animal in North America.
+
+## Scientific Name
+
+Bat is the common name of this remarkable animal, while Chiroptera is its scientific name. The bat has a classification as Mammalia and is in the Microchiroptera family. The Brazilian free-tailed bat has a subspecies called the Mexican free-tailed bat that lives in the southern part of the United States. Also, the Virginia big-eared bat is a subspecies of Townsend’s big-eared bat. A bat’s scientific name is taken from the Greek words cheir, meaning hand, and pteron, meaning wing. This is because the parts of a bat’s wing resemble that of a hand with four ‘fingers’ covered with a thin membrane.
+
+## Evolution and Origins
+
+Most scientists agree that bats must have evolved from mammals, but there is not enough evidence to know which ancestor they came from. Bats first appeared in the fossil record around 50 million years ago, during the Eocene. Scientists have found remains ranging from teeth and bits of the jaw to full skeletons in places like Wyoming, Paris, Australia, and India. They now think that bats evolved from small, rodent-like animals, including animals such as rats.
+
+The first bats were different from their modern relatives in some ways. For example, scientists know from the ear anatomy of better-preserved specimens that the first bats couldn’t echolocate. They used only sight, smell, and touch to find their meals. Today, bats have a claw only on the equivalent of our thumb, but early bats kept some additional finger claws from their ancestors. A bat fossil dating to about 52 million years ago, called Onychonycteris finneryi, had claws on each of its five fingers. New technology is helping fill in a few of the gaps. A recent study of coloration in the fossil record found that two 48 million-year-old bats found in Germany were mostly brown.
+
+Despite the progress made, scientists are still left with some big questions. For example, they are unsure where the 50-million-year-old bat specimens came from. They are also uncertain about when, where, why, and how the first bats became airborne. This information is hidden by the vast amount of time that has passed.
+
+## Appearance and Behavior
+
+A bat has a thin layer of brown, black, or gray fur. They have small or large ears and small black eyes. Depending on its species, a bat can weigh as little as .07 ounces. Think of a bat that weighs .07 ounces as being lighter than a single penny. The largest species of bat can weigh up to 3.3 pounds. A bat weighing 3.3 pounds is about as heavy as half of an average-sized brick. The wings of a bat are its most memorable feature. A bat’s wing has four bones that you can think of as its fingers, as well as a bone serving as a thumb. A thin layer of skin called a membrane connects these bones creating a bat’s flexible wing. If you’ve ever watched a bat fly, you know it can change direction in an instant. It’s these flexible finger bones in their wings that give them that skill. A bat’s wings also give it speed. The fastest bat can travel 99 mph. When it comes to wingspan, the largest species of bat, known as a flying fox, has a wingspan of five feet! When a flying fox stretches its wings to full length, it would be almost as long/tall as a home’s refrigerator. The smallest species of bat, the Kitti-hognosed bat, has a wingspan of a little less than six inches. This is less than half the length of a ruler you may use in school. Bats are social animals and live in groups called colonies. (Though they like being around other bats, they are shy and will avoid people.) Sometimes a colony of bats can number in the hundreds of thousands. Living together is how a bat protects itself from predators. If an owl invades a colony of bats, most of the bats will be able to escape. The largest colony of bats is located in the Philippines. The Monfort bat colony there has 3 million bats and counting. Safety in numbers!
+
+## Habitat
+
+Bats live on many continents , including Asia, North America, South America, Africa, Europe, and Australia. However, there are no bats living in Antarctica because they prefer warm climates. When you think of a bat’s home, you may imagine a colony of bats hanging from the ceiling of a cave. Bats also live in trees, under bridges, in burrows, and even in manmade bat houses. They choose a place to roost where they’ll be hidden from predators and able to sleep during the day. Bats wrap their flexible wings around them when they sleep. Some bats migrate to warmer places for the winter months. These flying mammals hibernate from about October or November until spring arrives in March. A bat living in a place where the temperature doesn’t fall below 45 degrees may not migrate to a warmer climate.
+
+Learn more about other animal species that hibernate here.
+
+## Diet
+
+What do bats eat? Many bats eat insects such as mosquitoes, moths, cockroaches, and beetles. A little brown bat can eat 500 insects in one hour. A colony of bats can consume 500,000 pounds of bugs per night. 500,000 pounds of bugs is equal to the weight of two blue whales! Bats use echolocation to find their prey. As a bat flies, it lets out high-pitched squeaks and clicks that humans can’t hear. When the sound waves created by a bat’s squeak hit an object, the sound echoes back to the bat. Think of echolocation as a bat’s personal radar system. Other bats have a diet of nectar. These bats drink nectar from flowers just as hummingbirds do. Some bats eat fruit by sucking the juices of a ripe piece of fruit and spitting out the seeds. In addition, there are bats that eat fish. They fly over the water, grabbing fish with their claws. You’re probably familiar with the vampire bat. There are three types of these bats that drink blood from mammals such as cows or birds. They are found in South America and Mexico. It’s a myth that vampire bats suck the blood from these animals. Instead, they bite a cow, a sheep, or a bird while it’s sleeping and lick the blood as it seeps out of the animal’s leg or other body parts. This bat only takes in about two teaspoons of an animal’s blood.
+
+## Predators and Threats
+
+Bats have a few predators, including owls, falcons, eagles, snakes, raccoons, and cats. An owl may sit on a tree near a cave or bridge where a bat is sleeping and capture it as it flies out to hunt in the evening. Alternatively, a raccoon or snake may pick up a baby bat that’s fallen from its mother’s grasp and landed on the ground. Bats face the threat of loss of habitat due to people clearing trees to build homes and businesses. If they’re disturbed during the hibernation period, they can starve or die due to exposure to the cold. Also, when land and crops are cleared, it can remove the food source of bats. Some bats are threatened in cultures that use them for food or medicine. The conservation status of bats is the Least Concerned . Many bat conservation groups offer suggestions to the public on how they can help make sure bats continue to thrive and grow in population. Some of those suggestions include avoiding the use of pesticides in gardens and building a bat house to provide protection for local bats. Also, if you find a bat in hibernation, don’t disturb it.
+
+## Reproduction, Babies, and Lifespan
+
+Did you know a bat can sing? Male bats sing and unfold their wings to attract female bats during mating season. Unfortunately, people can’t hear the high-pitched song of bats. A male bat marks its territory during mating time with liquid from its scent glands. Bats swarm during this time, allowing them to find a mate. A female bat can be pregnant for 40 days or six months, depending on its species. Most have one baby once a year. A mother bat gives birth to her baby or pup while she is hanging upside down. She must catch her pup with her wings after it’s born! A pup weighs about ¼ of the total weight of its mother. So, if a pup’s mom weighs one pound, the baby weighs just ¼ of a pound. A pup of this size is not quite as heavy as a hamster. A pup is born blind and without hair. It drinks milk from its mother for up to six months and clings to her as she flies. After six months, a mother teaches her pup to fly and hunt for food. Once a pup learns these skills, it’s able to survive on its own. Depending on its species, a bat can live from 5 to 30 years. Scientists have observed that hibernating bats have a tendency to live longer than non-hibernating ones. In many species of bats, females live longer than males. The oldest bat on record lived to be 41 years old! A disease known as White-nose syndrome is responsible for killing both young and older bats as they hibernate. This disease takes away from a bat’s store of fat as it sleeps. This can cause the bat to wake up and fly out of the cave in search of food. Chances are that the weakened bat will starve because the supply of insects is low in the wintertime.
+
+## Population
+
+There are 1,300 species of bats throughout the world. The highest concentration of bat species lives near the equator. The conservation status of bats is Least Threatened, and the population is holding fairly steady. However, conservation efforts are always in place for bats because most have just one pup per year.

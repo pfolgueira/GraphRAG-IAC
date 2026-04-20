@@ -69,7 +69,7 @@ def main():
 
     #files_to_process = 1
 
-    pending_animals = [f for f in pending_animals if f.name == "dolphin.md"]
+    pending_animals = [f for f in pending_animals if f.name == "earthworm.md"]
     
     #for file in pending_animals[:files_to_process]:
     for file in pending_animals:

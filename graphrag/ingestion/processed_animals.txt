@@ -39,3 +39,17 @@ blue_whale.md
 cheetah.md
 kangaroo.md
 tiger.md
+dolphin.md
+seahorse.md
+zebra.md
+donkey.md
+hedgehog.md
+jellyfish.md
+axolotl.md
+platypus.md
+spider.md
+ant.md
+bat.md
+frog.md
+snake.md
+earthworm.md
