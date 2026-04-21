@@ -1,0 +1,7 @@
+question;cypher;tool
+Hello!;RETURN 'Hello! I am a knowledge assistant specialized in the animal kingdom. You can ask me about their taxonomy, physical or behavioral traits, diet, habitats, and conservation status.' AS ground_truth;greeting
+What can you do?;RETURN 'I can answer detailed questions about specific animals. You can ask me to explore their taxonomic classification (family, genus, species), their physical characteristics, what they eat, where they live, or their conservation status.' AS ground_truth;skills
+What is the weather like today?;RETURN 'Sorry, this question is outside my scope. I am designed to answer questions exclusively about zoology and animal biology. If you have a question about the animal world, I''m ready to help!' AS ground_truth;out_of_scope
+Good morning;RETURN 'Hello! I am a knowledge assistant specialized in the animal kingdom. You can ask me about their taxonomy, physical or behavioral traits, diet, habitats, and conservation status.' AS ground_truth;greeting
+What kind of questions can I ask you?;RETURN 'I can answer detailed questions about specific animals. You can ask me to explore their taxonomic classification (family, genus, species), their physical characteristics, what they eat, where they live, or their conservation status.' AS ground_truth;skills
+Can you give me a recipe for paella?;RETURN 'Sorry, this question is outside my scope. I am designed to answer questions exclusively about zoology and animal biology. If you have a question about the animal world, I''m ready to help!' AS ground_truth;out_of_scope
