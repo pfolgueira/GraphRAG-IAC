@@ -24,9 +24,51 @@ class RetrieverTools:
             "description": description
         }
 
+    _GREETING_RESPONSE = (
+        "Hello! I am a knowledge assistant specialized in the animal kingdom. "
+        "You can ask me about their taxonomy, physical or behavioral traits, diet, habitats, and "
+        "conservation status."
+    )
+    _OUT_OF_SCOPE_RESPONSE = (
+        "Sorry, this question is outside my scope. "
+        "I am designed to answer questions exclusively about zoology and animal biology. "
+        "If you have a question about the animal world, I'm ready to help!"
+    )
+    _SKILLS_RESPONSE = (
+        "I can answer detailed questions about specific animals. You can ask me to explore "
+        "their taxonomic classification (family, genus, species), their physical characteristics, "
+        "what they eat, where they live, or their conservation status."
+    )
+
     def get_tool_descriptions(self) -> List[Dict[str, Any]]:
         """Obtiene las descripciones de todas las herramientas disponibles."""
         tools = [
+            {
+                "name": "greeting",
+                "description": (
+                    "Handle conversational messages that need no knowledge lookup: "
+                    "greetings, farewells, or basic thanks. Do not use for questions about capabilities."
+                ),
+                "parameters": {}
+            },
+            {
+                "name": "out_of_scope",
+                "description": (
+                    "Handle questions clearly unrelated to zoology, specific animal species, taxonomy, "
+                    "or animal traits (e.g., politics, coding, sports, weather, etc.). "
+                    "Questions about specific countries or regions are IN-SCOPE only if asking about "
+                    "the animals that live there."
+                ),
+                "parameters": {}
+            },
+            {
+                "name": "skills",
+                "description": (
+                    "Describe the system's capabilities. Use this when the user asks what you can do, "
+                    "how you work, or what kind of questions about animals and zoology they can ask."
+                ),
+                "parameters": {}
+            },
             {
                 "name": "vector_search",
                 "description": "Search for relevant information using semantic similarity. Best for finding conceptually related content.",
@@ -62,6 +104,33 @@ class RetrieverTools:
 
     def execute_tool(self, tool_name: str, **kwargs) -> Dict[str, Any]:
         """Ejecuta una herramienta específica."""
+        # ====================================================================
+        # HERRAMIENTAS QUE NO REQUIEREN BÚSQUEDA DE CONOCIMIENTO EN EL SISTEMA
+        # ====================================================================
+        if tool_name == "greeting":
+            return {
+                "tool": tool_name,
+                "results": [],
+                "context": [],
+                "direct_response": self._GREETING_RESPONSE,
+            }
+
+        if tool_name == "out_of_scope":
+            return {
+                "tool": tool_name,
+                "results": [],
+                "context": [],
+                "direct_response": self._OUT_OF_SCOPE_RESPONSE,
+            }
+
+        if tool_name == "skills":
+            return {
+                "tool": tool_name,
+                "results": [],
+                "context": [],
+                "direct_response": self._SKILLS_RESPONSE,
+            }
+        
         if tool_name == "vector_search":
             results = self.vector_retriever.retrieve(kwargs.get("query", ""))
             return {

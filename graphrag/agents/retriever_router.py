@@ -1,4 +1,4 @@
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 from ..llm.ollama_client import OllamaClient
 from .retriever_tools import RetrieverTools
 from typing import Literal
@@ -8,7 +8,10 @@ from pydantic import BaseModel, Field
 class RouterDecision(BaseModel):
     """Schema for the LLM's routing decision."""
 
-    tool: Literal["vector_search", "hybrid_search", "text2cypher"] = Field(
+    tool: Literal[
+        "vector_search", "hybrid_search", "text2cypher",
+        "greeting", "out_of_scope",
+    ] = Field(
         ...,
         description="The name of the tool selected to handle the query."
     )
@@ -27,7 +30,7 @@ class RetrieverRouter:
         self.tools = retriever_tools
         self.client = OllamaClient()
 
-    def route(self, question: str, conversation_history: List[Dict[str, str]] = None) -> RouterDecision:
+    def route(self, question: str, conversation_history: Optional[List[Dict[str, str]]] = None) -> RouterDecision:
         """
         Selecciona la mejor herramienta para responder la pregunta.
         """
@@ -40,19 +43,31 @@ class RetrieverRouter:
             for tool in tool_descriptions
         ])
 
-        system_prompt = f"""You are a routing assistant that selects the best tool to answer a question.
+        system_prompt = f"""You are a routing assistant for a knowledge base about zoology and animal biology.
+Select the single best tool for the user's question.
 
 Available tools:
 {tools_str}
 
-Analyze the question and select the most appropriate tool. Consider:
-- Use vector_search for conceptual or semantic queries
-- Use hybrid_search for queries that benefit from both semantic and keyword matching
-- Use text2cypher for queries that require:
-  * Counting or aggregation (e.g., "how many", "total", "average")
-  * Complex graph traversals (e.g., "find all connections between X and Y")
-  * Filtering by specific properties
-  * Structured data retrieval
+ROUTING RULES — apply in order:
+
+1. greeting     — Use when the message is conversational and needs NO knowledge lookup:
+   greetings ("Hello", "Hi", "Good morning"), farewells ("Goodbye", "Thanks"),
+   questions about the system ("What can you do?", "How do you work?", "What topics do you cover?").
+
+2. out_of_scope — Use when the question is clearly unrelated to zoology or animals:
+   weather, sports, cooking, geography unrelated to animals, movies, music, politics.
+   Examples: "What is the capital of France?", "Who won the World Cup?".
+
+3. skills - Use when the user asks about the system's capabilities in a general way, but not for specific questions about animals.
+
+4. vector_search — 
+
+5. hybrid_search — 
+
+6. text2cypher   — 
+
+Choose greeting or out_of_scope FIRST before considering any retrieval tool.
 """
 
         messages = [
@@ -63,13 +78,11 @@ Analyze the question and select the most appropriate tool. Consider:
 
         return self.client.structured_output_with_chat(messages, schema=RouterDecision)
 
-    def retrieve(self, question: str, conversation_history: List[Dict[str, str]] = None) -> Dict[str, Any]:
+    def retrieve(self, question: str, conversation_history: Optional[List[Dict[str, str]]] = None) -> Dict[str, Any]:
         """
         Selecciona la herramienta apropiada y ejecuta la búsqueda.
         """
         decision = self.route(question, conversation_history)
-
-        print("Decision: ", decision)
 
         tool_name = decision.tool
         query = decision.query or question
