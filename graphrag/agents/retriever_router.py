@@ -10,7 +10,7 @@ class RouterDecision(BaseModel):
 
     tool: Literal[
         "vector_search", "hybrid_search", "text2cypher",
-        "greeting", "out_of_scope",
+        "greeting", "out_of_scope", "skills"
     ] = Field(
         ...,
         description="The name of the tool selected to handle the query."
