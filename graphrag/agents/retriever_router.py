@@ -94,7 +94,7 @@ Available tools:
 
  6. text2cypher 
 
-# Choose greeting or out_of_scope FIRST before considering any retrieval tool.
+ Choose greeting or out_of_scope FIRST before considering any retrieval tool.
 """
 
         messages = [

@@ -10,12 +10,7 @@ class VectorRetriever:
         self.neo4j = neo4j_manager
         self.embedding_gen = EmbeddingGenerator()
         self.settings = get_settings()
-        self.reranker_model = "BAAI/bge-reranker-v2-m3"
-        self.reranker_batch_size = 8
-        self.reranker_max_length = 512
-        self._reranker_tokenizer = None
-        self._reranker_model = None
-        self._reranker_device = "cpu"
+
         try:
             self.neo4j.create_vector_index(
                 index_name="question_embeddings",
