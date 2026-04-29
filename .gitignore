@@ -20,3 +20,5 @@ dist/
 # IDEs
 .vscode/
 .idea/
+
+.gitmessage
